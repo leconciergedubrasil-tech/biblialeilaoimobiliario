@@ -11,9 +11,10 @@ PREFÁCIO
 
 Por que escrevi este livro
 
-Muito bem, muito boa tarde. Aqui fala Solomon Von Herclestein.
+Declaração de interesse: neste livro divulgo o Hercleus Terminal e o podcast AVVISI, produtos e serviços de minha autoria. Eles podem ser úteis ao leitor e também geram receita para mim.
 
-Hoje nós vamos discutir — ou melhor, eu fazer a exposição sobre leilão imobiliário. 
+Aqui fala Solomon Von Herclestein.
+
 Este livro é a versão expandida e aprofundada do conteúdo que venho apresentando 
 em minhas aulas e palestras. É a "Bíblia sobre o leilão imobiliário: Compre seu 
 imóvel com até 94% de desconto".
@@ -45,10 +46,13 @@ Este livro é para você que:
 • Quer comprar a casa própria pagando bem menos do que o valor de mercado
 • Busca uma alternativa de investimento com retornos superiores à poupança e à 
   renda fixa
+
 • Deseja entender como funciona o mercado de leilões imobiliários sem cair em 
   golpes ou promessas falsas
+
 • Quer se tornar um investidor imobiliário com conhecimento jurídico e financeiro 
   sólido
+
 • É estrangeiro e deseja investir no mercado imobiliário brasileiro
 
 
@@ -277,6 +281,7 @@ Para participar, é necessário:
 
 • Comparecer ao local onde se realizará o leilão conforme consta no edital, 
   portando os documentos pessoais
+
 • Ou participar pela internet, fazendo um cadastro antecipado no site do leiloeiro
 
 
@@ -460,6 +465,7 @@ Para ser leiloeiro, é necessário:
 • Ser domiciliado no lugar em que pretende exercer a profissão há mais de cinco anos
 • Ter idoneidade comprovada com a apresentação de carteira de identidade e 
   certidões negativas dos distribuidores
+
 • Apresentar certidão negativa de ações ou execuções movidas contra ele no Fórum 
   Cível Federal e local correspondente a seu domicílio e relativo ao último quinquênio
 
@@ -467,6 +473,7 @@ Não podem ser leiloeiros:
 
 • Os que estiverem sido destituídos anteriormente dessa profissão, salvo se 
   houverem sido a pedido
+
 • Os falidos não reabilitados
 • Os reabilitados quando a falência tiver sido qualificada como culposa ou fraudulenta
 
@@ -1140,9 +1147,13 @@ Capítulo 21: Seu Primeiro Leilão — Checklist Completo
 
 ═══════════════════════════════════════════════════════════════════════════════
 Capítulo 22: Estudos de Caso Reais
+
+Como ler os números deste capítulo: o ROI é o lucro dividido pelo investimento total, que soma compra, custos e reforma. Os valores são arredondados. A origem de cada caso está indicada no rótulo que o acompanha.
 ═══════════════════════════════════════════════════════════════════════════════
 
 22.1 Caso 1: O apartamento da Vila Madalena (o case do autor)
+[RÓTULO: RELATO DO AUTOR, sem documentação anexa]
+
 
 Em agosto, arrematei um apartamento na Vila Madalena, em São Paulo capital, por 
 R$ 180 mil reais. Gastei mais de R$ 50 mil com outras despesas. Passou-se um 
@@ -1162,6 +1173,7 @@ em menos de 12 meses.
 
 
 22.2 Caso 2: Imóvel ocupado que demorou 2 anos para desocupar
+[RÓTULO: ILUSTRATIVO, sem documentação anexa]
 
 Um investidor comprou um imóvel ocupado por R$ 150.000. A desocupação judicial 
 levou 2 anos e custou R$ 40.000 em advogados e custas. Ao final, vendeu por 
@@ -1181,6 +1193,7 @@ R$ 250.000.
 
 
 22.3 Caso 3: O leilão com disputa acirrada que quase deu prejuízo
+[RÓTULO: ILUSTRATIVO, sem documentação anexa]
 
 Um investidor entrou em uma disputa acirrada e pagou R$ 300.000 por um imóvel 
 avaliado em R$ 350.000. Os custos foram R$ 70.000. A disputa acirrada corroeu 
@@ -1199,6 +1212,7 @@ todo o lucro.
 
 
 22.4 Caso 4: O imóvel que rendeu 59% de lucro em 6 meses
+[RÓTULO: ILUSTRATIVO, sem documentação anexa]
 
 Um investidor comprou um imóvel em leilão por R$ 200.000, um imóvel avaliado 
 em R$ 300.000. Gastou R$ 20.000 em reforma e vendeu por R$ 350.000.
@@ -1216,6 +1230,7 @@ em R$ 300.000. Gastou R$ 20.000 em reforma e vendeu por R$ 350.000.
 
 
 22.5 Caso 5: O primeiro leilão de um iniciante (erros e acertos)
+[RÓTULO: ILUSTRATIVO, sem documentação anexa]
 
 Um iniciante comprou um imóvel sem fazer vistoria. Descobriu que precisava de 
 R$ 50.000 em reformas que não havia previsto. No entanto, o imóvel estava em 
@@ -1445,6 +1460,7 @@ Imóveis Rurais:
 
 • A aquisição por pessoas físicas estrangeiras é limitada a 50 módulos de 
   exploração indefinida
+
 • Para áreas entre 3 e 50 módulos, é necessária autorização do INCRA
 • Empresas brasileiras com maioria de capital estrangeiro são equiparadas a 
   estrangeiras para esses fins
@@ -1500,10 +1516,12 @@ canais bancários estejam prontos para a execução.
 3. Selecionar um imóvel urbano para evitar restrições complexas
 4. Realizar uma due diligence completa: analisar o edital, a matrícula do imóvel, 
    dívidas e situação de ocupação
+
 5. Caso necessário, buscar autorizações (INCRA, CDN) com antecedência
 6. Contratar uma assessoria jurídica local para conduzir o processo
 7. Provisionar recursos para custos além do lance (ITBI, emolumentos, possíveis 
    dívidas)
+
 8. Participar do leilão com um limite de lance predefinido, evitando se envolver 
    em disputas emocionais
 
@@ -1800,27 +1818,43 @@ Sim. Estrangeiros podem participar de leilões no Brasil, mas devem obter CPF e
 observar restrições específicas para imóveis rurais e em áreas de fronteira.
 
 
+ERRATA E ATUALIZAÇÕES
+════════════════════════════════════════════════════════════════════════════════
+
+Esta edição foi revisada em 23 de outubro de 2026. Correções e atualizações serão publicadas pelo autor em canal a ser divulgado. Quem encontrar erro pode informar pelo contato indicado ao final do livro.
+
+
 ════════════════════════════════════════════════════════════════════════════════
 REFERÊNCIAS BIBLIOGRÁFICAS
 ════════════════════════════════════════════════════════════════════════════════
 
-1. BRASIL. Lei nº 9.514, de 20 de novembro de 1997. Dispõe sobre o Sistema de 
-   Financiamento Imobiliário, institui a alienação fiduciária de coisa imóvel e 
-   dá outras providências.
+Referências verificadas em 23 de outubro de 2026.
 
-2. BRASIL. Lei nº 13.465, de 11 de julho de 2017. Dispõe sobre a regularização 
-   fundiária rural e urbana.
+1. BRASIL. Lei nº 9.514, de 20 de novembro de 1997. Dispõe sobre o Sistema de Financiamento Imobiliário, institui a alienação fiduciária de coisa imóvel e dá outras providências.
 
-3. BRASIL. Código de Processo Civil. Lei nº 13.105, de 16 de março de 2015.
+2. BRASIL. Lei nº 13.465, de 11 de julho de 2017. Dispõe sobre a regularização fundiária rural e urbana, e altera a Lei nº 9.514/1997.
 
-4. BRASIL. Lei nº 5.709, de 7 de outubro de 1971. Regula a aquisição de imóveis 
-   rurais por estrangeiros.
+3. BRASIL. Lei nº 14.711, de 30 de outubro de 2023. Altera o regime das garantias, incluindo a Lei nº 9.514/1997.
 
-5. Institute of Advanced Legal Studies. (2025). Book Launch of Contemporary Law 
-   in Common Law and Civil Law. University of London.
+4. BRASIL. Lei nº 13.105, de 16 de março de 2015. Código de Processo Civil.
 
-6. Anbima. (2026). Cautela do investidor favorece renda fixa de menores prazos no 
-   primeiro trimestre de 2026.
+5. BRASIL. Lei nº 9.250, de 26 de dezembro de 1995. Altera a legislação do imposto de renda das pessoas físicas (art. 23: isenção na venda de imóvel residencial).
+
+6. BRASIL. Lei nº 11.196, de 21 de novembro de 2005 (art. 39: reinvestimento na venda de imóvel residencial).
+
+7. BRASIL. Lei nº 5.709, de 7 de outubro de 1971. Regula a aquisição de imóveis rurais por estrangeiros.
+
+8. SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 2.096.465/SP. Relator: Ministro Ricardo Villas Bôas Cueva, 3ª Turma.
+
+9. SUPERIOR TRIBUNAL DE JUSTIÇA. AgInt nos EDcl no REsp 1.931.921/SP. Relatora: Ministra Nancy Andrighi, 2021.
+
+10. SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 2.126.726/SP (Tema 1.288). Relator: Ministro Ricardo Villas Bôas Cueva, 2ª Seção.
+
+11. ANBIMA. Cautela do investidor favorece renda fixa de menores prazos no primeiro trimestre de 2026. Disponível em: anbima.com.br.
+
+12. INSTITUTE OF ADVANCED LEGAL STUDIES (IALS), UNIVERSITY OF LONDON. Book Launch of Contemporary Law in Common Law and Civil Law. Notícia publicada em 2025. Disponível em: ials.sas.ac.uk.
+
+13. RECEITA FEDERAL DO BRASIL. Solução de Consulta sobre isenção de ganho de capital na venda de imóvel residencial (IRPF). [número a completar antes da publicação]
 
 
 ════════════════════════════════════════════════════════════════════════════════

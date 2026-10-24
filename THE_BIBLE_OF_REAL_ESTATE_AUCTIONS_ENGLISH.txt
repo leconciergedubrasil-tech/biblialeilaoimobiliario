@@ -11,6 +11,8 @@ PREFACE
 
 Why I Wrote This Book
 
+Conflict of interest: this book promotes the Hercleus Terminal and the AVVISI podcast, products and services of my own. They may be useful to readers, and they also generate income for me.
+
 Good afternoon. This is Solomon Von Herclestein speaking.
 
 Today we will discuss — or rather, I will present an exposition on real estate 
@@ -45,6 +47,7 @@ This book is for you who:
 • Seeks an alternative investment with returns higher than savings and fixed income
 • Wants to understand how the real estate auction market works without falling 
   for scams or false promises
+
 • Wants to become a real estate investor with solid legal and financial knowledge
 • Is a foreigner and wants to invest in the Brazilian real estate market
 
@@ -271,6 +274,7 @@ To participate, it is necessary:
 
 • To appear at the location where the auction will be held as stated in the notice, 
   carrying personal documents
+
 • Or participate online by doing early registration on the auctioneer's website
 
 
@@ -456,8 +460,10 @@ To be an auctioneer, it is necessary:
 • To be over 25 years old
 • To be domiciled in the place where you intend to practice the profession for 
   more than five years
+
 • To have proven integrity with the presentation of identity card and negative 
   certificates from the registry offices
+
 • To present a negative certificate of lawsuits or executions filed against him 
   in the Federal Civil Court and local corresponding to his domicile and relating 
   to the last five years
@@ -466,6 +472,7 @@ May not be auctioneers:
 
 • Those who were previously removed from this profession, except if they were 
   removed at their request
+
 • Bankrupts not rehabilitated
 • Rehabilitated persons when bankruptcy has been classified as negligent or 
   fraudulent
@@ -1134,9 +1141,12 @@ Chapter 21: Your First Auction — Complete Checklist
 
 ═══════════════════════════════════════════════════════════════════════════════
 Chapter 22: Real Case Studies
+
+How to read the numbers in this chapter: ROI is profit divided by total investment, which adds up purchase, costs and renovation. Values are rounded. The origin of each case is shown in the label that accompanies it.
 ═══════════════════════════════════════════════════════════════════════════════
 
 22.1 Case 1: The Apartment in Vila Madalena (The Author's Case)
+[LABEL: FIRST-HAND ACCOUNT, NO DOCUMENTS ATTACHED]
 
 In August, I purchased an apartment in Vila Madalena, São Paulo, for R$ 180,000. 
 I spent over R$ 50,000 on other expenses. Time passed, and I resold the property 
@@ -1155,6 +1165,7 @@ for R$ 320,000. This is a profit of R$ 90,000 in less than 12 months.
 
 
 22.2 Case 2: Occupied Property That Took 2 Years to Evict
+[LABEL: ILLUSTRATIVE, NO DOCUMENTS ATTACHED]
 
 An investor bought an occupied property for R$ 150,000. Judicial eviction took 
 2 years and cost R$ 40,000 in lawyer fees and court costs. In the end, sold for 
@@ -1174,6 +1185,7 @@ R$ 250,000.
 
 
 22.3 Case 3: The Auction with Fierce Competition That Almost Lost Money
+[LABEL: ILLUSTRATIVE, NO DOCUMENTS ATTACHED]
 
 An investor got into fierce bidding and paid R$ 300,000 for a property appraised 
 at R$ 350,000. Costs were R$ 70,000. Fierce competition eroded all profit.
@@ -1191,6 +1203,7 @@ at R$ 350,000. Costs were R$ 70,000. Fierce competition eroded all profit.
 
 
 22.4 Case 4: The Property That Yielded 59% Profit in 6 Months
+[LABEL: ILLUSTRATIVE, NO DOCUMENTS ATTACHED]
 
 An investor bought a property at auction for R$ 200,000, a property appraised at 
 R$ 300,000. Spent R$ 20,000 on renovation and sold for R$ 350,000.
@@ -1208,6 +1221,7 @@ R$ 300,000. Spent R$ 20,000 on renovation and sold for R$ 350,000.
 
 
 22.5 Case 5: A Beginner's First Auction (Mistakes and Successes)
+[LABEL: ILLUSTRATIVE, NO DOCUMENTS ATTACHED]
 
 A beginner bought a property without doing an inspection. Discovered it needed 
 R$ 50,000 in renovations that hadn't been foreseen. However, the property was in 
@@ -1435,6 +1449,7 @@ Rural Properties:
 
 • Acquisition by foreign natural persons is limited to 50 indefinite exploitation 
   modules
+
 • For areas between 3 and 50 modules, INCRA authorization is required
 • Brazilian companies with a majority of foreign capital are treated as foreign 
   for these purposes
@@ -1485,6 +1500,7 @@ are ready for execution.
 3. Select an urban property to avoid complex restrictions
 4. Perform complete due diligence: analyze the notice, property registration, 
    debts and occupancy situation
+
 5. If necessary, seek authorizations (INCRA, CDN) in advance
 6. Hire local legal advice to conduct the process
 7. Set aside resources for costs beyond the bid (ITBI, fees, possible debts)
@@ -1774,47 +1790,43 @@ Yes. Foreigners can participate in auctions in Brazil, but must obtain a CPF and
 observe specific restrictions for rural properties and border areas.
 
 
+ERRATA AND UPDATES
+════════════════════════════════════════════════════════════════════════════════
+
+This edition was reviewed on October 23, 2026. Corrections and updates will be published by the author in a channel to be announced. Readers who find an error may report it through the contact details at the end of the book.
+
+
 ════════════════════════════════════════════════════════════════════════════════
 BIBLIOGRAPHY REFERENCES
 ════════════════════════════════════════════════════════════════════════════════
 
-1. BRAZIL. Law No. 9,514, of November 20, 1997. Provides for the Real Estate 
-   Financing System, institutes the fiduciary alienation of real property and 
-   provides other provisions.
+References verified on October 23, 2026.
 
-2. BRAZIL. Law No. 13,465, of July 11, 2017. Provides for land tenure 
-   regularization.
+1. BRAZIL. Law No. 9,514, of November 20, 1997. Provides for the Real Estate Financing System, establishes fiduciary sale of real estate, and other measures.
 
-3. BRAZIL. Civil Procedure Code. Law No. 13,105, of March 16, 2015.
+2. BRAZIL. Law No. 13,465, of July 11, 2017. Provides for rural and urban land regularization, and amends Law No. 9,514/1997.
 
-4. BRAZIL. Law No. 5,709, of October 7, 1971. Regulates the acquisition of rural 
-   properties by foreigners.
+3. BRAZIL. Law No. 14,711, of October 30, 2023. Amends the rules on guarantees, including Law No. 9,514/1997.
 
-5. Institute of Advanced Legal Studies. (2025). Book Launch of Contemporary Law 
-   in Common Law and Civil Law. University of London.
+4. BRAZIL. Law No. 13,105, of March 16, 2015. Code of Civil Procedure.
 
-6. Anbima. (2026). Investor Caution Favors Shorter-Term Fixed Income in First 
-   Quarter of 2026.
+5. BRAZIL. Law No. 9,250, of December 26, 1995. Amends individual income tax legislation (art. 23: exemption on the sale of a residential property).
 
+6. BRAZIL. Law No. 11,196, of November 21, 2005 (art. 39: reinvestment on the sale of a residential property).
 
-════════════════════════════════════════════════════════════════════════════════
-SUBJECT INDEX
-════════════════════════════════════════════════════════════════════════════════
+7. BRAZIL. Law No. 5,709, of October 7, 1971. Regulates the acquisition of rural property by foreigners.
 
-Purchase ............................ Chapter 9
-Common Law .......................... Chapter 1, 26
-CRI ................................ Chapter 2
-Notice ............................. Chapter 5
-Foreigner .......................... Chapter 4, 26
-Homologation ....................... Chapter 9
-Taking Possession .................. Chapter 10
-ITBI ............................... Chapter 9
-Extrajudicial Auction .............. Chapter 3
-Judicial Auction ................... Chapter 3
-Auctioneer ......................... Chapter 8
-Occupancy .......................... Chapter 10
-ROI ................................ Chapter 13
-SFI ................................ Chapter 2
+8. SUPERIOR COURT OF JUSTICE (STJ). REsp 2,096,465/SP. Rapporteur: Justice Ricardo Villas Bôas Cueva, 3rd Panel.
+
+9. SUPERIOR COURT OF JUSTICE (STJ). AgInt nos EDcl no REsp 1,931,921/SP. Rapporteur: Justice Nancy Andrighi, 2021.
+
+10. SUPERIOR COURT OF JUSTICE (STJ). REsp 2,126,726/SP (Theme 1,288). Rapporteur: Justice Ricardo Villas Bôas Cueva, 2nd Section.
+
+11. ANBIMA. Investor caution favors shorter-term fixed income in the first quarter of 2026. Available at: anbima.com.br.
+
+12. INSTITUTE OF ADVANCED LEGAL STUDIES (IALS), UNIVERSITY OF LONDON. Book Launch of Contemporary Law in Common Law and Civil Law. News item published in 2025. Available at: ials.sas.ac.uk.
+
+13. FEDERAL REVENUE OF BRAZIL. Tax ruling (Solução de Consulta) on capital gains exemption on the sale of a residential property (individual income tax). [ruling number to be completed before publication]
 
 
 ════════════════════════════════════════════════════════════════════════════════
