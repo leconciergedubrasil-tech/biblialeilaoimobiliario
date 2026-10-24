@@ -414,7 +414,7 @@ Para participar de um leilão online:
 
 1. Fazer cadastro antecipado no site do leiloeiro
 2. Enviar a documentação exigida
-3. Fazer o depósito de caução (geralmente 5% do lance mínimo)
+3. Fazer o depósito de caução (em alguns editais, 5% do lance mínimo)
 4. Dar lances pela plataforma na data marcada
 
 
@@ -528,9 +528,9 @@ tão extenso quanto de um empréstimo imobiliário e com taxas reduzidas.
 ╔═══════════════════════════════╦═════════════════════════════════╗
 ║ Custo                         ║ Descrição                       ║
 ╠═══════════════════════════════╬═════════════════════════════════╣
-║ ITBI                          ║ Imposto de Transmissão (2-4%)   ║
+║ ITBI                          ║ Imposto de Transmissão (SP: 3%)   ║
 ║ Taxas cartorárias (emolumentos)║ Registro da arrematação (0,5-1%)║
-║ Honorários do leiloeiro       ║ Comissão sobre o lance (1-5%)   ║
+║ Honorários do leiloeiro       ║ Comissão sobre o lance (mín. 5%)   ║
 ║ Dívidas retroativas           ║ IPTU, condomínio (Variável)     ║
 ║ Registro da arrematação       ║ Cartório de imóveis (Variável)  ║
 ╚═══════════════════════════════╩═════════════════════════════════╝
@@ -543,7 +543,7 @@ Em leilões de bancos, como os da Caixa, o edital pode permitir o pagamento fina
 1. Entrada: nos leilões da Caixa, a entrada costuma ser de pelo menos 5% do valor mínimo de venda, paga em até 2 dias úteis após a homologação. Confira no edital.
 2. Financiamento e FGTS: só são permitidos quando o anúncio do imóvel disser que aceita. Não é regra geral.
 3. Percentual financiado: materiais de divulgação falam em até 95%, mas o valor real depende do edital e da aprovação do banco. Trate qualquer número como ponto de partida, não como garantia.
-4. Comissão do leiloeiro: costuma ser cerca de 5% do valor do imóvel, paga pelo comprador. Confira no edital.
+4. Comissão do leiloeiro: mínimo de 5% do valor arrematado, paga pelo arrematante (art. 24, parágrafo único, do Decreto 21.981/1932). Confira no edital.
 5. Segundo leilão: se o primeiro não tiver lance vencedor, o segundo leilão ocorre nos 15 dias seguintes, com lance mínimo que pode ser menor, mas nunca inferior a 50% do valor de avaliação (art. 27, §2º, da Lei 9.514/97, com a redação da Lei 14.711/2023).
 
 Antes de contar com o financiamento, confirme com o banco a renda exigida, a documentação, a avaliação do imóvel, o prazo máximo e as taxas. Como o imóvel fica em alienação fiduciária, o inadimplente perde o direito de quitar a dívida para recuperar o imóvel depois que a propriedade é consolidada: segundo o STJ (Tema 1.288, REsp 2.126.726/SP), após a consolidação da propriedade sob a Lei 13.465/2017 não há mais purgação da mora, restando ao devedor apenas o direito de preferência (art. 27, §2º-B, da Lei 9.514/97).
@@ -673,7 +673,7 @@ Capítulo 12: A Venda — Lucro Realizado
 ║ Estratégia                    ║ Vantagem / Desvantagem          ║
 ╠═══════════════════════════════╬═════════════════════════════════╣
 ║ Imobiliárias tradicionais     ║ Alcance, expertise /            ║
-║                               ║ Comissão alta (5-6%)            ║
+║                               ║ Comissão alta (a negociar)            ║
 ║ Venda direta (OLX, Zap,       ║ Economia de comissão /          ║
 ║ VivaReal)                     ║ Trabalho do vendedor            ║
 ║ Venda para outros             ║ Venda rápida /                  ║
@@ -707,6 +707,9 @@ Ao vender o imóvel por mais do que o custo de aquisição, a diferença é ganh
 2. Venda de imóvel residencial com reaplicação integral do valor em outro imóvel residencial no país, em até 180 dias (art. 39 da Lei 11.196/2005). A reaplicação parcial, em obra ou em terreno, não garante a isenção.
 
 O ganho tributável é apurado no GCAP e recolhido por DARF. Mesmo quando há isenção, a venda deve ser informada na declaração. Este texto é informativo e não substitui a orientação de um contador.
+
+
+ITBI em São Paulo: a alíquota geral é de 3%, pela Lei Municipal 11.154/1991. Fontes especializadas divergem sobre a base de cálculo (valor da transação ou valor venal), e há uma alteração recente (LC 227/2026) que deve ser conferida com o contador ou com a Prefeitura antes de qualquer conta. Outras cidades têm alíquotas diferentes.
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -752,18 +755,20 @@ Passo 2: Participar do leilão
 
 Passo 3: Custos adicionais
 - Reforma: R$ 40.000
-- ITBI: R$ 7.200 (2%)
-- Comissão do leiloeiro: R$ 3.600 (1%)
-- Total de custos: R$ 50.800
+- ITBI (3% sobre R$ 180.000, base a confirmar com a Prefeitura): R$ 5.400
+- Comissão do leiloeiro (mínimo de 5% sobre o lance): R$ 9.000
+- Total de custos do leilão: R$ 54.400
 
 Passo 4: Venda
 - Preço de venda: R$ 320.000
-- Comissão da imobiliária: R$ 19.200 (6%)
+- Comissão da imobiliária (6%, valor negociável): R$ 19.200
 
 Passo 5: Cálculo do lucro
-- Receita: R$ 320.000
-- Custos totais: R$ 50.800 + R$ 19.200 = R$ 70.000
-- Lucro: R$ 250.000
+- Investimento total: R$ 180.000 + R$ 54.400 = R$ 234.400
+- Receita líquida da venda: R$ 320.000 − R$ 19.200 = R$ 300.800
+- Lucro: R$ 300.800 − R$ 234.400 = R$ 66.400
+- ROI: R$ 66.400 ÷ R$ 234.400 = 28,3%
+Este exemplo supõe que a base do ITBI é o lance e não considera o IR sobre ganho de capital, que pode ser isento conforme a seção 12.5.
 
 
 13.4 Planilha de cálculo: baixe e use
@@ -776,56 +781,36 @@ análises.
 Capítulo 14: Comparação com Outros Investimentos
 ═══════════════════════════════════════════════════════════════════════════════
 
-14.1 Poupança: ~6% ao ano vs. leilão em 12 meses
+14.1 Poupança, CDI, Selic, FIIs e leilão: dados verificados
 
-╔════════════════════╦═══════════════════╦══════════════════════╗
-║ Investimento       ║ Retorno Anual     ║ Observação           ║
-╠════════════════════╬═══════════════════╬══════════════════════╣
-║ Poupança           ║ ~6%               ║ Baixo retorno        ║
-║ Leilão Imobiliário ║ 30-60% (12 meses) ║ Alto retorno         ║
-╚════════════════════╩═══════════════════╩══════════════════════╝
+Os valores abaixo vêm de fontes públicas, com a data de cada dado. Eles medem coisas diferentes, como explicado ao final desta seção.
 
+║ Indicador ║ Valor ║ Fonte e data ║
+║ Poupança (regra: 0,5% ao mês + TR) ║ 8,32% em 12 meses ║ Banco Central, até maio/2026 ║
+║ CDI ║ 14,77% em 12 meses ║ Banco Central, julho/2026 ║
+║ Selic (meta) ║ 14,25% ao ano ║ Copom, agosto/2026 ║
+║ IFIX (fundos imobiliários) ║ 8,24% em 12 meses ║ B3, até agosto/2026 ║
+║ Dividend yield do IFIX ║ 12,53% ao ano ║ BB Análise, agosto/2026 ║
+║ Ibovespa ║ 25,45% em 12 meses ║ B3, via Elos Ayta, até agosto/2026 ║
+║ Leilão imobiliário ║ Desconto de 30% a 60% ║ Casos do Capítulo 22 ║
 
-14.2 Títulos de renda fixa (Tesouro Direto, CDBs)
+Por que os números não são diretamente comparáveis: a poupança, o CDI e a Selic são taxas anuais de aplicações de renda fixa. O IFIX mede a variação das cotas somada aos dividendos. O desconto do leilão é a diferença entre o preço pago e o valor de mercado no momento da compra, e não um rendimento anual. O retorno real depende do prazo, dos custos, dos impostos e do tempo em que o imóvel fica sem renda. Por isso, este livro não afirma que o leilão rende mais que os demais investimentos. Os casos do Capítulo 22 mostram resultados entre 0% e 59%, em prazos de até 2 anos.
 
-╔════════════════════╦═══════════════════╦══════════════════════╗
-║ Investimento       ║ Retorno Anual     ║ Observação           ║
-╠════════════════════╬═══════════════════╬══════════════════════╣
-║ Tesouro Selic      ║ ~10%              ║ Baixo retorno        ║
-║ CDBs               ║ ~11-12%           ║ Retorno limitado     ║
-║ Leilão Imobiliário ║ 30-60% (12 meses) ║ Retorno superior     ║
-╚════════════════════╩═══════════════════╩══════════════════════╝
+14.2 Renda fixa: Tesouro Selic e CDBs
 
+O Tesouro Selic acompanha a taxa Selic, hoje em 14,25% ao ano. O CDI, referência de boa parte da renda fixa, acumulou 14,77% em 12 meses até julho de 2026. Esses rendimentos variam com a taxa de juros e não são garantidos para o futuro. Com a Selic acima de 8,5% ao ano, a poupança rende 0,5% ao mês mais a TR, bem abaixo da renda fixa de liquidez.
 
-14.3 Ações e a Bolsa de Valores (Ibovespa)
+14.3 Bolsa de valores (Ibovespa)
 
-╔════════════════════╦═══════════════════╦══════════════════════╗
-║ Investimento       ║ Retorno Anual     ║ Observação           ║
-╠════════════════════╬═══════════════════╬══════════════════════╣
-║ Ibovespa           ║ Variável (10-20%) ║ Volatilidade alta    ║
-║ Leilão Imobiliário ║ 30-60% (12 meses) ║ Mais previsível      ║
-╚════════════════════╩═══════════════════╩══════════════════════╝
+O Ibovespa acumulou alta de 25,45% em 12 meses até agosto de 2026, e de 10,11% no ano, segundo dados de fechamento da B3 compilados pela Elos Ayta e pelo Monitor do Mercado. Em agosto, o índice caiu 0,33%. O último fechamento publicado pela B3 na data de consulta foi de 183.477 pontos, em 25 de setembro de 2026.
 
+14.4 Fundos imobiliários (FIIs)
 
-14.4 Fundos Imobiliários (FIIs)
+O IFIX acumulou 8,24% em 12 meses até agosto de 2026 e teve dividend yield anualizado de 12,53% em agosto, segundo a BB Análise. O rendimento dos FIIs inclui os dividendos mensais, mas o preço das cotas oscila e pode cair.
 
-╔════════════════════╦═══════════════════╦══════════════════════╗
-║ Investimento       ║ Retorno Anual     ║ Observação           ║
-╠════════════════════╬═══════════════════╬══════════════════════╣
-║ FIIs               ║ 8-12%             ║ Dividendo mensal     ║
-║ Leilão Imobiliário ║ 30-60% (12 meses) ║ Retorno superior     ║
-╚════════════════════╩═══════════════════╩══════════════════════╝
+14.5 Criptomoedas
 
-
-14.5 Criptomoedas: o risco não compensa
-
-╔════════════════════╦═══════════════════╦══════════════════════╗
-║ Investimento       ║ Retorno Anual     ║ Observação           ║
-╠════════════════════╬═══════════════════╬══════════════════════╣
-║ Criptomoedas       ║ Variável (negativo)║ Especulação         ║
-║ Leilão Imobiliário ║ 30-60% (12 meses) ║ Ativo real           ║
-╚════════════════════╩═══════════════════╩══════════════════════╝
-
+Este item saiu desta edição, porque não há dado verificado para compará-lo com os demais.
 
 14.6 Por que o leilão imobiliário é mais previsível
 
@@ -870,16 +855,7 @@ chance de ser vendido rápido.
 
 15.4 A interação entre os pilares
 
-            ┌────────────────────┐         ┌────────────────────┐
-            │  1. EVITAR DISPUTA │         │  2. BAIRROS COM    │
-            │                    │         │     DEMANDA        │
-            └─────────┬──────────┘         └─────────┬──────────┘
-                      │                              │
-                      └──────────────┬───────────────┘
-                                     │
-                        ┌────────────▼────────────┐
-                        │  3. VENDER RÁPIDO      │
-                        └────────────────────────┘
+[[DIAGRAMA_3_PILARES]]
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -1430,7 +1406,7 @@ Cadastro: O interessado deve se cadastrar na plataforma do leiloeiro antes da
 data do leilão. Este cadastro exige a apresentação do CPF e da documentação de 
 identidade.
 
-Caução: Muitos leilões exigem o depósito de um valor de caução (geralmente 5% 
+Caução: Muitos leilões exigem o depósito de um valor de caução (em alguns editais, 5% 
 do lance mínimo) para credenciar o participante.
 
 
@@ -1671,7 +1647,7 @@ Apêndice B: Glossário de Termos Técnicos (Common Law vs. Civil Law)
 ║ Imissão na Posse   ║ Ação judicial para  ║ Tomar posse do imóvel arremat.  ║
 ║                    ║ tomar posse         ║                                  ║
 ╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ ITBI               ║ Imposto de Transm.  ║ Custo de compra (2-4%)           ║
+║ ITBI               ║ Imposto de Transm.  ║ Custo de compra (SP: 3%)           ║
 ║                    ║ de Bens Imóveis     ║                                  ║
 ╠════════════════════╬═════════════════════╬══════════════════════════════════╣
 ║ Leilão Extrajudicial║ Leilão fora do proc.║ Inadimplência de 3+ parcelas    ║
@@ -1711,8 +1687,8 @@ Valor de Mercado Estimado: R$ _______________
 Desconto: ___________%
 
 Custos:
-ITBI (2-4%): R$ _______________
-Comissão do Leiloeiro (1-5%): R$ _______________
+ITBI (SP: 3%): R$ _______________
+Comissão do Leiloeiro (mín. 5%): R$ _______________
 Taxas Cartorárias: R$ _______________
 Reforma: R$ _______________
 Dívidas (IPTU, Condomínio): R$ _______________
@@ -1726,7 +1702,7 @@ Investimento Total: R$ _______________
 
 Venda:
 Preço de Venda Estimado: R$ _______________
-Comissão da Imobiliária (5-6%): R$ _______________
+Comissão da Imobiliária (a negociar): R$ _______________
 Receita Líquida: R$ _______________
 
 Resultado:

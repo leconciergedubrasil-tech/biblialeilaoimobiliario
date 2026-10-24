@@ -409,7 +409,7 @@ To participate in an online auction:
 
 1. Register early on the auctioneer's website
 2. Submit required documentation
-3. Deposit a security deposit (usually 5% of minimum bid)
+3. Deposit a security deposit (in some notices, 5% of minimum bid)
 4. Make bids through the platform on the scheduled date
 
 
@@ -528,9 +528,9 @@ long as a mortgage and with reduced rates.
 ╔═══════════════════════════════╦═════════════════════════════════╗
 ║ Cost                          ║ Description                     ║
 ╠═══════════════════════════════╬═════════════════════════════════╣
-║ ITBI                          ║ Real Estate Transfer Tax (2-4%) ║
+║ ITBI                          ║ Real Estate Transfer Tax (SP: 3%) ║
 ║ Registry Fees (Emoluments)    ║ Property registration (0.5-1%)  ║
-║ Auctioneer Fees               ║ Commission on bid (1-5%)        ║
+║ Auctioneer Fees               ║ Commission on bid (min. 5%)        ║
 ║ Retroactive Debts             ║ Property taxes, condo (Variable)║
 ║ Registration of Purchase      ║ Registry office (Variable)      ║
 ╚═══════════════════════════════╩═════════════════════════════════╝
@@ -543,7 +543,7 @@ In bank auctions, such as those of Caixa, the notice may allow financed payment.
 1. Down payment: in Caixa auctions, the down payment is usually at least 5% of the minimum sale price, paid within 2 business days after approval. Check the notice.
 2. Financing and FGTS: allowed only when the property listing says so. It is not a general rule.
 3. Financed percentage: promotional material mentions up to 95%, but the actual amount depends on the notice and the bank's approval. Treat any figure as a starting point, not a guarantee.
-4. Auctioneer fee: usually about 5% of the property value, paid by the buyer. Check the notice.
+4. Auctioneer fee: minimum of 5% of the amount bid, paid by the buyer (art. 24, sole paragraph, of Decree 21,981/1932). Check the notice.
 5. Second auction: if the first auction has no winning bid, the second auction takes place within 15 days, with a minimum bid that can be lower, but never below 50% of the appraised value (art. 27, §2, of Law 9,514/97, as amended by Law 14,711/2023).
 
 Before relying on financing, confirm with the bank the required income, documents, property appraisal, maximum term and fees. Because the property is held under fiduciary sale, a buyer in default loses the right to pay off the debt and recover the property once ownership is consolidated: according to the Brazilian Superior Court of Justice (Theme 1,288, REsp 2,126,726/SP), once ownership is consolidated under Law 13,465/2017 there is no longer a right to cure the default; the debtor keeps only a right of first refusal (art. 27, §2-B, of Law 9,514/97).
@@ -672,7 +672,7 @@ Chapter 12: The Sale — Realized Profit
 ║ Strategy                      ║ Advantage / Disadvantage        ║
 ╠═══════════════════════════════╬═════════════════════════════════╣
 ║ Traditional Real Estate Agents║ Reach, expertise /              ║
-║                               ║ High commission (5-6%)          ║
+║                               ║ High commission (negotiable)          ║
 ║ Direct Sale (OLX, Zap, Viva)  ║ Save commissions /              ║
 ║                               ║ Seller's work                   ║
 ║ Sale to Other Investors       ║ Quick sale /                    ║
@@ -706,6 +706,9 @@ When you sell the property for more than the acquisition cost, the difference is
 2. Sale of a residential property with the full proceeds reinvested in another residential property in Brazil within 180 days (art. 39 of Law 11.196/2005). Partial reinvestment, in construction or land, does not guarantee the exemption.
 
 The taxable gain is calculated in the GCAP system and paid by DARF. Even when exempt, the sale must be reported in the tax return. This text is informational and does not replace the advice of an accountant.
+
+
+ITBI in São Paulo: the general rate is 3%, under Municipal Law 11,154/1991. Specialized sources disagree on the tax base (transaction value or assessed value), and a recent change (Complementary Law 227/2026) should be checked with an accountant or the city hall before any calculation. Other cities have different rates.
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -751,18 +754,20 @@ Step 2: Participate in the auction
 
 Step 3: Additional costs
 - Renovation: R$ 40,000
-- ITBI: R$ 7,200 (2%)
-- Auctioneer commission: R$ 3,600 (1%)
-- Total costs: R$ 50,800
+- ITBI (3% on R$ 180,000, tax base to be confirmed with the city hall): R$ 5,400
+- Auctioneer commission (minimum 5% of the bid): R$ 9,000
+- Total auction costs: R$ 54,400
 
 Step 4: Sale
 - Estimated sale price: R$ 320,000
-- Real estate agent commission: R$ 19,200 (6%)
+- Real estate agent commission (6%, negotiable): R$ 19,200
 
 Step 5: Profit calculation
-- Revenue: R$ 320,000
-- Total costs: R$ 50,800 + R$ 19,200 = R$ 70,000
-- Profit: R$ 250,000
+- Total investment: R$ 180,000 + R$ 54,400 = R$ 234,400
+- Net sale revenue: R$ 320,000 − R$ 19,200 = R$ 300,800
+- Profit: R$ 300,800 − R$ 234,400 = R$ 66,400
+- ROI: R$ 66,400 ÷ R$ 234,400 = 28.3%
+This example assumes the ITBI base equals the bid and does not consider capital gains tax, which may be exempt under section 12.5.
 
 
 13.4 Calculation Spreadsheet: Download and Use
@@ -775,56 +780,36 @@ it for your analyses.
 Chapter 14: Comparison with Other Investments
 ═══════════════════════════════════════════════════════════════════════════════
 
-14.1 Savings Account: 12% per Year vs. 100% in One Year
+14.1 Savings, CDI, Selic, REITs and Auctions: Verified Data
 
-╔════════════════════╦═══════════════════╦══════════════════════╗
-║ Investment         ║ Annual Return     ║ Observation          ║
-╠════════════════════╬═══════════════════╬══════════════════════╣
-║ Savings Account    ║ ~6%               ║ Low return           ║
-║ Real Estate Auction║ 30-60% (12 mths) ║ High return          ║
-╚════════════════════╩═══════════════════╩══════════════════════╝
+The figures below come from public sources, with the date of each figure. They measure different things, as explained at the end of this section.
 
+║ Indicator ║ Value ║ Source and date ║
+║ Savings account (rule: 0.5% per month + TR) ║ 8.32% over 12 months ║ Central Bank of Brazil, to May 2026 ║
+║ CDI ║ 14.77% over 12 months ║ Central Bank of Brazil, July 2026 ║
+║ Selic (target) ║ 14.25% per year ║ Copom, August 2026 ║
+║ IFIX (real estate funds) ║ 8.24% over 12 months ║ B3, to August 2026 ║
+║ IFIX dividend yield ║ 12.53% per year ║ BB Análise, August 2026 ║
+║ Ibovespa ║ 25.45% over 12 months ║ B3, via Elos Ayta, to August 2026 ║
+║ Property auction ║ 30% to 60% discount ║ Cases in Chapter 22 ║
 
-14.2 Fixed Income Securities (Tesouro Direto, CDBs)
+Why the figures are not directly comparable: savings, the CDI and the Selic are annual rates of fixed-income investments. IFIX measures the change in fund unit prices plus dividends. The auction discount is the difference between the price paid and the market value at the time of purchase, not an annual yield. The real return depends on term, costs, taxes and the time the property sits without income. For this reason, this book does not claim that auctions yield more than other investments. The cases in Chapter 22 show results between 0% and 59%, over periods of up to 2 years.
 
-╔════════════════════╦═══════════════════╦══════════════════════╗
-║ Investment         ║ Annual Return     ║ Observation          ║
-╠════════════════════╬═══════════════════╬══════════════════════╣
-║ Treasury Selic     ║ ~10%              ║ Low return           ║
-║ CDBs               ║ ~11-12%           ║ Limited return       ║
-║ Real Estate Auction║ 30-60% (12 mths) ║ Superior return      ║
-╚════════════════════╩═══════════════════╩══════════════════════╝
+14.2 Fixed income: Tesouro Selic and CDBs
 
+Tesouro Selic tracks the Selic rate, currently 14.25% per year. The CDI, the benchmark for much of fixed income, accumulated 14.77% over 12 months to July 2026. These yields vary with interest rates and are not guaranteed in the future. With the Selic above 8.5% per year, savings yield 0.5% per month plus TR, well below liquid fixed income.
 
-14.3 Stocks and Stock Exchange (Bovespa)
+14.3 Stock exchange (Ibovespa)
 
-╔════════════════════╦═══════════════════╦══════════════════════╗
-║ Investment         ║ Annual Return     ║ Observation          ║
-╠════════════════════╬═══════════════════╬══════════════════════╣
-║ Bovespa            ║ Variable (10-20%) ║ High volatility      ║
-║ Real Estate Auction║ 30-60% (12 mths) ║ More predictable     ║
-╚════════════════════╩═══════════════════╩══════════════════════╝
+The Ibovespa rose 25.45% over 12 months to August 2026, and 10.11% year to date, according to B3 closing data compiled by Elos Ayta and Monitor do Mercado. In August it fell 0.33%. The last close published by B3 at the time of consultation was 183,477 points, on September 25, 2026.
 
+14.4 Real estate investment funds (REITs)
 
-14.4 Real Estate Investment Funds (FIIs)
+IFIX accumulated 8.24% over 12 months to August 2026, and had an annualized dividend yield of 12.53% in August, according to BB Análise. REIT returns include monthly dividends, but unit prices fluctuate and can fall.
 
-╔════════════════════╦═══════════════════╦══════════════════════╗
-║ Investment         ║ Annual Return     ║ Observation          ║
-╠════════════════════╬═══════════════════╬══════════════════════╣
-║ FIIs               ║ 8-12%             ║ Monthly dividend     ║
-║ Real Estate Auction║ 30-60% (12 mths) ║ Superior return      ║
-╚════════════════════╩═══════════════════╩══════════════════════╝
+14.5 Cryptocurrencies
 
-
-14.5 Cryptocurrencies: The Risk Is Not Worth It
-
-╔════════════════════╦═══════════════════╦══════════════════════╗
-║ Investment         ║ Annual Return     ║ Observation          ║
-╠════════════════════╬═══════════════════╬══════════════════════╣
-║ Cryptocurrencies   ║ Variable (negative)║ Speculation         ║
-║ Real Estate Auction║ 30-60% (12 mths) ║ Real asset          ║
-╚════════════════════╩═══════════════════╩══════════════════════╝
-
+This item has been removed from this edition, because there is no verified figure to compare it with the others.
 
 14.6 Why Real Estate Auctions Are More Predictable
 
@@ -868,16 +853,7 @@ better chance of being sold quickly.
 
 15.4 The Interaction Between the Pillars
 
-            ┌────────────────────┐         ┌────────────────────┐
-            │  1. AVOID BIDDING  │         │  2. NEIGHBORHOODS │
-            │    COMPETITION     │         │    WITH DEMAND     │
-            └─────────┬──────────┘         └─────────┬──────────┘
-                      │                              │
-                      └──────────────┬───────────────┘
-                                     │
-                        ┌────────────▼────────────┐
-                        │  3. SELL QUICKLY       │
-                        └────────────────────────┘
+[[DIAGRAMA_3_PILARES]]
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -1649,7 +1625,7 @@ Appendix B: Glossary of Technical Terms (Common Law vs. Civil Law)
 ║ Taking Possession  ║ Court action to     ║ Take possession of purchased    ║
 ║                    ║ take possession     ║ property                        ║
 ╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ ITBI               ║ Real Estate         ║ Purchase cost (2-4%)            ║
+║ ITBI               ║ Real Estate         ║ Purchase cost (SP: 3%)            ║
 ║                    ║ Transfer Tax        ║                                  ║
 ╠════════════════════╬═════════════════════╬══════════════════════════════════╣
 ║ Extrajudicial      ║ Auction outside     ║ Non-payment of 3+ installments  ║
@@ -1685,8 +1661,8 @@ Estimated Market Value: R$ _______________
 Discount: ___________%
 
 Costs:
-ITBI (2-4%): R$ _______________
-Auctioneer Commission (1-5%): R$ _______________
+ITBI (SP: 3%): R$ _______________
+Auctioneer Commission (min. 5%): R$ _______________
 Registry Fees: R$ _______________
 Renovation: R$ _______________
 Debts (Property Tax, Condominium): R$ _______________
@@ -1700,7 +1676,7 @@ Total Investment: R$ _______________
 
 Sale:
 Estimated Sale Price: R$ _______________
-Real Estate Agent Commission (5-6%): R$ _______________
+Real Estate Agent Commission (negotiable): R$ _______________
 Net Revenue: R$ _______________
 
 Result:
