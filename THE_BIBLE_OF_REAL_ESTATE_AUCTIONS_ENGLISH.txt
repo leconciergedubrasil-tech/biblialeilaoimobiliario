@@ -586,7 +586,7 @@ In an out-of-court auction, governed by Law 9.514/97, the buyer has the right to
 
 In a judicial auction, possession follows the expropriation rules of the Code of Civil Procedure. Deadlines and remedies differ and must be checked with a lawyer.
 
-Warning: the occupant may allege that the procedure was invalid. Read the notice of auction and the property registration before bidding. Also check whether the notice proves that the debtor was personally notified of the auction dates: courts debate when the lack of personal notice voids the procedure, and the debtor's clear awareness has been considered sufficient in some cases. Confirm with a lawyer.
+Warning: the occupant may allege that the procedure was invalid. Read the notice of auction and the property registration before bidding. The law requires personal notice to the debtor for purging the default (art. 26, §3, of Law 9,514/97, as amended by Law 14,711/2023), and an edictal notice is valid only after all attempts to locate the debtor have failed. The debtor must also be notified by mail, at the addresses in the contract, of the date, time and place of the auction (art. 27, §2-A). The Superior Court of Justice treats personal notice of the auction date as the rule, and the nullity may not be declared when the debtor shows clear awareness, for example by filing an action to suspend the auction (AgInt no AREsp 1,678,642/SP, Rapporteur Justice Ricardo Villas Bôas Cueva, DJe 09/03/2021). A power of attorney to sue, by itself, is not enough. In April 2026, the STJ reported the annulment of two auctions for lack of personal notice of the date (official STJ news, 13/04/2026). Check the notice and the case file before bidding.
 
 
 10.4 Timeframes and Legal Costs
@@ -711,12 +711,12 @@ ROI (Return on Investment) in the long run.
 When you sell the property for more than the acquisition cost, the difference is a capital gain, subject to personal income tax at progressive rates: 15% up to R$ 5 million of gain; 17.5% from R$ 5 million to R$ 10 million; 20% from R$ 10 million to R$ 30 million; and 22.5% above R$ 30 million. There are two important exemptions:
 
 1. A single property sold for up to R$ 440,000, with no other sale in the last 5 years (art. 23 of Law 9,250/95; Solução de Consulta Cosit 264/2023).
-2. Sale of a residential property with the full proceeds reinvested in another residential property in Brazil within 180 days (art. 39 of Law 11,196/2005; Solução de Consulta Cosit 99,004/2024 and 108/2026). Partial reinvestment reduces the exemption proportionally. The Federal Revenue accepts purchases of ready, off-plan or under-construction residential property, and repayment of financing on a residential property already owned. It does not accept construction on land the taxpayer already owns, nor repayment of financing for construction (Solução de Consulta Cosit 108/2026).
+2. Sale of a residential property with the full proceeds reinvested in another residential property in Brazil within 180 days (art. 39 of Law 11,196/2005). Partial reinvestment reduces the exemption proportionally. The Federal Revenue accepts the purchase of ready, off-plan or under-construction residential property from a third party (Solução de Consulta Cosit 108/2026). There is no exemption when the proceeds are used to build on land the taxpayer already owns, or to repay financing for construction (Solução de Consulta Cosit 108/2026).
 
 The taxable gain is calculated in the GCAP system and paid by DARF. Even when exempt, the sale must be reported in the tax return. This text is informational and does not replace the advice of an accountant.
 
 
-ITBI in São Paulo: the general rate is 3%, under Municipal Law 11,154/1991. Specialized sources disagree on the tax base (transaction value or assessed value), and a recent change (Complementary Law 227/2026) should be checked with an accountant or the city hall before any calculation. Other cities have different rates.
+ITBI in São Paulo: the general rate is 3%, under Municipal Law 11,154/1991. Under Tema 1113 of the Brazilian Superior Court of Justice (First Section, judged on 24/02/2022), the tax base is the value of the property transferred under normal market conditions. The value declared by the taxpayer is presumed consistent with the market, and the municipality may not set the base in advance using a unilateral reference value. Recent legislative changes exist, and their validity should be checked. Confirm the base with the city hall and an accountant before any calculation. Other cities have different rates and criteria.
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -1460,14 +1460,21 @@ national interest.
 
 Rural Properties:
 
-• Acquisition by foreign natural persons is limited to 50 indefinite exploitation 
-  modules
+• Law 5,709/71, art. 1, allows the purchase of rural property only by a foreign resident in Brazil and by a foreign legal entity authorized to operate in Brazil. A non-resident, as a rule, cannot buy rural property through this route.
 
-• Property of up to 3 modules is free of authorization, but buying more than one such property also requires authorization
+• A foreign natural person who is a resident may not acquire more than 50 modules of indefinite exploitation (art. 7 of Decree 74,965/1974).
 
-• For areas between 3 and 50 modules, INCRA authorization is required; above 20 modules, approval of the exploration project is also required (art. 7 of Law 5,709/71)
-• Brazilian companies with a majority of foreign capital are treated as foreign 
-  for these purposes
+• Property of up to 3 modules is free of authorization, but buying more than one such property by a natural person also requires authorization (art. 7, §§ 1 and 3).
+
+• Between 3 and 50 modules, INCRA authorization is required. Above 20 modules, approval of the exploration project is also required (art. 7, §§ 2 and 4).
+
+• Each municipality has a collective limit of 1/4 of its area for foreign-owned land, with no more than 40% of that limit per nationality (art. 5). It does not apply to areas under 3 modules, or to a foreigner married to a Brazilian or with a Brazilian child (art. 5, §2).
+
+• A Brazilian legal entity with a majority of capital held by foreigners resident or based abroad is subject to the same regime (art. 1, §1, of the Decree).
+
+• Donation of public land to foreigners is prohibited, and an acquisition that violates the rules is void (arts. 18 and 19).
+
+• The rules also apply to mergers, acquisitions and changes of corporate control (art. 20).
 
 Border Zone (up to 150 km from border): Purchasing urban or rural properties in 
 these areas by foreigners depends on prior authorization from the National 
@@ -1812,7 +1819,7 @@ References verified on October 23, 2026.
 
 6. BRAZIL. Law No. 11,196, of November 21, 2005 (art. 39: reinvestment on the sale of a residential property).
 
-7. BRAZIL. Law No. 5,709, of October 7, 1971. Regulates the acquisition of rural property by foreigners.
+7. BRAZIL. Law No. 5,709, of October 7, 1971 (art. 1: who may acquire rural property; art. 7: module limits and INCRA authorization). Regulated by Decree No. 74,965/1974.
 
 8. SUPERIOR COURT OF JUSTICE (STJ). REsp 2,096,465/SP. Rapporteur: Justice Ricardo Villas Bôas Cueva, 3rd Panel.
 
@@ -1826,9 +1833,15 @@ References verified on October 23, 2026.
 
 13. FEDERAL REVENUE OF BRAZIL. Solução de Consulta Cosit nº 264, of October 30, 2023 (exemption of R$ 440,000).
 
-14. FEDERAL REVENUE OF BRAZIL. Solução de Consulta Cosit nº 99,004, of March 14, 2024 (repayment of financing on a residential property).
+14. FEDERAL REVENUE OF BRAZIL. Solução de Consulta Cosit nº 108, of July 1, 2026 (reinvestment in residential property).
 
-15. FEDERAL REVENUE OF BRAZIL. Solução de Consulta Cosit nº 108, of July 1, 2026 (reinvestment in residential property).
+15. SUPERIOR COURT OF JUSTICE (STJ). AgInt no AREsp 1,678,642/SP. Rapporteur: Justice Ricardo Villas Bôas Cueva, 3rd Panel, DJe 09/03/2021. Full text pending reading.
+
+16. SUPERIOR COURT OF JUSTICE (STJ). Official news on REsp 2,154,389/SC, of 13/04/2026.
+
+17. SUPERIOR COURT OF JUSTICE (STJ). Repetitive Theme 1113 (ITBI tax base). First Section, judged on 24/02/2022, published on 03/03/2022.
+
+18. BRAZIL. Law No. 9,514, of November 20, 1997, art. 24, §1 (wording of MP 1,162/2023). Validity to be confirmed.
 
 
 ════════════════════════════════════════════════════════════════════════════════

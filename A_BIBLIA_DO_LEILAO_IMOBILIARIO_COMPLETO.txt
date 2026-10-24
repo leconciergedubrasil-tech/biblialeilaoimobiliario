@@ -103,9 +103,8 @@ judiciais, de bancos, de seguradoras, de empresas ou de particulares.
 
 Leilão de imóveis é uma categoria de venda de bens imobiliários, e neste tipo 
 de transação não há negociação direta entre um comprador e um vendedor. No caso 
-de leilões judiciais, a alienação é feita em um processo, e o juiz é que vai 
-homologar ou não a arrematação. Nos leilões, os interessados fazem os lances em 
-disputa, na qual será homologada a melhor oferta.
+de leilões judiciais, a alienação é feita em um processo, e o juiz assina o auto de arrematação, ou não, conforme o caso. Nos leilões, os interessados fazem os lances em 
+disputa, na qual vence a melhor oferta.
 
 
 1.2 A diferença entre compra convencional e arrematação
@@ -158,8 +157,9 @@ dos fundos respectivos.
 Capítulo 2: A Base Legal dos Leilões
 ═══════════════════════════════════════════════════════════════════════════════
 
-2.1 Lei 9.514/97: o Sistema de Financiamento Imobiliário (SFI)
+Antes de 1997, a execução de garantias imobiliárias se apoiava sobretudo no Decreto-Lei 70/1966, que previa a execução extrajudicial de créditos hipotecários do Sistema Financeiro da Habitação. A Lei 9.514/97 instituiu a alienação fiduciária de imóvel e o Sistema de Financiamento Imobiliário. A Lei 13.465/2017 e a Lei 14.711/2023 alteraram esse regime, e o Decreto-Lei 70/66 foi parcialmente revogado pela segunda. As seções seguintes descrevem a lei atual.
 
+\1
 A Lei 9.514/97 é o alicerce do mercado de leilões imobiliários no Brasil.
 
 Artigo 1º: O Sistema de Financiamento Imobiliário (SFI) tem por finalidade 
@@ -180,7 +180,7 @@ emitir outros títulos de crédito, realizar negócios e prestar serviços
 compatíveis com as suas atividades.
 
 
-Segundo leilão no regime extrajudicial: se o primeiro leilão não tiver lance igual ou superior ao valor do imóvel fixado no contrato, realiza-se um segundo leilão nos 15 dias seguintes. Nele, o lance deve ser igual ou superior ao valor integral da dívida, das despesas e dos encargos legais (art. 27, §§ 1º e 2º, da Lei 9.514/97). A jurisprudência do STJ considera preço vil o lance inferior a 50% do valor de avaliação (AgInt nos EDcl no REsp 1.931.921/SP, 2021), vedação que o REsp 2.096.465/SP aplica também à execução extrajudicial.
+Segundo leilão no regime extrajudicial: se o primeiro leilão não tiver lance igual ou superior ao valor do imóvel fixado no contrato, realiza-se um segundo leilão nos 15 dias seguintes (art. 27, §1º, da Lei 9.514/97). No crédito habitacional (art. 26-A, §3º), o lance deve ser igual ou superior ao valor integral da dívida, das despesas e dos encargos; se nenhum lance alcançar esse valor, a dívida é considerada extinta (art. 26-A, §4º). No crédito não habitacional (art. 27, §2º), o credor pode, a seu exclusivo critério, aceitar lance de pelo menos metade da avaliação quando nenhum lance alcança a dívida. O STJ considera preço vil o lance inferior a 50% da avaliação (AgInt nos EDcl no REsp 1.931.921/SP, 2021) \1 Esse piso não é absoluto: em circunstâncias específicas, o STJ já admitiu arrematação abaixo de 50% da avaliação (REsp 2.039.253/SP, Terceira Turma, 2023). Por isso, o piso deve ser conferido caso a caso, com advogado.
 
 2.2 Lei 13.465/2017: atualizações e modernizações
 
@@ -202,6 +202,8 @@ aquisição e securitização desses créditos e a emissão e colocação no mer
 financeiro de Certificados de Recebíveis Imobiliários (CRI). Este mecanismo 
 permite que os créditos imobiliários sejam transformados em títulos negociáveis 
 no mercado financeiro, aumentando a liquidez do setor.
+
+O CRI é título de crédito nominativo, de livre negociação, lastreado em créditos imobiliários (art. 6º da Lei 9.514/97). Desde a Lei 14.430/2022, a emissão é regida pelo marco legal da securitização, pela Lei 6.385/76 e pela regulamentação da Comissão de Valores Mobiliários. A emissão é restrita às companhias securitizadoras. A regulamentação atual deve ser conferida na versão vigente antes de qualquer emissão.
 
 
 2.5 A Constituição Federal e o direito à propriedade
@@ -237,13 +239,12 @@ terá 15 dias para pagar o débito, com os encargos, no cartório.
 
 Caso contrário, a instituição financeira poderá quitar o ITBI (Imposto de 
 Transmissão de Bens Imóveis) e firmar a propriedade em seu favor. No prazo de 
-30 dias após a consolidação, o imóvel é levado a leilão.
+60 dias após a consolidação, o imóvel é levado a leilão (art. 27, caput, com redação da Lei 14.711/2023).
 
 Como impedir o leilão:
 
 Para impedir o leilão, o devedor deve pagar as parcelas em atraso, com os encargos, 
-dentro do prazo da notificação. Depois da consolidação da propriedade, a reversão 
-é restrita (ver a seção 10.3). Nesse caso, a via judicial exige advogado, e o devedor 
+dentro do prazo da notificação. Depois da consolidação da propriedade, a reversão é restrita (ver a seção 10.3). Até a realização do segundo leilão, o devedor tem direito de preferência para comprar o imóvel pelo valor da dívida e das despesas (art. 27, §2º-B, da Lei 9.514/97). Nesse caso, a via judicial exige advogado, e o devedor 
 pode depositar os valores em conta judicial vinculada aos autos, ou propor um 
 acordo de parcelamento que o credor aceite.
 
@@ -266,9 +267,9 @@ No leilão judicial, há duas praças (também chamadas de fases):
 1ª praça: O imóvel é oferecido pelo valor da avaliação. Se não houver lances, 
 segue para a 2ª praça.
 
-2ª praça: O imóvel é oferecido em novo leilão, com lance mínimo definido pelo juiz e pelo edital. A lei proíbe o chamado preço vil, e lances muito abaixo do valor de avaliação podem ser anulados. Confira o piso aplicável ao seu caso com um advogado.
+2ª praça: O imóvel é oferecido em novo leilão, com lance mínimo definido pelo juiz e pelo edital. A lei proíbe o chamado preço vil, e lances muito abaixo do valor de avaliação podem ser anulados. Sem preço mínimo fixado no edital, é vil o lance inferior a 50% da avaliação (art. 891, parágrafo único, do CPC). Alguns editais fixam piso maior, como 60%, para imóveis. Confira o piso no edital e, se necessário, com um advogado.
 
-É na 2ª praça que as oportunidades costumam aparecer, mas o desconto depende do edital e do piso legal contra preço vil.
+É na 2ª praça que as oportunidades costumam aparecer, mas o desconto depende do edital e do piso legal contra preço vil. Esse piso não é absoluto: o STJ já admitiu, em circunstâncias específicas, arrematação abaixo de 50% da avaliação (REsp 2.039.253/SP, 2023). Não conte com essa exceção ao planejar o lance.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -312,6 +313,19 @@ responsáveis legais, e a arrematação exige capacidade civil plena.
 
 Estrangeiros podem participar de leilões no Brasil, mas devem observar regras 
 específicas, que serão detalhadas no Capítulo 26 (Bônus).
+
+
+3.4 Praça, leilão e segundo leilão: três conceitos que se confundem
+
+A palavra praça não tem o mesmo sentido nos dois regimes, e isso confunde o investidor.
+
+No leilão judicial, a primeira praça é o leilão feito pelo valor de avaliação do imóvel. Se não houver lance, realiza-se a segunda praça, com lance mínimo definido pelo juiz e pelo edital. Sem mínimo fixado, é vil o lance inferior a 50% da avaliação (art. 891, parágrafo único, do CPC).
+
+No leilão extrajudicial, a Lei 9.514/97 fala em primeiro leilão e segundo leilão, e não em praças. No primeiro leilão, o lance mínimo é o valor do imóvel fixado no contrato (art. 24, VI). Se esse valor for inferior à base de cálculo do ITBI usada pelo órgão competente na consolidação da propriedade, esta última passa a ser o mínimo do primeiro leilão (art. 24, §1º, na redação da MP 1.162/2023; confirme a vigência do dispositivo). Essa regra deve ser lida em conjunto com a tese do STJ no Tema 1113: a existência de valor de referência municipal não autoriza, por si só, concluir que esse valor seja legítimo para fins tributários. Confira no edital qual valor foi adotado. Se nenhum lance alcançar esse valor, realiza-se o segundo leilão nos 15 dias seguintes (art. 27, §1º).
+
+O segundo leilão extrajudicial tem regra própria: o lance mínimo é o valor da dívida, com despesas e encargos, e no crédito não habitacional o credor pode aceitar lance de pelo menos metade da avaliação (art. 27, §2º). O STJ não aceita lance abaixo de 50% da avaliação nesse caso (REsp 2.096.465/SP).
+
+Na prática, ao ler um edital, pergunte: qual é o lance mínimo, qual regime se aplica (judicial ou extrajudicial) e em que fase o leilão está.
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -507,15 +521,13 @@ Capítulo 9: A Arrematação — O Momento da Verdade
 Após o lance vencedor, o arrematante deve:
 
 1. Pagar o valor do lance (ou a entrada, se parcelado)
-2. Aguardar a homologação pelo juiz (nos leilões judiciais)
+2. Aguardar a assinatura do auto de arrematação pelo juiz, pelo arrematante e pelo leiloeiro (nos leilões judiciais; art. 903 do CPC)
 3. Registrar a arrematação no cartório de registro de imóveis
 
 
-9.2 Homologação pelo juiz: o que significa e quanto tempo leva
+9.2 Auto de arrematação: o que significa e quando a compra fica firme
 
-No caso de leilões judiciais, a alienação é feita em um processo, e o juiz é que 
-vai homologar ou não a arrematação. A homologação pode levar de alguns dias a 
-alguns meses, dependendo da complexidade do processo.
+No leilão judicial, o juiz assina o auto de arrematação junto com o arrematante e o leiloeiro. Assinado o auto, a arrematação é perfeita, acabada e irretratável, mesmo que depois sejam julgados procedentes embargos ou ação autônoma de invalidação, ressalvado o direito de reparação pelos prejuízos (art. 903 do CPC). Até essa assinatura, o devedor ainda pode remir a execução, pagando a dívida com os acessórios (arts. 826 e 903 do CPC; STJ, REsp 1.996.063/RJ, 3ª Turma, julgado em 24/05/2022; no mesmo sentido, REsp 1.862.676/SP, 2021). O prazo varia conforme o processo.
 
 
 9.3 O pagamento: à vista, parcelado ou financiado?
@@ -546,7 +558,7 @@ tão longo quanto o de um empréstimo imobiliário e com taxas que variam confor
 
 Em leilões de bancos, como os da Caixa, o edital pode permitir o pagamento financiado. Regras que costumam aparecer:
 
-1. Entrada: nos leilões da Caixa, a entrada costuma ser de pelo menos 5% do valor mínimo de venda, paga em até 2 dias úteis após a homologação. Confira no edital.
+1. Entrada: nos leilões da Caixa, a entrada costuma ser de pelo menos 5% do valor mínimo de venda, paga em até 2 dias úteis após a aprovação da venda. Confira no edital.
 2. Financiamento e FGTS: só são permitidos quando o anúncio do imóvel disser que aceita. Não é regra geral.
 3. Percentual financiado: materiais de divulgação falam em até 95%, mas o valor real depende do edital e da aprovação do banco. Trate qualquer número como ponto de partida, não como garantia.
 4. Comissão do leiloeiro: mínimo de 5% do valor arrematado, paga pelo arrematante (art. 24, parágrafo único, do Decreto 21.981/1932). Confira no edital.
@@ -565,7 +577,7 @@ Capítulo 10: Imissão na Posse — Como Tomar o Imóvel
 
 Se o imóvel estiver desocupado, a imissão na posse costuma ser mais rápida. O 
 arrematante pode tomar posse depois que o pagamento for efetuado e a arrematação 
-for homologada.
+tiver o auto de arrematação assinado.
 
 
 10.2 Imóvel ocupado: como proceder
@@ -583,9 +595,9 @@ O caminho depende de como o leilão foi feito.
 
 No leilão extrajudicial, regido pela Lei 9.514/97, o arrematante tem direito à imissão na posse depois de a carta de arrematação ser registrada na matrícula do imóvel (art. 30). Se o ocupante não sair, cabe ação de imissão na posse. Enquanto o ocupante permanecer, é devida a taxa de ocupação de 1% ao mês sobre o valor do imóvel indicado no contrato para venda em leilão, desde a arrematação até a imissão (art. 37-A, com redação dada pela Lei 14.711/2023). Uma ação anulatória contra o leilão, sem decisão que suspenda o procedimento, em geral não impede a imissão, segundo decisões de tribunais estaduais. Isso não é garantia: confira o caso com advogado.
 
-No leilão judicial, a imissão segue as regras de expropriação do Código de Processo Civil. Os prazos e os recursos são diferentes e devem ser conferidos com advogado.
+No leilão judicial, a imissão é pedida nos próprios autos e feita por mandado, depois do pagamento (art. 901 do CPC). A impugnação da arrematação deve ser apresentada em 10 dias após o aperfeiçoamento, para o juiz decidir (art. 903, §2º, do CPC). Depois da expedição da carta, a invalidação só pode ser pleiteada por ação autônoma (art. 903, §4º). Os prazos devem ser conferidos com advogado.
 
-Atenção: o ocupante pode alegar nulidade do procedimento. Por isso, leia o edital e a matrícula antes do lance. Verifique também se o edital comprova a intimação pessoal do devedor sobre as datas do leilão: os tribunais discutem quando a falta dessa intimação anula o procedimento, e a ciência inequívoca do devedor tem sido considerada suficiente em alguns casos. Confirme com advogado.
+Atenção: o ocupante pode alegar nulidade do procedimento. Por isso, leia o edital e a matrícula antes do lance. A lei exige intimação pessoal do devedor para a purgação da mora (art. 26, §3º, da Lei 9.514/97, com redação da Lei 14.711/2023). A intimação por edital só é válida depois de esgotadas as tentativas de localização do devedor. Também devem ser comunicadas ao devedor a data, o horário e o local do leilão, por correspondência nos endereços do contrato (art. 27, §2º-A). O STJ tem entendido que a intimação pessoal sobre a data do leilão é a regra, e que a nulidade pode não ser decretada quando o devedor demonstra ciência inequívoca, como ao propor ação para suspender o leilão (AgInt no AREsp 1.678.642/SP, Rel. Min. Ricardo Villas Bôas Cueva, DJe 09/03/2021). Uma procuração para ajuizar ação, sozinha, não basta. Em abril de 2026, o STJ noticiou a anulação de dois leilões por falta de intimação pessoal sobre a data (notícia oficial do STJ, 13/04/2026). Verifique no edital e nos autos se essas comunicações foram feitas antes de dar lance.
 
 
 10.4 Prazos e custos judiciais
@@ -717,12 +729,12 @@ da operação.
 Ao vender o imóvel por mais do que o custo de aquisição, a diferença é ganho de capital, sujeito ao Imposto de Renda da pessoa física, com alíquotas progressivas: 15% até R$ 5 milhões de ganho; 17,5% de R$ 5 milhões a R$ 10 milhões; 20% de R$ 10 milhões a R$ 30 milhões; e 22,5% acima de R$ 30 milhões. Há duas isenções importantes:
 
 1. Imóvel único de até R$ 440 mil, sem outra venda nos últimos 5 anos (art. 23 da Lei 9.250/95; Solução de Consulta Cosit nº 264/2023).
-2. Venda de imóvel residencial com reaplicação integral do valor em outro imóvel residencial no país, em até 180 dias (art. 39 da Lei 11.196/2005). A reaplicação parcial reduz a isenção proporcionalmente. A Receita aceita a compra de imóvel residencial pronto, na planta ou em construção, e a quitação de financiamento de imóvel residencial já possuído (Solução de Consulta Cosit nº 99.004/2024). Não há isenção quando o valor é usado para construir em terreno próprio, nem para quitar financiamento de construção (Solução de Consulta Cosit nº 108/2026).
+2. Venda de imóvel residencial com reaplicação integral do valor em outro imóvel residencial no país, em até 180 dias (art. 39 da Lei 11.196/2005). A reaplicação parcial reduz a isenção proporcionalmente. A Receita aceita a compra de imóvel residencial pronto, na planta ou em construção de terceiro (Solução de Consulta Cosit nº 108/2026). Não há isenção quando o valor é usado para construir em terreno próprio, nem para quitar financiamento de construção.
 
 O ganho tributável é apurado no GCAP e recolhido por DARF. Mesmo quando há isenção, a venda deve ser informada na declaração. Este texto é informativo e não substitui a orientação de um contador.
 
 
-ITBI em São Paulo: a alíquota geral é de 3%, pela Lei Municipal 11.154/1991. Fontes especializadas divergem sobre a base de cálculo (valor da transação ou valor venal), e há uma alteração recente (LC 227/2026) que deve ser conferida com o contador ou com a Prefeitura antes de qualquer conta. Outras cidades têm alíquotas diferentes.
+ITBI em São Paulo: a alíquota geral é de 3%, pela Lei Municipal 11.154/1991. Pelo Tema 1113 do STJ (Primeira Seção, julgado em 24/02/2022), a base de cálculo é o valor do imóvel transmitido em condições normais de mercado. O valor declarado pelo contribuinte presume-se condizente com o mercado, e o município não pode arbitrar previamente a base por valor de referência unilateral. Há ainda alterações legislativas recentes, cuja vigência deve ser conferida. Confirme a base com a Prefeitura e com o contador antes de qualquer conta. Outras cidades têm alíquotas e critérios diferentes.
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -1126,7 +1138,7 @@ Capítulo 21: Seu Primeiro Leilão — Checklist Completo
 21.4 Pós-arrematação: documentos e pagamento
 
 □ Pague o lance (ou a entrada)
-□ Aguarde a homologação (se judicial)
+□ Aguarde a assinatura do auto de arrematação (se judicial)
 □ Registre a arrematação no cartório
 
 
@@ -1424,10 +1436,7 @@ conta no Brasil.
 Conta bancária: É recomendável abrir uma conta em um banco brasileiro para 
 viabilizar a transferência de fundos.
 
-Câmbio: As operações de câmbio devem ser realizadas através de instituições 
-autorizadas pelo Banco Central do Brasil, e o investidor deve estar preparado 
-para fornecer a documentação de origem dos recursos para cumprir as exigências 
-de compliance.
+Câmbio: a remessa para compra de imóvel é uma operação de câmbio com finalidade declarada, feita por instituição autorizada pelo Banco Central. O investidor deve estar preparado para fornecer a documentação de origem dos recursos. O registro no sistema do Banco Central depende de a operação configurar investimento estrangeiro direto, ou seja, participação em sociedade ou direito cujo retorno dependa do resultado do negócio. A compra de imóvel para uso próprio, em geral, não se enquadra nisso, mas o banco deve confirmar. Um cadastro de investidor não residente, voltado a aplicações financeiras, não se aplica, em regra, à compra de imóvel.
 
 
 26.3 Participação no leilão: online e presencial
@@ -1466,14 +1475,21 @@ interesse nacional.
 
 Imóveis Rurais:
 
-• A aquisição por pessoas físicas estrangeiras é limitada a 50 módulos de 
-  exploração indefinida
+• A Lei 5.709/71, art. 1º, permite a aquisição de imóvel rural apenas ao estrangeiro residente no País e à pessoa jurídica estrangeira autorizada a funcionar no Brasil. O não residente, em regra, não pode comprar imóvel rural por essa via.
 
-• Imóvel de até 3 módulos é livre de autorização, mas a compra de mais de um imóvel desse porte por pessoa física também depende de autorização
+• A pessoa física estrangeira residente não pode adquirir mais de 50 módulos de exploração indefinida (art. 7º do Decreto 74.965/1974).
 
-• Para áreas entre 3 e 50 módulos, é necessária autorização do INCRA; acima de 20 módulos, também a aprovação do projeto de exploração (art. 7º da Lei 5.709/71)
-• Empresas brasileiras com maioria de capital estrangeiro são equiparadas a 
-  estrangeiras para esses fins
+• Imóvel de até 3 módulos é livre de autorização, mas a compra de mais de um imóvel desse porte por pessoa física também depende de autorização (art. 7º, §§ 1º e 3º).
+
+• Entre 3 e 50 módulos, é necessária autorização do INCRA. Acima de 20 módulos, também a aprovação do projeto de exploração (art. 7º, §§ 2º e 4º).
+
+• Cada município tem limite coletivo de 1/4 da superfície para áreas de estrangeiros, com no máximo 40% desse limite por nacionalidade (art. 5º). Não se aplica a áreas inferiores a 3 módulos, nem a estrangeiro casado com brasileiro ou com filho brasileiro (art. 5º, §2º).
+
+• Pessoa jurídica brasileira com maioria de capital de estrangeiros residentes ou sediados no exterior segue o mesmo regime (art. 1º, §1º, do Decreto).
+
+• A doação de terras públicas a estrangeiros é vedada, e a aquisição que viole as regras é nula de pleno direito (arts. 18 e 19).
+
+• As normas também se aplicam a fusões, incorporações e alterações de controle societário (art. 20).
 
 Faixa de Fronteira (até 150 km da fronteira): A compra de imóveis rurais ou 
 urbanos nestas áreas por estrangeiros depende de autorização prévia do Conselho 
@@ -1663,7 +1679,7 @@ Apêndice B: Glossário de Termos Técnicos (Common Law vs. Civil Law)
 ╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
 ║ Edital               ║ Documento que rege o leilão                          ║ Documento central do leilão                                             ║
 ╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
-║ Homologação          ║ Aprovação judicial da arrematação                    ║ Formalização da arrematação                                             ║
+║ Auto de arrematação ║ Assinado pelo juiz, arrematante e leiloeiro ║ Torna a arrematação irretratável (CPC 903)                                             ║
 ╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
 ║ Imissão na Posse     ║ Ação judicial para tomar posse                       ║ Tomar posse do imóvel arrematado                                        ║
 ╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
@@ -1843,9 +1859,15 @@ Referências verificadas em 23 de outubro de 2026.
 
 13. RECEITA FEDERAL DO BRASIL. Solução de Consulta Cosit nº 264, de 30 de outubro de 2023 (isenção de R$ 440 mil).
 
-14. RECEITA FEDERAL DO BRASIL. Solução de Consulta Cosit nº 99.004, de 14 de março de 2024 (quitação de financiamento de imóvel residencial).
+14. RECEITA FEDERAL DO BRASIL. Solução de Consulta Cosit nº 108, de 1º de julho de 2026 (reinvestimento em imóvel residencial).
 
-15. RECEITA FEDERAL DO BRASIL. Solução de Consulta Cosit nº 108, de 1º de julho de 2026 (reinvestimento em imóvel residencial).
+15. SUPERIOR TRIBUNAL DE JUSTIÇA. AgInt no AREsp 1.678.642/SP. Relator: Ministro Ricardo Villas Bôas Cueva, 3ª Turma, DJe 09/03/2021. Leitura do inteiro teor pendente.
+
+16. SUPERIOR TRIBUNAL DE JUSTIÇA. Notícia oficial sobre o REsp 2.154.389/SC, de 13/04/2026.
+
+17. SUPERIOR TRIBUNAL DE JUSTIÇA. Tema Repetitivo 1113 (ITBI: base de cálculo). Primeira Seção, julgado em 24/02/2022, publicado em 03/03/2022.
+
+18. BRASIL. Lei nº 9.514, de 20 de novembro de 1997, art. 24, §1º (redação da MP 1.162/2023). Vigência a confirmar.
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -1857,7 +1879,7 @@ Common Law ............................ Capítulo 1, 26
 CRI .................................. Capítulo 2
 Edital ............................... Capítulo 5
 Estrangeiro .......................... Capítulo 4, 26
-Homologação .......................... Capítulo 9
+Auto de arrematação ............ Capítulo 9
 Imissão na Posse ..................... Capítulo 10
 ITBI ................................. Capítulo 9
 Leilão Extrajudicial ................. Capítulo 3
