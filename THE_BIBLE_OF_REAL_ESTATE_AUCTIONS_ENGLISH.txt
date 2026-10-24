@@ -711,7 +711,7 @@ ROI (Return on Investment) in the long run.
 When you sell the property for more than the acquisition cost, the difference is a capital gain, subject to personal income tax at progressive rates: 15% up to R$ 5 million of gain; 17.5% from R$ 5 million to R$ 10 million; 20% from R$ 10 million to R$ 30 million; and 22.5% above R$ 30 million. There are two important exemptions:
 
 1. A single property sold for up to R$ 440,000, with no other sale in the last 5 years (art. 23 of Law 9,250/95; Solução de Consulta Cosit 264/2023).
-2. Sale of a residential property with the full proceeds reinvested in another residential property in Brazil within 180 days (art. 39 of Law 11,196/2005; Solução de Consulta Cosit 99,004/2024 and 108/2026). Partial reinvestment reduces the exemption proportionally. The Federal Revenue accepts purchases of ready, off-plan or under-construction residential property, and repayment of financing on a residential property already owned. It does not accept construction on land the taxpayer already owns.
+2. Sale of a residential property with the full proceeds reinvested in another residential property in Brazil within 180 days (art. 39 of Law 11,196/2005; Solução de Consulta Cosit 99,004/2024 and 108/2026). Partial reinvestment reduces the exemption proportionally. The Federal Revenue accepts purchases of ready, off-plan or under-construction residential property, and repayment of financing on a residential property already owned. It does not accept construction on land the taxpayer already owns, nor repayment of financing for construction (Solução de Consulta Cosit 108/2026).
 
 The taxable gain is calculated in the GCAP system and paid by DARF. Even when exempt, the sale must be reported in the tax return. This text is informational and does not replace the advice of an accountant.
 
@@ -1186,11 +1186,11 @@ R$ 250,000.
 ╚══════════════════╩══════════════════╝
 
 
-22.3 Case 3: The Auction with Fierce Competition That Almost Lost Money
+22.3 Case 3: The Auction with Fierce Competition That Wiped Out the Profit
 [LABEL: ILLUSTRATIVE, NO DOCUMENTS ATTACHED]
 
 An investor got into fierce bidding and paid R$ 300,000 for a property appraised 
-at R$ 350,000. Costs were R$ 70,000. Fierce competition eroded all profit.
+at R$ 350,000. Costs were R$ 70,000. Fierce competition wiped out all the profit.
 
 ╔════════════╦════════════╗
 ║ Item       ║ Value      ║
@@ -1395,24 +1395,23 @@ country.
 How to obtain:
 
 The process can be carried out through the Brazilian consular network in the 
-country of residence of the investor. Registration normally takes 2 to 3 weeks 
+country of residence of the investor. Registration can take a few weeks 
 to complete.
 
 Basic required documentation:
 
-• Valid passport (with at least 6 months validity)
+• Valid passport, or RNE for those who live in Brazil
 • CPF registration certificate
 • Proof of address (electricity, water bill or bank statement)
 • Power of attorney with specific powers, if using a representative in Brazil 
-  (must be notarized and apostilled)
+  (must be apostilled and, if not in Portuguese, have a sworn translation; a power of attorney issued at a Brazilian consulate does not need apostille)
 
-It is also recommended to obtain the RNE (National Registry of Foreigners), 
-although it is not strictly necessary for a single purchase.
+The RNE (National Registry of Foreigners) is the identity document of residents in Brazil. Non-residents may buy with a passport, provided they have a CPF. although it is not strictly necessary for a single purchase.
 
 
 26.2 Opening a Bank Account and Foreign Exchange
 
-Real estate transactions in Brazil are mandatory in Brazilian Reais (BRL). 
+Real estate purchases are normally paid in Brazilian reais (BRL). 
 Therefore, the investor needs to plan the transfer of funds to an account 
 in Brazil.
 

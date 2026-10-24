@@ -717,7 +717,7 @@ da operação.
 Ao vender o imóvel por mais do que o custo de aquisição, a diferença é ganho de capital, sujeito ao Imposto de Renda da pessoa física, com alíquotas progressivas: 15% até R$ 5 milhões de ganho; 17,5% de R$ 5 milhões a R$ 10 milhões; 20% de R$ 10 milhões a R$ 30 milhões; e 22,5% acima de R$ 30 milhões. Há duas isenções importantes:
 
 1. Imóvel único de até R$ 440 mil, sem outra venda nos últimos 5 anos (art. 23 da Lei 9.250/95; Solução de Consulta Cosit nº 264/2023).
-2. Venda de imóvel residencial com reaplicação integral do valor em outro imóvel residencial no país, em até 180 dias (art. 39 da Lei 11.196/2005). A reaplicação parcial reduz a isenção proporcionalmente. A Receita aceita a compra de imóvel residencial pronto, na planta ou em construção, e a quitação de financiamento de imóvel residencial já possuído (Solução de Consulta Cosit nº 99.004/2024). Não há isenção quando o valor é usado na construção em terreno próprio (Solução de Consulta Cosit nº 108/2026).
+2. Venda de imóvel residencial com reaplicação integral do valor em outro imóvel residencial no país, em até 180 dias (art. 39 da Lei 11.196/2005). A reaplicação parcial reduz a isenção proporcionalmente. A Receita aceita a compra de imóvel residencial pronto, na planta ou em construção, e a quitação de financiamento de imóvel residencial já possuído (Solução de Consulta Cosit nº 99.004/2024). Não há isenção quando o valor é usado para construir em terreno próprio, nem para quitar financiamento de construção (Solução de Consulta Cosit nº 108/2026).
 
 O ganho tributável é apurado no GCAP e recolhido por DARF. Mesmo quando há isenção, a venda deve ser informada na declaração. Este texto é informativo e não substitui a orientação de um contador.
 
@@ -1195,7 +1195,7 @@ R$ 250.000.
 ╚═══════════════════════╩═════════════════╝
 
 
-22.3 Caso 3: O leilão com disputa acirrada que quase deu prejuízo
+22.3 Caso 3: O leilão com disputa acirrada que zerou o lucro
 [RÓTULO: ILUSTRATIVO, sem documentação anexa]
 
 Um investidor entrou em uma disputa acirrada e pagou R$ 300.000 por um imóvel 
@@ -1408,20 +1408,17 @@ residência do investidor. A inscrição pode levar algumas semanas para ser con
 
 Documentação básica necessária:
 
-• Passaporte válido (com pelo menos 6 meses de validade)
+• Passaporte válido, ou RNE para quem reside no Brasil
 • Certificado de registro do CPF
 • Comprovante de endereço (conta de luz, água ou extrato bancário)
-• Procuração com poderes específicos, se utilizar um representante no Brasil 
-  (deve ser notarizada e apostilada)
+• Procuração com poderes específicos, se utilizar um representante no Brasil (deve ser apostilada e, se não estiver em português, ter tradução juramentada; a procuração feita no consulado brasileiro dispensa apostila)
 
-Recomenda-se ainda obter o RNE (Registro Nacional de Estrangeiros), embora não 
-seja estritamente obrigatório para uma única compra.
+O RNE (Registro Nacional de Estrangeiros) é o documento de identidade de quem reside no Brasil. Quem não reside pode comprar com passaporte, desde que tenha CPF.
 
 
 26.2 Abertura de conta bancária e câmbio
 
-As transações imobiliárias no Brasil são obrigatoriamente realizadas em Reais 
-(BRL). Por isso, o investidor precisa planejar o envio de recursos para uma 
+A compra normalmente é paga em reais (BRL). Por isso, o investidor precisa planejar o envio de recursos para uma 
 conta no Brasil.
 
 Conta bancária: É recomendável abrir uma conta em um banco brasileiro para 
