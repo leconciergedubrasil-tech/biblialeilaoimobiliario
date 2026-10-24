@@ -321,7 +321,7 @@ A palavra praça não tem o mesmo sentido nos dois regimes, e isso confunde o in
 
 No leilão judicial, a primeira praça é o leilão feito pelo valor de avaliação do imóvel. Se não houver lance, realiza-se a segunda praça, com lance mínimo definido pelo juiz e pelo edital. Sem mínimo fixado, é vil o lance inferior a 50% da avaliação (art. 891, parágrafo único, do CPC).
 
-No leilão extrajudicial, a Lei 9.514/97 fala em primeiro leilão e segundo leilão, e não em praças. No primeiro leilão, o lance mínimo é o valor do imóvel fixado no contrato (art. 24, VI). Se esse valor for inferior à base de cálculo do ITBI usada pelo órgão competente na consolidação da propriedade, esta última passa a ser o mínimo do primeiro leilão (art. 24, §1º, na redação da MP 1.162/2023; confirme a vigência do dispositivo). Essa regra deve ser lida em conjunto com a tese do STJ no Tema 1113: a existência de valor de referência municipal não autoriza, por si só, concluir que esse valor seja legítimo para fins tributários. Confira no edital qual valor foi adotado. Se nenhum lance alcançar esse valor, realiza-se o segundo leilão nos 15 dias seguintes (art. 27, §1º).
+No leilão extrajudicial, a Lei 9.514/97 fala em primeiro leilão e segundo leilão, e não em praças. No primeiro leilão, o lance mínimo é o valor do imóvel fixado no contrato (art. 24, VI). Se esse valor for inferior à base de cálculo do ITBI usada pelo órgão competente na consolidação da propriedade, esta última passa a ser o mínimo do primeiro leilão (a regra foi incluída pela MP 1.162/2023 e não tem vigência segura: a anotação oficial do texto consolidado registra essa versão como não convertida em lei, e a situação do parágrafo único do art. 24, incluído pela Lei 13.465/2017, deve ser confirmada com advogado). Essa regra deve ser lida em conjunto com a tese do STJ no Tema 1113: a existência de valor de referência municipal não autoriza, por si só, concluir que esse valor seja legítimo para fins tributários. Confira no edital qual valor foi adotado. Se nenhum lance alcançar esse valor, realiza-se o segundo leilão nos 15 dias seguintes (art. 27, §1º).
 
 O segundo leilão extrajudicial tem regra própria: o lance mínimo é o valor da dívida, com despesas e encargos, e no crédito não habitacional o credor pode aceitar lance de pelo menos metade da avaliação (art. 27, §2º). O STJ não aceita lance abaixo de 50% da avaliação nesse caso (REsp 2.096.465/SP).
 
@@ -597,7 +597,7 @@ No leilão extrajudicial, regido pela Lei 9.514/97, o arrematante tem direito à
 
 No leilão judicial, a imissão é pedida nos próprios autos e feita por mandado, depois do pagamento (art. 901 do CPC). A impugnação da arrematação deve ser apresentada em 10 dias após o aperfeiçoamento, para o juiz decidir (art. 903, §2º, do CPC). Depois da expedição da carta, a invalidação só pode ser pleiteada por ação autônoma (art. 903, §4º). Os prazos devem ser conferidos com advogado.
 
-Atenção: o ocupante pode alegar nulidade do procedimento. Por isso, leia o edital e a matrícula antes do lance. A lei exige intimação pessoal do devedor para a purgação da mora (art. 26, §3º, da Lei 9.514/97, com redação da Lei 14.711/2023). A intimação por edital só é válida depois de esgotadas as tentativas de localização do devedor. Também devem ser comunicadas ao devedor a data, o horário e o local do leilão, por correspondência nos endereços do contrato (art. 27, §2º-A). O STJ tem entendido que a intimação pessoal sobre a data do leilão é a regra, e que a nulidade pode não ser decretada quando o devedor demonstra ciência inequívoca, como ao propor ação para suspender o leilão (AgInt no AREsp 1.678.642/SP, Rel. Min. Ricardo Villas Bôas Cueva, DJe 09/03/2021). Uma procuração para ajuizar ação, sozinha, não basta. Em abril de 2026, o STJ noticiou a anulação de dois leilões por falta de intimação pessoal sobre a data (notícia oficial do STJ, 13/04/2026). Verifique no edital e nos autos se essas comunicações foram feitas antes de dar lance.
+Atenção: o ocupante pode alegar nulidade do procedimento. Por isso, leia o edital e a matrícula antes do lance. A lei exige intimação pessoal do devedor para a purgação da mora (art. 26, §3º, da Lei 9.514/97, com redação da Lei 14.711/2023). A intimação por edital só é válida depois de esgotadas as tentativas de localização do devedor. Também devem ser comunicadas ao devedor a data, o horário e o local do leilão, por correspondência nos endereços do contrato (art. 27, §2º-A). O STJ tem entendido que a intimação pessoal sobre a data do leilão é a regra, e que a nulidade pode não ser decretada quando o devedor demonstra ciência inequívoca, como ao propor ação para suspender o leilão (AgInt no AREsp 1.678.642/SP, Rel. Min. Ricardo Villas Bôas Cueva, 3ª Turma, julgado em 01/03/2021, DJe 09/03/2021). Nesse caso, a ciência inequívoca decorreu de ação cautelar ajuizada pelos devedores para impedir o leilão, e rever essa conclusão esbarrava na Súmula 7 do STJ. Uma procuração para ajuizar ação, sozinha, não basta. Em abril de 2026, o STJ noticiou a anulação de dois leilões por falta de intimação pessoal sobre a data (notícia oficial do STJ, 13/04/2026). Verifique no edital e nos autos se essas comunicações foram feitas antes de dar lance.
 
 
 10.4 Prazos e custos judiciais
@@ -1861,13 +1861,13 @@ Referências verificadas em 23 de outubro de 2026.
 
 14. RECEITA FEDERAL DO BRASIL. Solução de Consulta Cosit nº 108, de 1º de julho de 2026 (reinvestimento em imóvel residencial).
 
-15. SUPERIOR TRIBUNAL DE JUSTIÇA. AgInt no AREsp 1.678.642/SP. Relator: Ministro Ricardo Villas Bôas Cueva, 3ª Turma, DJe 09/03/2021. Leitura do inteiro teor pendente.
+15. SUPERIOR TRIBUNAL DE JUSTIÇA. AgInt no AREsp 1.678.642/SP (2020/0059990-7). Relator: Ministro Ricardo Villas Bôas Cueva, 3ª Turma, julgado em 01/03/2021, DJe 09/03/2021. Inteiro teor consultado no sítio do STJ.
 
 16. SUPERIOR TRIBUNAL DE JUSTIÇA. Notícia oficial sobre o REsp 2.154.389/SC, de 13/04/2026.
 
 17. SUPERIOR TRIBUNAL DE JUSTIÇA. Tema Repetitivo 1113 (ITBI: base de cálculo). Primeira Seção, julgado em 24/02/2022, publicado em 03/03/2022.
 
-18. BRASIL. Lei nº 9.514, de 20 de novembro de 1997, art. 24, §1º (redação da MP 1.162/2023). Vigência a confirmar.
+18. BRASIL. Lei nº 9.514, de 20 de novembro de 1997, art. 24, parágrafo único (Lei 13.465/2017) e MP 1.162/2023 (texto não convertido em lei, segundo a anotação oficial). Situação a confirmar com advogado.
 
 
 ════════════════════════════════════════════════════════════════════════════════

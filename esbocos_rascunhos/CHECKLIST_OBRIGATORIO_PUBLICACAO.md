@@ -53,3 +53,14 @@ Os itens 2 a 5 dependem de acesso a textos integrais. Se você tiver acesso ao D
 - Pendente: vigência do art. 24, §1º (texto consolidado do Planalto mostra a regra, mas confirmar status da MP 1.162/2023).
 - Pendente: leitura do inteiro teor do AgInt no AREsp 1.678.642/SP.
 - Pendente: a versão em inglês ainda não tem a seção 3.4 (praças), o histórico do Cap. 2, a ressalva de ciência inequívoca no Cap. 10 com a versão completa, e o piso de 50% com a ressalva do REsp 2.039.253/SC.
+
+## Atualização (vigência do art. 24 da Lei 9.514 e AgInt 1.678.642)
+
+- Vigência do art. 24: a afirmação de que a regra do §1º está vigente pela Lei 14.620/2023 NÃO foi confirmada. A anotação oficial do texto consolidado (Planalto/ADMDireito) registra a versão da MP 1.162/2023 como "não convertida em lei". O livro agora diz que a vigência não é segura e deve ser confirmada com advogado. Pendente: ler o texto da Lei 14.620/2023 e verificar se houve veto ou supressão.
+- AgInt no AREsp 1.678.642/SP: relator Cueva e ementa confirmados por fontes secundárias. A data de sessão (23/02 a 01/03/2021) e o "DJe 09/03/2021" não foram verificados em fonte do STJ. Pendente: inteiro teor.
+
+## Atualização (inteiro teor do AgInt no AREsp 1.678.642/SP)
+
+- Inteiro teor lido no sítio do STJ: relator Min. Ricardo Villas Bôas Cueva; 3ª Turma; sessão virtual de 23/02 a 01/03/2021; DJe 09/03/2021; agravo não provido por unanimidade.
+- Fundamento: ciência inequívoca decorrente de ação cautelar para obstar o leilão; revisão esbarra na Súmula 7. O livro agora registra esse fundamento e não apresenta o acórdão como nulidade automática.
+- Art. 24 da Lei 9.514 (regra de preço mínimo do primeiro leilão): ainda pendente. Esta análise se contradiz: admite que a Lei 14.620 não reproduz o dispositivo, e a anotação oficial registra a versão da MP 1.162/2023 como não convertida. Manter para o advogado, com as três perguntas já formuladas.

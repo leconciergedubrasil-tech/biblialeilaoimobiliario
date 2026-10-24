@@ -586,7 +586,7 @@ In an out-of-court auction, governed by Law 9.514/97, the buyer has the right to
 
 In a judicial auction, possession follows the expropriation rules of the Code of Civil Procedure. Deadlines and remedies differ and must be checked with a lawyer.
 
-Warning: the occupant may allege that the procedure was invalid. Read the notice of auction and the property registration before bidding. The law requires personal notice to the debtor for purging the default (art. 26, §3, of Law 9,514/97, as amended by Law 14,711/2023), and an edictal notice is valid only after all attempts to locate the debtor have failed. The debtor must also be notified by mail, at the addresses in the contract, of the date, time and place of the auction (art. 27, §2-A). The Superior Court of Justice treats personal notice of the auction date as the rule, and the nullity may not be declared when the debtor shows clear awareness, for example by filing an action to suspend the auction (AgInt no AREsp 1,678,642/SP, Rapporteur Justice Ricardo Villas Bôas Cueva, DJe 09/03/2021). A power of attorney to sue, by itself, is not enough. In April 2026, the STJ reported the annulment of two auctions for lack of personal notice of the date (official STJ news, 13/04/2026). Check the notice and the case file before bidding.
+Warning: the occupant may allege that the procedure was invalid. Read the notice of auction and the property registration before bidding. The law requires personal notice to the debtor for purging the default (art. 26, §3, of Law 9,514/97, as amended by Law 14,711/2023), and an edictal notice is valid only after all attempts to locate the debtor have failed. The debtor must also be notified by mail, at the addresses in the contract, of the date, time and place of the auction (art. 27, §2-A). The Superior Court of Justice treats personal notice of the auction date as the rule, and the nullity may not be declared when the debtor shows clear awareness, for example by filing an action to suspend the auction (AgInt no AREsp 1,678,642/SP, Rapporteur Justice Ricardo Villas Bôas Cueva, 3rd Panel, judged on 01/03/2021, DJe 09/03/2021). In that case, clear awareness arose from a precautionary action filed by the debtors to stop the auction, and reviewing that finding was barred by Súmula 7 of the STJ. A power of attorney to sue, by itself, is not enough. In April 2026, the STJ reported the annulment of two auctions for lack of personal notice of the date (official STJ news, 13/04/2026). Check the notice and the case file before bidding.
 
 
 10.4 Timeframes and Legal Costs
@@ -1835,13 +1835,13 @@ References verified on October 23, 2026.
 
 14. FEDERAL REVENUE OF BRAZIL. Solução de Consulta Cosit nº 108, of July 1, 2026 (reinvestment in residential property).
 
-15. SUPERIOR COURT OF JUSTICE (STJ). AgInt no AREsp 1,678,642/SP. Rapporteur: Justice Ricardo Villas Bôas Cueva, 3rd Panel, DJe 09/03/2021. Full text pending reading.
+15. SUPERIOR COURT OF JUSTICE (STJ). AgInt no AREsp 1,678,642/SP (2020/0059990-7). Rapporteur: Justice Ricardo Villas Bôas Cueva, 3rd Panel, judged on 01/03/2021, DJe 09/03/2021. Full text consulted on the STJ website.
 
 16. SUPERIOR COURT OF JUSTICE (STJ). Official news on REsp 2,154,389/SC, of 13/04/2026.
 
 17. SUPERIOR COURT OF JUSTICE (STJ). Repetitive Theme 1113 (ITBI tax base). First Section, judged on 24/02/2022, published on 03/03/2022.
 
-18. BRAZIL. Law No. 9,514, of November 20, 1997, art. 24, §1 (wording of MP 1,162/2023). Validity to be confirmed.
+18. BRAZIL. Law No. 9,514, of November 20, 1997, art. 24, sole paragraph (Law 13,465/2017) and MP 1,162/2023 (text recorded as not converted into law in the official annotation). Status to be confirmed with a lawyer.
 
 
 ════════════════════════════════════════════════════════════════════════════════
