@@ -1,0 +1,1170 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HERCLEUS Terminal - Bloomberg para Leilões Imobiliários</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Roboto Mono', 'Courier New', monospace;
+            background-color: #0a0a0a;
+            color: #ffffff;
+            line-height: 1.4;
+        }
+
+        /* HEADER */
+        header {
+            background-color: #0f0f0f;
+            border-bottom: 2px solid #00ff00;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            color: #00ff00;
+            text-shadow: 0 0 10px #00ff00;
+        }
+
+        .user-menu {
+            display: flex;
+            gap: 20px;
+            align-items: center;
+        }
+
+        .user-menu button {
+            background-color: #0066ff;
+            color: #ffffff;
+            border: none;
+            padding: 8px 15px;
+            cursor: pointer;
+            border-radius: 3px;
+            font-family: 'Roboto Mono', monospace;
+            font-size: 12px;
+            transition: all 0.3s;
+        }
+
+        .user-menu button:hover {
+            background-color: #0080ff;
+            box-shadow: 0 0 10px #0066ff;
+        }
+
+        /* CONTAINER PRINCIPAL */
+        .container {
+            display: flex;
+            height: calc(100vh - 60px);
+        }
+
+        /* SIDEBAR */
+        .sidebar {
+            width: 200px;
+            background-color: #0f0f0f;
+            border-right: 2px solid #00ff00;
+            padding: 15px;
+            overflow-y: auto;
+        }
+
+        .sidebar-item {
+            padding: 12px;
+            margin: 5px 0;
+            cursor: pointer;
+            border-left: 3px solid transparent;
+            color: #999;
+            transition: all 0.3s;
+            font-size: 13px;
+        }
+
+        .sidebar-item:hover,
+        .sidebar-item.active {
+            color: #00ff00;
+            border-left-color: #00ff00;
+            background-color: #1a1a1a;
+            text-shadow: 0 0 5px #00ff00;
+        }
+
+        /* MAIN CONTENT */
+        .main-content {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+            background-color: #0a0a0a;
+        }
+
+        .page-title {
+            font-size: 18px;
+            color: #00ff00;
+            margin-bottom: 20px;
+            text-shadow: 0 0 10px #00ff00;
+            border-bottom: 1px solid #333;
+            padding-bottom: 10px;
+        }
+
+        /* GRID LAYOUT */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        /* CARDS */
+        .card {
+            background-color: #1a1a1a;
+            border: 1px solid #333;
+            border-left: 3px solid #0066ff;
+            padding: 15px;
+            border-radius: 3px;
+            transition: all 0.3s;
+        }
+
+        .card:hover {
+            border-color: #00ff00;
+            border-left-color: #00ff00;
+            box-shadow: 0 0 10px rgba(0, 255, 0, 0.2);
+        }
+
+        .card-title {
+            color: #00ff00;
+            font-size: 12px;
+            text-transform: uppercase;
+            margin-bottom: 10px;
+            text-shadow: 0 0 5px #00ff00;
+        }
+
+        .card-value {
+            font-size: 28px;
+            color: #0066ff;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+
+        .card-subtitle {
+            color: #666;
+            font-size: 11px;
+        }
+
+        .positive {
+            color: #00cc00;
+        }
+
+        .negative {
+            color: #ff3333;
+        }
+
+        /* SEARCH */
+        .search-box {
+            background-color: #1a1a1a;
+            border: 1px solid #333;
+            padding: 12px;
+            margin-bottom: 20px;
+            border-radius: 3px;
+        }
+
+        .search-box input {
+            width: 100%;
+            background-color: #0a0a0a;
+            border: 1px solid #0066ff;
+            color: #00ff00;
+            padding: 8px;
+            border-radius: 3px;
+            font-family: 'Roboto Mono', monospace;
+            font-size: 13px;
+        }
+
+        .search-box input:focus {
+            outline: none;
+            box-shadow: 0 0 10px rgba(0, 102, 255, 0.5);
+        }
+
+        /* TABLE */
+        .table-container {
+            background-color: #1a1a1a;
+            border: 1px solid #333;
+            border-radius: 3px;
+            overflow-x: auto;
+            margin-bottom: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 12px;
+        }
+
+        th {
+            background-color: #0f0f0f;
+            color: #00ff00;
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #333;
+            font-weight: bold;
+            text-shadow: 0 0 5px #00ff00;
+        }
+
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #1a1a1a;
+        }
+
+        tr:hover {
+            background-color: #0f0f0f;
+        }
+
+        .ticker {
+            color: #0066ff;
+            font-weight: bold;
+        }
+
+        /* TABS */
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #333;
+        }
+
+        .tab {
+            padding: 10px 15px;
+            cursor: pointer;
+            color: #666;
+            border-bottom: 2px solid transparent;
+            transition: all 0.3s;
+            font-size: 12px;
+        }
+
+        .tab:hover,
+        .tab.active {
+            color: #00ff00;
+            border-bottom-color: #00ff00;
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        /* CALCULATOR */
+        .calculator {
+            background-color: #1a1a1a;
+            border: 1px solid #0066ff;
+            padding: 20px;
+            border-radius: 3px;
+            margin-bottom: 20px;
+        }
+
+        .input-group {
+            margin-bottom: 15px;
+        }
+
+        .input-group label {
+            display: block;
+            color: #00ff00;
+            font-size: 12px;
+            margin-bottom: 5px;
+            text-shadow: 0 0 5px #00ff00;
+        }
+
+        .input-group input {
+            width: 100%;
+            background-color: #0a0a0a;
+            border: 1px solid #0066ff;
+            color: #0066ff;
+            padding: 8px;
+            border-radius: 3px;
+            font-family: 'Roboto Mono', monospace;
+            font-size: 13px;
+        }
+
+        .result-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+        }
+
+        .result-box {
+            background-color: #0f0f0f;
+            border: 1px solid #333;
+            padding: 12px;
+            border-radius: 3px;
+        }
+
+        .result-label {
+            color: #666;
+            font-size: 11px;
+        }
+
+        .result-value {
+            font-size: 18px;
+            color: #00ff00;
+            font-weight: bold;
+            margin-top: 5px;
+        }
+
+        /* CHART CONTAINER */
+        .chart-container {
+            background-color: #1a1a1a;
+            border: 1px solid #333;
+            padding: 20px;
+            border-radius: 3px;
+            margin-bottom: 20px;
+            position: relative;
+            height: 400px;
+        }
+
+        canvas {
+            max-height: 100%;
+        }
+
+        /* MAP */
+        #map {
+            height: 500px;
+            background-color: #1a1a1a;
+            border: 1px solid #333;
+            border-radius: 3px;
+            margin-bottom: 20px;
+        }
+
+        /* MODAL */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.8);
+            z-index: 2000;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal.active {
+            display: flex;
+        }
+
+        .modal-content {
+            background-color: #1a1a1a;
+            border: 2px solid #0066ff;
+            padding: 30px;
+            border-radius: 3px;
+            width: 90%;
+            max-width: 600px;
+            max-height: 80vh;
+            overflow-y: auto;
+        }
+
+        .modal-close {
+            float: right;
+            font-size: 24px;
+            cursor: pointer;
+            color: #ff3333;
+        }
+
+        /* COMMUNITY */
+        .comment {
+            background-color: #0f0f0f;
+            border-left: 3px solid #0066ff;
+            padding: 12px;
+            margin-bottom: 12px;
+            border-radius: 3px;
+        }
+
+        .comment-author {
+            color: #00ff00;
+            font-weight: bold;
+            font-size: 11px;
+            margin-bottom: 5px;
+        }
+
+        .comment-text {
+            color: #ccc;
+            font-size: 12px;
+        }
+
+        .comment-date {
+            color: #666;
+            font-size: 10px;
+            margin-top: 5px;
+        }
+
+        /* ALERTS */
+        .alert {
+            background-color: #1a1a1a;
+            border-left: 3px solid #ff6600;
+            padding: 12px;
+            margin-bottom: 10px;
+            border-radius: 3px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .alert-title {
+            color: #ff6600;
+            font-weight: bold;
+            font-size: 12px;
+        }
+
+        .alert-close {
+            cursor: pointer;
+            color: #666;
+        }
+
+        /* BUTTONS */
+        button.btn {
+            background-color: #0066ff;
+            color: #ffffff;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 3px;
+            font-family: 'Roboto Mono', monospace;
+            font-size: 12px;
+            transition: all 0.3s;
+            margin-bottom: 10px;
+            width: 100%;
+        }
+
+        button.btn:hover {
+            background-color: #0080ff;
+            box-shadow: 0 0 10px #0066ff;
+        }
+
+        /* RESPONSIVE */
+        @media (max-width: 1024px) {
+            .sidebar {
+                width: 150px;
+            }
+            .grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+                height: auto;
+            }
+            .sidebar {
+                width: 100%;
+                max-height: 100px;
+                overflow-x: auto;
+                display: flex;
+                border-right: none;
+                border-bottom: 2px solid #00ff00;
+            }
+            .sidebar-item {
+                white-space: nowrap;
+            }
+            .grid {
+                grid-template-columns: 1fr;
+            }
+            .result-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* ANIMATION */
+        @keyframes blink {
+            0%, 50%, 100% { opacity: 1; }
+            25%, 75% { opacity: 0.5; }
+        }
+
+        .blink {
+            animation: blink 2s infinite;
+        }
+
+        /* SCROLLBAR */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #0a0a0a;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #0066ff;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #00ff00;
+        }
+    </style>
+</head>
+<body>
+    <!-- HEADER -->
+    <header>
+        <div class="logo">≡ HERCLEUS TERMINAL</div>
+        <div class="user-menu">
+            <button onclick="toggleTheme()">🌙 Dark/Light</button>
+            <button onclick="toggleAuth()">👤 Login</button>
+        </div>
+    </header>
+
+    <!-- CONTAINER -->
+    <div class="container">
+        <!-- SIDEBAR -->
+        <div class="sidebar">
+            <div class="sidebar-item active" onclick="switchTab('dashboard', this)">📊 Dashboard</div>
+            <div class="sidebar-item" onclick="switchTab('leiloes', this)">🏠 Meus Leilões</div>
+            <div class="sidebar-item" onclick="switchTab('roi', this)">💰 ROI Calculator</div>
+            <div class="sidebar-item" onclick="switchTab('comunidade', this)">👥 Comunidade</div>
+            <div class="sidebar-item" onclick="switchTab('livro', this)">📚 Livro</div>
+            <div class="sidebar-item" onclick="switchTab('alertas', this)">🔔 Alertas</div>
+            <div class="sidebar-item" onclick="switchTab('settings', this)">⚙️ Settings</div>
+        </div>
+
+        <!-- MAIN CONTENT -->
+        <div class="main-content">
+
+            <!-- DASHBOARD -->
+            <div id="dashboard" class="tab-content active">
+                <div class="page-title">≡ MARKET OVERVIEW</div>
+
+                <!-- CARDS PRINCIPAIS -->
+                <div class="grid">
+                    <div class="card">
+                        <div class="card-title">Total de Leilões Ativos</div>
+                        <div class="card-value">2,847</div>
+                        <div class="card-subtitle">Brasil (últimas 7 dias: <span class="positive">+342</span>)</div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-title">Volume Total</div>
+                        <div class="card-value">R$ 8.92B</div>
+                        <div class="card-subtitle">Variação: <span class="positive">+12.4%</span></div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-title">Preço Médio m²</div>
+                        <div class="card-value">R$ 2,450</div>
+                        <div class="card-subtitle">Desconto: <span class="positive">-38.5%</span> vs. mercado</div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-title">Taxa de Sucesso</div>
+                        <div class="card-value">76.3%</div>
+                        <div class="card-subtitle">Leilões vendidos este mês</div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-title">ROI Médio</div>
+                        <div class="card-value">47.8%</div>
+                        <div class="card-subtitle">12 meses (histórico)</div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-title">Seus Favoritos</div>
+                        <div class="card-value">12</div>
+                        <div class="card-subtitle">Monitorando agora</div>
+                    </div>
+                </div>
+
+                <!-- GRÁFICOS -->
+                <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-bottom: 20px;">
+                    <div class="chart-container">
+                        <canvas id="priceChart"></canvas>
+                    </div>
+                    <div class="chart-container">
+                        <canvas id="volumeChart"></canvas>
+                    </div>
+                </div>
+
+                <!-- MAPA -->
+                <div class="page-title">≡ GEOGRAPHIC DISTRIBUTION</div>
+                <div id="map"></div>
+
+                <!-- ÚLTIMOS LEILÕES -->
+                <div class="page-title">≡ LEILÕES RECENTES</div>
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="Buscar por endereço, cidade..." onkeyup="filterAuctions()">
+                </div>
+
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>TICKER</th>
+                                <th>IMÓVEL</th>
+                                <th>CIDADE</th>
+                                <th>TIPO</th>
+                                <th>LANCE MÍN</th>
+                                <th>DESCONTO</th>
+                                <th>ROI EST.</th>
+                                <th>STATUS</th>
+                            </tr>
+                        </thead>
+                        <tbody id="auctionTable">
+                            <tr>
+                                <td class="ticker">LEILAO_SP_001</td>
+                                <td>Apt. 3 quartos</td>
+                                <td>São Paulo</td>
+                                <td>Residencial</td>
+                                <td>R$ 180.000</td>
+                                <td><span class="positive">-42.5%</span></td>
+                                <td><span class="positive">+48%</span></td>
+                                <td>Ativo</td>
+                            </tr>
+                            <tr>
+                                <td class="ticker">LEILAO_RJ_002</td>
+                                <td>Sala comercial</td>
+                                <td>Rio de Janeiro</td>
+                                <td>Comercial</td>
+                                <td>R$ 250.000</td>
+                                <td><span class="positive">-35.0%</span></td>
+                                <td><span class="positive">+52%</span></td>
+                                <td>Ativo</td>
+                            </tr>
+                            <tr>
+                                <td class="ticker">LEILAO_MG_003</td>
+                                <td>Casa 4 quartos</td>
+                                <td>Belo Horizonte</td>
+                                <td>Residencial</td>
+                                <td>R$ 150.000</td>
+                                <td><span class="positive">-55.0%</span></td>
+                                <td><span class="positive">+78%</span></td>
+                                <td>Ativo</td>
+                            </tr>
+                            <tr>
+                                <td class="ticker">LEILAO_SP_004</td>
+                                <td>Galpão industrial</td>
+                                <td>São Paulo</td>
+                                <td>Industrial</td>
+                                <td>R$ 500.000</td>
+                                <td><span class="positive">-45.0%</span></td>
+                                <td><span class="positive">+65%</span></td>
+                                <td>Finalizado</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- MEU PORTFÓLIO DE LEILÕES -->
+            <div id="leiloes" class="tab-content">
+                <div class="page-title">≡ PORTFÓLIO PESSOAL</div>
+
+                <div class="grid">
+                    <div class="card">
+                        <div class="card-title">Total Investido</div>
+                        <div class="card-value">R$ 430k</div>
+                        <div class="card-subtitle">5 propriedades</div>
+                    </div>
+                    <div class="card">
+                        <div class="card-title">Valor Atual</div>
+                        <div class="card-value">R$ 680k</div>
+                        <div class="card-subtitle">Não realizado</div>
+                    </div>
+                    <div class="card">
+                        <div class="card-title">Ganho Potencial</div>
+                        <div class="card-value"><span class="positive">R$ 250k</span></div>
+                        <div class="card-subtitle">58% de retorno</div>
+                    </div>
+                </div>
+
+                <div class="page-title">≡ MEUS LEILÕES</div>
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>IMÓVEL</th>
+                                <th>COMPRA</th>
+                                <th>VALOR ATUAL</th>
+                                <th>STATUS</th>
+                                <th>ROI</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Apt. Vila Madalena</td>
+                                <td>R$ 180.000</td>
+                                <td>R$ 320.000</td>
+                                <td>Pronto para venda</td>
+                                <td><span class="positive">+77.8%</span></td>
+                            </tr>
+                            <tr>
+                                <td>Casa Bela Horizonte</td>
+                                <td>R$ 150.000</td>
+                                <td>R$ 240.000</td>
+                                <td>Em reforma</td>
+                                <td><span class="positive">+60%</span></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- ROI CALCULATOR -->
+            <div id="roi" class="tab-content">
+                <div class="page-title">≡ ROI CALCULATOR</div>
+
+                <div class="calculator">
+                    <h3 style="color: #00ff00; margin-bottom: 15px;">Análise de Oportunidade</h3>
+
+                    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px;">
+                        <div class="input-group">
+                            <label>Lance Mínimo (R$)</label>
+                            <input type="number" id="bidValue" value="180000" onchange="calculateROI()">
+                        </div>
+                        <div class="input-group">
+                            <label>Custo de Reforma (R$)</label>
+                            <input type="number" id="renovationCost" value="40000" onchange="calculateROI()">
+                        </div>
+                        <div class="input-group">
+                            <label>Custo Total (ITBI, taxa, etc) (R$)</label>
+                            <input type="number" id="totalCosts" value="20000" onchange="calculateROI()">
+                        </div>
+                        <div class="input-group">
+                            <label>Preço de Venda Estimado (R$)</label>
+                            <input type="number" id="salePrice" value="320000" onchange="calculateROI()">
+                        </div>
+                    </div>
+
+                    <div class="result-grid">
+                        <div class="result-box">
+                            <div class="result-label">INVESTIMENTO TOTAL</div>
+                            <div class="result-value" id="totalInvestment">R$ 240.000</div>
+                        </div>
+                        <div class="result-box">
+                            <div class="result-label">LUCRO BRUTO</div>
+                            <div class="result-value positive" id="profit">R$ 80.000</div>
+                        </div>
+                        <div class="result-box">
+                            <div class="result-label">ROI %</div>
+                            <div class="result-value positive" id="roiPercent">+33.3%</div>
+                        </div>
+                        <div class="result-box">
+                            <div class="result-label">BREAKEVEN (meses)</div>
+                            <div class="result-value" id="breakeven">8.5</div>
+                        </div>
+                    </div>
+
+                    <button class="btn" onclick="exportROIReport()">📊 Exportar Relatório PDF</button>
+                </div>
+            </div>
+
+            <!-- COMUNIDADE -->
+            <div id="comunidade" class="tab-content">
+                <div class="page-title">≡ COMUNIDADE DE INVESTIDORES</div>
+
+                <div class="tabs">
+                    <div class="tab active" onclick="switchCommunityTab('forum', this)">Fórum</div>
+                    <div class="tab" onclick="switchCommunityTab('leiloeiros', this)">Avaliação Leiloeiros</div>
+                    <div class="tab" onclick="switchCommunityTab('casos', this)">Casos de Sucesso</div>
+                </div>
+
+                <div id="forum" class="tab-content active">
+                    <div class="search-box">
+                        <input type="text" placeholder="Faça uma pergunta ou compartilhe sua experiência...">
+                    </div>
+
+                    <div class="comment">
+                        <div class="comment-author">👤 João Silva</div>
+                        <div class="comment-text">Algém sabe como é o processo de imissão de posse em SP? Estou com dúvida sobre prazos.</div>
+                        <div class="comment-date">há 2 horas</div>
+                    </div>
+
+                    <div class="comment">
+                        <div class="comment-author">👤 Maria Santos</div>
+                        <div class="comment-text">Achei ótimo leilão em BH! Desconto de 55% e já fiz a análise de ROI aqui na plataforma. Esperando resultado.</div>
+                        <div class="comment-date">há 4 horas</div>
+                    </div>
+
+                    <div class="comment">
+                        <div class="comment-author">👤 Pedro Costa</div>
+                        <div class="comment-text">Cuidado com leiloeiro XYZ. Meu edital tinha dados incompletos. Denunciei à Junta Comercial.</div>
+                        <div class="comment-date">há 1 dia</div>
+                    </div>
+                </div>
+
+                <div id="leiloeiros" class="tab-content">
+                    <div class="table-container">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>LEILOEIRO</th>
+                                    <th>AVALIAÇÃO</th>
+                                    <th>REVIEWS</th>
+                                    <th>CONFIABILIDADE</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>Carlos Oliveira Leiloeiro</td>
+                                    <td>⭐⭐⭐⭐⭐ (4.9)</td>
+                                    <td>234 reviews</td>
+                                    <td><span class="positive">Alta</span></td>
+                                </tr>
+                                <tr>
+                                    <td>Silva & Associados</td>
+                                    <td>⭐⭐⭐⭐ (4.3)</td>
+                                    <td>156 reviews</td>
+                                    <td><span class="positive">Alta</span></td>
+                                </tr>
+                                <tr>
+                                    <td>João Paulo Martins</td>
+                                    <td>⭐⭐⭐ (3.2)</td>
+                                    <td>89 reviews</td>
+                                    <td>Média</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <div id="casos" class="tab-content">
+                    <div class="comment" style="border-left-color: #00cc00;">
+                        <div class="comment-author">💰 CASO: Vila Madalena +77%</div>
+                        <div class="comment-text"><strong>Compra:</strong> R$ 180k | <strong>Reforma:</strong> R$ 40k | <strong>Venda:</strong> R$ 320k | <strong>ROI:</strong> +77.8%</div>
+                        <div class="comment-date">Sucesso! Tempo: 8 meses</div>
+                    </div>
+
+                    <div class="comment" style="border-left-color: #00cc00;">
+                        <div class="comment-author">💰 CASO: Belo Horizonte +78%</div>
+                        <div class="comment-text"><strong>Compra:</strong> R$ 150k | <strong>Reforma:</strong> R$ 20k | <strong>Venda:</strong> R$ 270k | <strong>ROI:</strong> +78.6%</div>
+                        <div class="comment-date">Sucesso! Tempo: 9 meses</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- LIVRO -->
+            <div id="livro" class="tab-content">
+                <div class="page-title">≡ A BÍBLIA DO LEILÃO IMOBILIÁRIO</div>
+
+                <div class="grid">
+                    <div class="card" style="cursor: pointer;" onclick="openModal('bookModal')">
+                        <div class="card-title">📖 Capítulo 13</div>
+                        <div style="font-size: 14px; margin: 10px 0;">A Matemática do Lucro</div>
+                        <div class="card-subtitle">Aprenda a calcular ROI com precisão</div>
+                    </div>
+
+                    <div class="card" style="cursor: pointer;" onclick="openModal('bookModal')">
+                        <div class="card-title">📖 Capítulo 10</div>
+                        <div style="font-size: 14px; margin: 10px 0;">Imissão na Posse</div>
+                        <div class="card-subtitle">Guia completo para tomar a propriedade</div>
+                    </div>
+
+                    <div class="card" style="cursor: pointer;" onclick="openModal('bookModal')">
+                        <div class="card-title">📖 Capítulo 26</div>
+                        <div style="font-size: 14px; margin: 10px 0;">Estrangeiros em Leilões</div>
+                        <div class="card-subtitle">Como investir se você é foreigner</div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-title">🎓 Glossário</div>
+                        <div style="font-size: 14px; margin: 10px 0;">Termos Técnicos</div>
+                        <div class="card-subtitle">Arrematação, imissão, CRI e mais</div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-title">🎬 Vídeos</div>
+                        <div style="font-size: 14px; margin: 10px 0;">Masterclass Semanal</div>
+                        <div class="card-subtitle">Análise ao vivo de leilões</div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-title">🎙️ Podcast</div>
+                        <div style="font-size: 14px; margin: 10px 0;">AVVISI Integrado</div>
+                        <div class="card-subtitle">Ouça enquanto analisa leilões</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ALERTAS -->
+            <div id="alertas" class="tab-content">
+                <div class="page-title">≡ ALERTAS INTELIGENTES</div>
+
+                <div class="alert">
+                    <div>
+                        <div class="alert-title">🔴 Oportunidade Crítica!</div>
+                        <div style="font-size: 12px; color: #ccc; margin-top: 5px;">Desconto >50% detectado em SP - ROI > 60% estimado</div>
+                    </div>
+                    <div class="alert-close" onclick="closeAlert(this)">✕</div>
+                </div>
+
+                <div class="alert">
+                    <div>
+                        <div class="alert-title">🟡 Novo leilão em seu bairro</div>
+                        <div style="font-size: 12px; color: #ccc; margin-top: 5px;">Vila Mariana - R$ 280k - Desconto 40%</div>
+                    </div>
+                    <div class="alert-close" onclick="closeAlert(this)">✕</div>
+                </div>
+
+                <div class="alert">
+                    <div>
+                        <div class="alert-title">🟢 Leilão finalizado com sucesso</div>
+                        <div style="font-size: 12px; color: #ccc; margin-top: 5px;">Seu leilão em BH foi arrematado!</div>
+                    </div>
+                    <div class="alert-close" onclick="closeAlert(this)">✕</div>
+                </div>
+            </div>
+
+            <!-- SETTINGS -->
+            <div id="settings" class="tab-content">
+                <div class="page-title">≡ CONFIGURAÇÕES</div>
+
+                <div class="calculator">
+                    <h3 style="color: #00ff00; margin-bottom: 15px;">Preferências de Usuário</h3>
+
+                    <div class="input-group">
+                        <label>Email para Alertas</label>
+                        <input type="email" value="seu.email@example.com">
+                    </div>
+
+                    <div class="input-group">
+                        <label>Cidades de Interesse (separadas por vírgula)</label>
+                        <input type="text" value="São Paulo, Rio de Janeiro, Belo Horizonte">
+                    </div>
+
+                    <div class="input-group">
+                        <label>Desconto Mínimo de Interesse (%)</label>
+                        <input type="number" value="35">
+                    </div>
+
+                    <div class="input-group">
+                        <label>ROI Mínimo de Interesse (%)</label>
+                        <input type="number" value="40">
+                    </div>
+
+                    <button class="btn" onclick="alert('Preferências salvas!')">💾 Salvar Preferências</button>
+                    <button class="btn" onclick="alert('Configurações resetadas!')">↻ Reset</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <!-- MODAL LIVRO -->
+    <div id="bookModal" class="modal">
+        <div class="modal-content">
+            <span class="modal-close" onclick="closeModal('bookModal')">✕</span>
+            <h2 style="color: #00ff00; margin-bottom: 15px;">Capítulo 13: A Matemática do Lucro</h2>
+            <p style="margin-bottom: 15px;">
+                O ROI (Return on Investment) é a medida do lucro em relação ao investimento total.
+            </p>
+            <p style="margin-bottom: 15px;">
+                <strong>Fórmula: ROI = (Lucro / Investimento Total) × 100</strong>
+            </p>
+            <p style="margin-bottom: 15px;">
+                Exemplo prático:
+            </p>
+            <ul style="margin-left: 15px; margin-bottom: 15px;">
+                <li>Imóvel comprado por R$ 180.000</li>
+                <li>Custos (reforma, impostos, etc): R$ 50.000</li>
+                <li>Investimento total: R$ 230.000</li>
+                <li>Venda por R$ 320.000</li>
+                <li>Lucro: R$ 90.000</li>
+                <li><strong>ROI = (90.000 / 230.000) × 100 = 39,1%</strong></li>
+            </ul>
+            <p>
+                Este é um dos primeiros conceitos importantes para qualquer investidor em leilões imobiliários...
+            </p>
+            <button class="btn" onclick="alert('Capítulo salvo em favoritos!'); closeModal('bookModal')">⭐ Favoritar</button>
+            <button class="btn" onclick="alert('Abrindo livro completo...'); closeModal('bookModal')">📖 Ver Livro Completo</button>
+        </div>
+    </div>
+
+    <script>
+        // FUNÇÕES PRINCIPAIS
+        function switchTab(tabName, elem) {
+            // Ocultar todos os tabs
+            document.querySelectorAll('.tab-content').forEach(tab => tab.classList.remove('active'));
+            document.querySelectorAll('.sidebar-item').forEach(item => item.classList.remove('active'));
+
+            // Mostrar tab selecionado
+            document.getElementById(tabName).classList.add('active');
+            elem.classList.add('active');
+        }
+
+        function switchCommunityTab(tabName, elem) {
+            document.querySelectorAll('#comunidade .tab-content').forEach(tab => tab.classList.remove('active'));
+            document.querySelectorAll('#comunidade .tab').forEach(tab => tab.classList.remove('active'));
+
+            document.getElementById(tabName).classList.add('active');
+            elem.classList.add('active');
+        }
+
+        function openModal(modalId) {
+            document.getElementById(modalId).classList.add('active');
+        }
+
+        function closeModal(modalId) {
+            document.getElementById(modalId).classList.remove('active');
+        }
+
+        function closeAlert(elem) {
+            elem.parentElement.style.display = 'none';
+        }
+
+        function calculateROI() {
+            const bid = parseFloat(document.getElementById('bidValue').value);
+            const renovation = parseFloat(document.getElementById('renovationCost').value);
+            const costs = parseFloat(document.getElementById('totalCosts').value);
+            const salePrice = parseFloat(document.getElementById('salePrice').value);
+
+            const totalInvest = bid + renovation + costs;
+            const profit = salePrice - totalInvest;
+            const roi = (profit / totalInvest * 100).toFixed(1);
+
+            document.getElementById('totalInvestment').textContent = 'R$ ' + totalInvest.toLocaleString('pt-BR', {maximumFractionDigits: 0});
+            document.getElementById('profit').textContent = 'R$ ' + profit.toLocaleString('pt-BR', {maximumFractionDigits: 0});
+            document.getElementById('roiPercent').textContent = (roi > 0 ? '+' : '') + roi + '%';
+            document.getElementById('breakeven').textContent = (12 / (roi / 100)).toFixed(1);
+        }
+
+        function filterAuctions() {
+            const input = document.getElementById('searchInput').value.toLowerCase();
+            const rows = document.getElementById('auctionTable').getElementsByTagName('tr');
+
+            for (let row of rows) {
+                const text = row.textContent.toLowerCase();
+                row.style.display = text.includes(input) ? '' : 'none';
+            }
+        }
+
+        function exportROIReport() {
+            alert('Relatório PDF gerado! Download iniciado...');
+        }
+
+        function toggleTheme() {
+            document.body.style.filter = document.body.style.filter === 'invert(1)' ? 'invert(0)' : 'invert(1)';
+        }
+
+        function toggleAuth() {
+            alert('Sistema de autenticação seria integrado aqui');
+        }
+
+        // INICIALIZAR GRÁFICOS
+        function initCharts() {
+            // Gráfico de Preço
+            const priceCtx = document.getElementById('priceChart').getContext('2d');
+            new Chart(priceCtx, {
+                type: 'line',
+                data: {
+                    labels: ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun', 'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez'],
+                    datasets: [{
+                        label: 'Preço Médio m²',
+                        data: [2100, 2150, 2200, 2250, 2300, 2350, 2400, 2420, 2450, 2480, 2500, 2450],
+                        borderColor: '#00ff00',
+                        backgroundColor: 'rgba(0, 255, 0, 0.1)',
+                        tension: 0.4,
+                        fill: true,
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            labels: { color: '#00ff00' }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            grid: { color: '#333' },
+                            ticks: { color: '#0066ff' }
+                        },
+                        x: {
+                            grid: { color: '#333' },
+                            ticks: { color: '#0066ff' }
+                        }
+                    }
+                }
+            });
+
+            // Gráfico de Volume
+            const volumeCtx = document.getElementById('volumeChart').getContext('2d');
+            new Chart(volumeCtx, {
+                type: 'bar',
+                data: {
+                    labels: ['Residencial', 'Comercial', 'Industrial', 'Terrenos'],
+                    datasets: [{
+                        label: 'Volume de Leilões',
+                        data: [1200, 400, 300, 200],
+                        backgroundColor: ['#0066ff', '#00ff00', '#ff6600', '#ff3333'],
+                        borderColor: ['#0066ff', '#00ff00', '#ff6600', '#ff3333'],
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        legend: {
+                            labels: { color: '#00ff00' }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            grid: { color: '#333' },
+                            ticks: { color: '#0066ff' }
+                        },
+                        x: {
+                            grid: { color: '#333' },
+                            ticks: { color: '#0066ff' }
+                        }
+                    }
+                }
+            });
+        }
+
+        // INICIALIZAR MAPA
+        function initMap() {
+            const map = L.map('map').setView([-15.7975, -47.8919], 4);
+
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© OpenStreetMap contributors',
+                style: 'dark'
+            }).addTo(map);
+
+            // Marcadores de leilões
+            const auctions = [
+                { lat: -23.5505, lng: -46.6333, name: 'SP - 2.847 leilões', color: '#00ff00' },
+                { lat: -22.9068, lng: -43.1729, name: 'RJ - 841 leilões', color: '#0066ff' },
+                { lat: -19.8267, lng: -43.9542, name: 'MG - 623 leilões', color: '#ff6600' }
+            ];
+
+            auctions.forEach(auction => {
+                const marker = L.circleMarker([auction.lat, auction.lng], {
+                    radius: 15,
+                    fillColor: auction.color,
+                    color: auction.color,
+                    weight: 2,
+                    opacity: 1,
+                    fillOpacity: 0.8
+                }).addTo(map);
+
+                marker.bindPopup(`<strong>${auction.name}</strong>`);
+            });
+        }
+
+        // INICIALIZAR AO CARREGAR
+        window.onload = function() {
+            initCharts();
+            setTimeout(() => initMap(), 500);
+            calculateROI();
+        };
+    </script>
+</body>
+</html>

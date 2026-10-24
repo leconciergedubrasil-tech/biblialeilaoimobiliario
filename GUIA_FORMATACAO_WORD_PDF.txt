@@ -1,0 +1,704 @@
+════════════════════════════════════════════════════════════════════════════════
+    GUIA DE FORMATAÇÃO PARA MICROSOFT WORD
+    A BÍBLIA DO LEILÃO IMOBILIÁRIO - Versão Pronta para Publicação
+════════════════════════════════════════════════════════════════════════════════
+
+
+OBJETIVO
+═══════════════════════════════════════════════════════════════════════════════
+
+Converter o arquivo de texto em um documento Word (.docx) profissional e 
+pronto para publicação, mantendo a integridade do conteúdo e maximizando 
+a apresentação visual.
+
+Tempo estimado: 2-3 horas
+Dificuldade: Média
+Ferramentas necessárias: Microsoft Word 2016 ou superior
+
+
+════════════════════════════════════════════════════════════════════════════════
+PARTE 1: PREPARAÇÃO INICIAL
+════════════════════════════════════════════════════════════════════════════════
+
+PASSO 1.1: Criar novo documento Word
+─────────────────────────────────────────────────────────────────────────────
+1. Abra Microsoft Word
+2. Crie um novo documento em branco (Ctrl + N)
+3. Salve como: "Biblia_Leilao_Imobiliario_FINAL.docx"
+4. Local: Desktop ou Dropbox para backup
+
+
+PASSO 1.2: Configurar página
+─────────────────────────────────────────────────────────────────────────────
+1. Vá para: Arquivo > Opções > Avançadas
+2. Scroll até "Mostrar"
+3. Marque: "Mostrar marcas de parágrafo"
+
+4. Vá para: Layout da Página > Margens
+   • Superior: 2,5 cm
+   • Inferior: 2,5 cm
+   • Esquerda: 3,0 cm
+   • Direita: 2,0 cm
+
+5. Vá para: Página > Tamanho
+   • Tamanho do papel: A4 (210 x 297 mm)
+   • Orientação: Retrato
+
+6. Vá para: Layout > Quebras > Quebra de Página
+   (Para usar depois entre partes)
+
+
+PASSO 1.3: Configurar fontes e espaçamento
+─────────────────────────────────────────────────────────────────────────────
+1. Selecione tudo (Ctrl + A)
+
+2. Vá para: Página Inicial > Fonte
+   • Fonte: Calibri (ou Times New Roman)
+   • Tamanho: 12 pt
+   • Cor: Preto automático
+   • Efeitos: Normal
+
+3. Vá para: Página Inicial > Parágrafo
+   • Espaçamento antes: 0 pt
+   • Espaçamento depois: 6 pt
+   • Espaçamento entre linhas: 1,5 linhas
+   • Alinhamento: Esquerda
+
+
+════════════════════════════════════════════════════════════════════════════════
+PARTE 2: ESTRUTURA DE TÍTULOS E ESTILOS
+════════════════════════════════════════════════════════════════════════════════
+
+PASSO 2.1: Criar estilos customizados
+─────────────────────────────────────────────────────────────────────────────
+
+Para aproveitar melhor a estrutura hierárquica, crie estilos personalizados:
+
+NÍVEL 1: TÍTULO PARTE (H1)
+├─ Vá para: Página Inicial > Estilos > Novo Estilo
+├─ Nome: "Titulo_Parte"
+├─ Tipo: Parágrafo
+├─ Fonte: Calibri, 18pt, MAIÚSCULA, NEGRITO, Cor: Azul escuro
+├─ Espaçamento: Antes 24pt, Depois 12pt
+├─ Alinhamento: Centro
+└─ Aplicar: ════════════════════════════════════════════════════════════════════════════════
+             PARTE I — O FUNDAMENTO
+             ════════════════════════════════════════════════════════════════════════════════
+
+NÍVEL 2: TÍTULO CAPÍTULO (H2)
+├─ Vá para: Página Inicial > Estilos > Novo Estilo
+├─ Nome: "Titulo_Capitulo"
+├─ Tipo: Parágrafo
+├─ Fonte: Calibri, 14pt, NEGRITO, Cor: Azul médio
+├─ Espaçamento: Antes 18pt, Depois 6pt
+├─ Alinhamento: Esquerda
+└─ Aplicar: Capítulo 1: O que é um Leilão Imobiliário?
+
+NÍVEL 3: TÍTULO SEÇÃO (H3)
+├─ Vá para: Página Inicial > Estilos > Novo Estilo
+├─ Nome: "Titulo_Secao"
+├─ Tipo: Parágrafo
+├─ Fonte: Calibri, 12pt, NEGRITO, Cor: Preto
+├─ Espaçamento: Antes 12pt, Depois 6pt
+├─ Alinhamento: Esquerda
+└─ Aplicar: 1.1 Definição e conceitos básicos
+
+CORPO DE TEXTO
+├─ Estilo: Normal (padrão)
+├─ Fonte: Calibri, 12pt
+├─ Espaçamento: 1,5 linhas
+└─ Alinhamento: Justificado
+
+
+PASSO 2.2: Aplicar estilos ao documento
+─────────────────────────────────────────────────────────────────────────────
+
+1. Importe o conteúdo de texto
+2. Para cada TÍTULO DE PARTE (════════...):
+   • Selecione a linha
+   • Clique no estilo "Titulo_Parte"
+   
+3. Para cada CAPÍTULO (Capítulo X: ...):
+   • Selecione a linha
+   • Clique no estilo "Titulo_Capitulo"
+   • Insira Quebra de Página ANTES (Ctrl + Enter)
+
+4. Para cada SEÇÃO (1.1, 1.2, etc.):
+   • Selecione a linha
+   • Clique no estilo "Titulo_Secao"
+
+5. Para corpo de texto:
+   • Deixe no estilo "Normal"
+   • Mude alinhamento para Justificado
+
+
+════════════════════════════════════════════════════════════════════════════════
+PARTE 3: TRATAMENTO DE TABELAS
+════════════════════════════════════════════════════════════════════════════════
+
+PASSO 3.1: Inserir e formatar tabelas
+─────────────────────────────────────────────────────────────────────────────
+
+O documento contém 28 tabelas. Para cada tabela:
+
+1. Selecione o texto da tabela ASCII (╔═══╦═══╗ formato)
+2. Vá para: Inserir > Tabela
+3. Escolha: Converter > Texto em tabela
+   • Separador: Use espaços ou tabs
+   • Número de linhas: Conforme a tabela
+   • Número de colunas: Conforme a tabela
+
+4. Após criada a tabela:
+   • Selecione a primeira linha (cabeçalho)
+   • Vá para: Ferramentas de Tabela > Design
+   • Aplique estilo: "Tabela de Tema 1" ou "Tabela de Tema 2"
+   • Marque: "Linha de Cabeçalho"
+   
+5. Formate:
+   • Fonte da tabela: Calibri 11pt
+   • Alinhamento: Células central
+   • Largura: Auto
+   • Bordas: Padrão (preto 1pt)
+
+6. Após a tabela, insira um parágrafo em branco
+
+
+PASSO 3.2: Exemplo prático (Tabela do Capítulo 1)
+─────────────────────────────────────────────────────────────────────────────
+
+Tabela no documento original:
+╔════════════════════════╦══════════════════╦═══════════════════════╗
+║ Aspecto                ║ Compra Conven.   ║ Arrematação Leilão    ║
+╠════════════════════════╬══════════════════╬═══════════════════════╣
+║ Negociação             ║ Direta vendedor  ║ Via leilão, lances    ║
+╚════════════════════════╩══════════════════╩═══════════════════════╝
+
+Convertida para Word:
+
+┌─────────────────────────┬──────────────────┬─────────────────────┐
+│ Aspecto                 │ Compra Conven.   │ Arrematação Leilão  │
+├─────────────────────────┼──────────────────┼─────────────────────┤
+│ Negociação              │ Direta vendedor  │ Via leilão, lances  │
+└─────────────────────────┴──────────────────┴─────────────────────┘
+
+Aplicar formatação:
+• Cabeçalho: Fundo cinza (80%), Texto branco, Negrito
+• Corpo: Fundo branco, Texto preto
+• Bordas: 1pt, cor preta
+
+
+════════════════════════════════════════════════════════════════════════════════
+PARTE 4: INSERIR CAPA E PRELIMINARES
+════════════════════════════════════════════════════════════════════════════════
+
+PASSO 4.1: Capa
+─────────────────────────────────────────────────────────────────────────────
+
+1. No início do documento, insira uma página em branco:
+   • Colocar cursor no início (Ctrl + Home)
+   • Inserir > Quebra de Página
+
+2. Na primeira página (capa), crie:
+
+   [Linha 1-5 em branco]
+   
+   ════════════════════════════════════════════════════════════════
+   A BÍBLIA DO LEILÃO IMOBILIÁRIO
+   Compre seu Imóvel com até 94% de Desconto
+   ════════════════════════════════════════════════════════════════
+   
+   [Linha 10]
+   Autor: Salomão Von Herclestein
+   
+   [Linha 15]
+   Edição: Completa e Corrigida
+   Data: 2026
+
+3. Formate:
+   • Centro alinhado
+   • Título: 28pt, NEGRITO, Cor: Azul Escuro
+   • Subtítulo: 18pt, Itálico
+   • Autor: 14pt, Normal
+
+
+PASSO 4.2: Verso da capa
+─────────────────────────────────────────────────────────────────────────────
+
+1. Insira nova página
+2. Adicione:
+   • Ficha catalográfica (se fizer registro ISBN)
+   • Copyright: © 2026 Salomão Von Herclestein
+   • Todos os direitos reservados
+
+
+PASSO 4.3: Prefácio
+─────────────────────────────────────────────────────────────────────────────
+
+1. Insira nova página
+2. Título: PREFÁCIO (Estilo Titulo_Parte)
+3. Conteúdo do prefácio (4 seções)
+4. Insira Quebra de Página ao final
+
+
+════════════════════════════════════════════════════════════════════════════════
+PARTE 5: SUMÁRIO E ÍNDICE AUTOMÁTICO
+════════════════════════════════════════════════════════════════════════════════
+
+PASSO 5.1: Gerar Sumário Automático
+─────────────────────────────────────────────────────────────────────────────
+
+IMPORTANTE: Só funciona se usou estilos (Título 1, Título 2, etc.)
+
+1. Insira nova página para o Sumário (após Prefácio)
+2. Título: SUMÁRIO (Estilo Titulo_Parte, tamanho reduzido)
+3. Vá para: Referências > Sumário
+4. Escolha: Sumário Automático (estilo moderno)
+5. Configure:
+   • Mostrar: Níveis 1 e 2 (capítulos e seções)
+   • Hiperlinks: Marcada (para PDF interativo)
+
+6. Word gerará automaticamente lista de capítulos
+
+
+PASSO 5.2: Gerar Índice Remissivo
+─────────────────────────────────────────────────────────────────────────────
+
+1. Vá para o final do documento
+2. Insira nova página
+3. Título: ÍNDICE REMISSIVO
+4. Use a lista de termos já presente no documento
+5. Formate como lista em 2 colunas:
+   • Vá para: Layout > Colunas > 2 colunas
+
+
+════════════════════════════════════════════════════════════════════════════════
+PARTE 6: SEÇÕES ESPECIAIS
+════════════════════════════════════════════════════════════════════════════════
+
+PASSO 6.1: Cabeçalhos e Rodapés
+─────────────────────────────────────────────────────────────────────────────
+
+1. Vá para: Inserir > Cabeçalho
+2. Texto do cabeçalho:
+   A Bíblia do Leilão Imobiliário - Salomão Von Herclestein
+   
+3. Vá para: Inserir > Rodapé
+4. Texto do rodapé:
+   [Número da página] | © 2026
+
+5. Formate:
+   • Fonte: Calibri, 10pt
+   • Alinhamento: Centro
+
+
+PASSO 6.2: Caixas de Destaque (Dicas/Avisos)
+─────────────────────────────────────────────────────────────────────────────
+
+Para seções como "Dica prática:" ou "⚠️ NOTA:":
+
+1. Insira um quadro:
+   • Inserir > Caixa de Texto
+   • Tamanho: Ocupar largura total
+   
+2. Formate:
+   • Fundo: Cinza claro (20%)
+   • Bordas: 2pt, cor azul
+   • Padding: 10pt de cada lado
+   
+3. Texto:
+   • Fonte: Calibri, 11pt
+   • Cor: Azul escuro
+   • Alinhamento: Esquerda
+
+
+════════════════════════════════════════════════════════════════════════════════
+PARTE 7: ESTUDOS DE CASO E TABELAS DE COMPARAÇÃO
+════════════════════════════════════════════════════════════════════════════════
+
+PASSO 7.1: Formatar Estudos de Caso (Capítulo 22)
+─────────────────────────────────────────────────────────────────────────────
+
+O Capítulo 22 contém 5 estudos de caso com tabelas. Para cada um:
+
+1. Título: "22.1 Caso 1: O apartamento da Vila Madalena"
+2. Texto descritivo (1-2 parágrafos)
+3. Tabela com resultados:
+   ┌────────────────┬──────────────────┐
+   │ Item           │ Valor            │
+   ├────────────────┼──────────────────┤
+   │ Compra         │ R$ 180.000       │
+   │ Custos         │ R$ 50.000        │
+   │ Investimento   │ R$ 230.000       │
+   │ Venda          │ R$ 320.000       │
+   │ Lucro          │ R$ 90.000        │
+   │ ROI            │ 39,1%            │
+   └────────────────┴──────────────────┘
+
+4. Observação após a tabela
+
+
+PASSO 7.2: Tabelas Comparativas (Capítulo 14)
+─────────────────────────────────────────────────────────────────────────────
+
+O Capítulo 14 tem 5 tabelas comparando investimentos:
+
+1. Cada tabela com 3 colunas:
+   │ Investimento │ Retorno Anual │ Observação │
+
+2. Aplique código de cores:
+   • Melhor opção (Leilão): Fundo verde claro
+   • Opções intermediárias: Fundo branco
+   • Piores opções: Fundo rosa claro
+
+3. Fonte: Calibri 11pt, centralizadas
+
+
+════════════════════════════════════════════════════════════════════════════════
+PARTE 8: IMAGENS E DIAGRAMAS
+════════════════════════════════════════════════════════════════════════════════
+
+PASSO 8.1: Diagrama "Os 3 Pilares do Sucesso" (Cap. 15)
+─────────────────────────────────────────────────────────────────────────────
+
+No documento original:
+┌──────────────────┐         ┌──────────────────┐
+│ 1. EVITAR DISPUTA│         │ 2. BAIRROS COM   │
+│                  │         │    DEMANDA       │
+└─────────┬────────┘         └─────────┬────────┘
+          │                           │
+          └──────────────┬────────────┘
+                         │
+              ┌──────────▼────────────┐
+              │  3. VENDER RÁPIDO    │
+              └──────────────────────┘
+
+Para criar em Word:
+1. Inserir > SmartArt > Hierarquia
+2. Ou: Inserir > Formas > Retângulos
+3. Alinhe os 3 retângulos com setas
+4. Use cores: Azul para caixas, preto para setas
+
+
+PASSO 8.2: Inserir imagens (se aplicável)
+─────────────────────────────────────────────────────────────────────────────
+
+Se adicionar imagens (fotos de imóveis, gráficos, etc.):
+
+1. Inserir > Imagens
+2. Tamanho máximo: 12cm de largura
+3. Alinhamento: Centro
+4. Legenda: Inserir legenda automática
+5. Bordas: 1pt, cinza
+6. Espaçamento: 6pt acima e abaixo
+
+
+════════════════════════════════════════════════════════════════════════════════
+PARTE 9: APÊNDICES E BACK MATTER
+════════════════════════════════════════════════════════════════════════════════
+
+PASSO 9.1: Apêndices
+─────────────────────────────────────────────────────────────────────────────
+
+1. Inserir Quebra de Página antes de APÊNDICES
+2. Título: APÊNDICES (Estilo Titulo_Parte)
+3. Cada apêndice:
+   • Apêndice A: Lei 9.514/97
+   • Apêndice B: Glossário
+   • Apêndice C: Planilha de ROI
+   • Apêndice D: Lista de Leiloeiros
+   • Apêndice E: FAQ
+
+4. Formate cada apêndice com Título de Capítulo
+
+
+PASSO 9.2: Referências Bibliográficas
+─────────────────────────────────────────────────────────────────────────────
+
+1. Inserir Quebra de Página
+2. Título: REFERÊNCIAS BIBLIOGRÁFICAS
+3. Liste as 6 referências:
+   • Fonte: Calibri 11pt
+   • Alinhamento: Esquerda
+   • Espaçamento: Parágrafo único (sem linhas em branco)
+
+
+PASSO 9.3: Sobre o Autor
+─────────────────────────────────────────────────────────────────────────────
+
+1. Inserir Quebra de Página
+2. Título: SOBRE O AUTOR
+3. Foto do autor (opcional):
+   • Tamanho: 5x5cm
+   • Alinhamento: Direita
+   • Texto em volta
+
+4. Biografia formatada com Calibri 12pt
+
+
+════════════════════════════════════════════════════════════════════════════════
+PARTE 10: VERIFICAÇÃO E QUALIDADE
+════════════════════════════════════════════════════════════════════════════════
+
+PASSO 10.1: Verificação de Formatação
+─────────────────────────────────────────────────────────────────────────────
+
+□ Todos os títulos usam estilos corretos
+□ Espaçamento de 1,5 linhas em todo corpo de texto
+□ Margens: 3cm esquerda, 2.5cm demais
+□ Tamanho da fonte: 12pt corpo, 14pt capítulo, 18pt parte
+□ Cor do texto: Preto (exceto títulos em azul)
+□ Alinhamento: Justificado para corpo, Centro para títulos
+□ Primeira página: Capa com Quebra de Página
+□ Cabeçalhos e rodapés: Presentes e formatados
+□ Sumário: Automático e atualizado
+□ Índice remissivo: Presente
+□ Número de páginas: 130-150
+
+
+PASSO 10.2: Verificação de Conteúdo
+─────────────────────────────────────────────────────────────────────────────
+
+□ 27 capítulos numerados
+□ 28 tabelas formatadas
+□ 5 estudos de caso com dados corretos
+□ 5 apêndices completos
+□ Sem erros de digitação (Use Revisor: F7)
+□ Sem hyperlinks quebrados (Ctrl + Clique)
+□ Figuras com legenda e numeração
+□ Citações em itálico quando necessário
+
+
+PASSO 10.3: Verificação de Rastreabilidade
+─────────────────────────────────────────────────────────────────────────────
+
+1. Vá para: Arquivo > Informações > Verificar
+2. Procure por: Comentários, Controle de Alterações ativas
+3. Se houver: Aceite/rejeite todas as alterações
+4. Remova: Informações pessoais (Arquivo > Preparar > Inspecionar Documento)
+
+
+════════════════════════════════════════════════════════════════════════════════
+PARTE 11: EXPORTAÇÃO E FINALIZAÇÃO
+════════════════════════════════════════════════════════════════════════════════
+
+PASSO 11.1: Salvar como PDF (para publicação)
+─────────────────────────────────────────────────────────────────────────────
+
+1. Vá para: Arquivo > Exportar como PDF
+2. Configure:
+   • Qualidade: Padrão (não Alto - arquivo menor)
+   • Intervalo: Todas as páginas
+   • Opções:
+     ✓ Criar marcadores
+     ✓ Propriedades do documento
+     ✓ Hiperlinks
+
+3. Clique em: Opções
+   • Compatibilidade: PDF/A (para arquivo)
+
+4. Salve como:
+   Biblia_Leilao_Imobiliario_2026_FINAL.pdf
+
+
+PASSO 11.2: Preparar para Amazon KDP (E-BOOK)
+─────────────────────────────────────────────────────────────────────────────
+
+1. Salve como: DOCX (mantém formatação)
+   Arquivo > Salvar Como > Formato: Word (.docx)
+
+2. Envie para Amazon KDP:
+   • Vá para: kdp.amazon.com
+   • Crie novo projeto e-book
+   • Upload do arquivo DOCX
+
+3. Amazon converterá para MOBI automaticamente
+
+
+PASSO 11.3: Preparar para Publicação Impressa
+─────────────────────────────────────────────────────────────────────────────
+
+1. Para Amazon Print on Demand:
+   • Converta DOCX para PDF (alta resolução)
+   • Verifique: Tamanho da fonte, linhas por página
+   • Envie para KDP Print
+
+2. Para Impressora Local:
+   • Arquivo > Imprimir
+   • Impressora: Selecione PDF de alta resolução
+   • Papel: A4
+   • Qualidade de impressão: Máxima
+
+
+════════════════════════════════════════════════════════════════════════════════
+PARTE 12: DICAS DE EDIÇÃO AVANÇADA
+════════════════════════════════════════════════════════════════════════════════
+
+DICA 1: Numeração de Páginas Automática
+─────────────────────────────────────────────────────────────────────────────
+1. Inserir > Número da Página > Escolha posição
+2. Esconda na primeira página:
+   • Clique no número
+   • Marque: Primeira página diferente
+
+
+DICA 2: Destaques e Notas Importantes
+─────────────────────────────────────────────────────────────────────────────
+Use estilos com fundo:
+• Amarelo: Importante
+• Verde: Dica prática
+• Azul: Referência legal
+• Rosa: Aviso de risco
+
+
+DICA 3: Comentários e Revisões
+─────────────────────────────────────────────────────────────────────────────
+1. Compartilhe para revisão:
+   • Arquivo > Compartilhar
+   • Revisor adiciona comentários (não edita)
+   
+2. Para aceitar/rejeitar:
+   • Revisão > Controle de Alterações > Aceitar/Rejeitar Tudo
+
+
+DICA 4: Proteger o Documento
+─────────────────────────────────────────────────────────────────────────────
+1. Arquivo > Preparar > Proteger Documento
+2. Escolha: Marcar como final (desabilita edição)
+3. Ou: Criptografar com senha (para versões de trabalho)
+
+
+════════════════════════════════════════════════════════════════════════════════
+PARTE 13: SOLUÇÃO DE PROBLEMAS COMUNS
+════════════════════════════════════════════════════════════════════════════════
+
+PROBLEMA: Espaçamento desigual entre linhas
+SOLUÇÃO:
+  1. Selecione parágrafo
+  2. Parágrafo > Espaçamento de linha: 1,5 linhas
+  3. Se persistir: Remova espaçamento antes/depois
+
+PROBLEMA: Tabelas saem da página
+SOLUÇÃO:
+  1. Redimensione a tabela (arraste borda)
+  2. Ou: Redimensione colunas individualmente
+  3. Ou: Mude orientação para Paisagem apenas nesta página
+
+PROBLEMA: Imagens aparecem desfocadas
+SOLUÇÃO:
+  1. Clique na imagem > Ferramentas de Imagem
+  2. Compressão de Imagem > Compactar Imagens
+  3. Mantém qualidade mas reduz tamanho
+
+PROBLEMA: Hyperlinks não funcionam no PDF
+SOLUÇÃO:
+  1. Converta DOCX > PDF via Adobe (melhor) ou Word
+  2. Verifique: Todos os estilos de título foram usados
+  3. Recrie sumário antes de exportar
+
+
+════════════════════════════════════════════════════════════════════════════════
+PARTE 14: CHECKLIST FINAL ANTES DE PUBLICAR
+════════════════════════════════════════════════════════════════════════════════
+
+FORMATAÇÃO VISUAL
+□ Capa profissional com título e subtítulo
+□ Prefácio com 4 seções
+□ Sumário automático (2 níveis)
+□ Todas as 7 partes com quebra de página
+□ Todos os 27 capítulos numerados
+□ 28 tabelas formatadas com cores
+□ Cabeçalhos e rodapés consistentes
+□ Número de páginas: 130-150
+□ Índice remissivo no final
+
+CONTEÚDO
+□ Sem gaps ou seções truncadas
+□ Estudos de caso com dados corretos (Cap. 22)
+□ Exemplos de cálculo de ROI verificados
+□ Legislação atualizada (Lei 9.514/97)
+□ 5 Apêndices completos (A-E)
+□ Referências bibliográficas presentes
+□ Informações de contato do autor corretas
+
+QUALIDADE
+□ Nenhum erro de ortografia (F7 Revisor)
+□ Nenhum controle de alterações ativo
+□ Nenhum comentário pendente
+□ Informações pessoais removidas
+□ Hyperlinks testados
+□ Imagens com qualidade (300 DPI se impressa)
+
+METADADOS (para publicação digital)
+□ Título: A Bíblia do Leilão Imobiliário
+□ Autor: Salomão Von Herclestein
+□ Assunto: Real Estate / Investimento / Leilões
+□ Palavras-chave: leilão, imóvel, investimento, ROI
+□ Idioma: Português (Brasil)
+□ Descrição: Compre seu Imóvel com até 94% de Desconto
+
+
+════════════════════════════════════════════════════════════════════════════════
+PARTE 15: PRÓXIMOS PASSOS
+════════════════════════════════════════════════════════════════════════════════
+
+APÓS FORMATAÇÃO EM WORD:
+
+1. REVISÃO PROFISSIONAL (2-3 dias)
+   • Envie arquivo DOCX para revisor
+   • Revisor verifica: ortografia, gramática, coesão
+   • Você aceita/rejeita alterações
+
+2. DESIGN DE CAPA (3-5 dias)
+   • Contrate designer para criar capa profissional
+   • Dimensões: 14cm x 21cm (frente), 9mm (lombada)
+   • Formato final: PDF 300 DPI
+
+3. PUBLICAÇÃO (1-2 dias)
+   • Amazon KDP: Upload DOCX + capa + descrição
+   • Ou: Skoob, Google Play Books, Apple Books
+   • Revisão da plataforma: 24-48 horas
+
+4. MARKETING (Contínuo)
+   • Substack: Artigo de lançamento
+   • Podcast AVVISI: Episódio sobre o livro
+   • Redes Sociais: Anúncio de lançamento
+   • Influenciadores: Resenhas de leiloeiros conhecidos
+
+
+════════════════════════════════════════════════════════════════════════════════
+RECURSOS ADICIONAIS
+════════════════════════════════════════════════════════════════════════════════
+
+TUTORIAIS WORD:
+• Microsoft Learn: https://support.microsoft.com/pt-br/training
+• YouTube: "Formatação profissional em Word"
+• LinkedIn Learning: Curso "Word Advanced Formatting"
+
+TEMPLATES:
+• Microsoft Templates: templates.office.com
+• Busque: "Book template" ou "Professional document"
+
+FERRAMENTAS GRATUITAS:
+• Canva Pro: Design de capa (canva.com)
+• Grammarly: Verificação de gramática
+• Hemingway Editor: Análise de legibilidade
+
+
+════════════════════════════════════════════════════════════════════════════════
+CONCLUSÃO
+════════════════════════════════════════════════════════════════════════════════
+
+Seguindo este guia, você terá um documento Word profissional, bem formatado,
+pronto para:
+✓ Revisão e edição
+✓ Publicação em e-book (Amazon KDP, Kindle)
+✓ Publicação impressa (Print on Demand)
+✓ Distribuição digital
+
+Tempo total estimado: 2-3 horas
+Dificuldade: Média
+Resultado: Documento pronto para publicação profissional
+
+Boa sorte com o lançamento de "A Bíblia do Leilão Imobiliário"!
+
+════════════════════════════════════════════════════════════════════════════════

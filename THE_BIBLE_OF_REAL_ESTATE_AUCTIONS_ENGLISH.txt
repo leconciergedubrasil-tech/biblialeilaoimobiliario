@@ -1,0 +1,1875 @@
+════════════════════════════════════════════════════════════════════════════════
+                    THE BIBLE OF REAL ESTATE AUCTIONS
+                   Buy Your Property with Up to 94% Discount
+                           
+                        Author: Solomon Von Herclestein
+════════════════════════════════════════════════════════════════════════════════
+
+
+PREFACE
+═══════════════════════════════════════════════════════════════════════════════
+
+Why I Wrote This Book
+
+Good afternoon. This is Solomon Von Herclestein speaking.
+
+Today we will discuss — or rather, I will present an exposition on real estate 
+auctions. This book is the expanded and in-depth version of the content I have 
+been presenting in my classes and lectures. It is the "Bible of Real Estate 
+Auctions: Buy Your Property with Up to 94% Discount".
+
+I wrote this book because I never tire of explaining that real estate auctions 
+are a good investment, with financial returns much higher than other applications 
+and with risk much lower than imagined. Even so, because it is still not popular 
+in Brazil, people are afraid to make bids. This fear decreases daily as new 
+auction houses emerge and the press dedicates more space to covering this market.
+
+
+My Story: From First Auction to Million-Dollar Portfolio
+
+In August 2022, I purchased an apartment in Vila Madalena, São Paulo, for R$ 
+180,000. I spent over R$ 50,000 on other expenses. Time passed, and I resold the 
+property for R$ 320,000. This is a profit of R$ 90,000 in less than 12 months — 
+which, compared to, for example, savings accounts or some bonds that revolve 
+around 12% per year, represents three years of returns in just one year.
+
+This was not an isolated case. It was the first of many. And I believe that if 
+you are reading this book, you can also achieve similar or even better results.
+
+
+Who This Book Is For
+
+This book is for you who:
+
+• Wants to buy your own home paying much less than market value
+• Seeks an alternative investment with returns higher than savings and fixed income
+• Wants to understand how the real estate auction market works without falling 
+  for scams or false promises
+• Wants to become a real estate investor with solid legal and financial knowledge
+• Is a foreigner and wants to invest in the Brazilian real estate market
+
+
+How to Use This Book
+
+This book is organized into seven Parts, ranging from foundation to practice.
+
+PART I — The Foundation: Understand what a real estate auction is, its legal 
+basis and the types that exist.
+
+PART II — The Path: Learn how to participate in an auction, from reading the 
+notice to making your bid.
+
+PART III — The Business: Discover the costs, the acquisition, taking possession, 
+renovation and sale.
+
+PART IV — The Strategy: Master the mathematics of profit, the 3 pillars of 
+success and the magic of compound interest applied to auctions.
+
+PART V — The Danger: Know the real risks and how to avoid them.
+
+PART VI — The Practice: Follow the complete checklist for your first auction 
+and study real cases.
+
+PART VII — The Future: Understand market trends and the mindset of the 
+successful investor.
+
+Additionally, I included bonus chapters on investment for foreigners and high-value 
+auctions, plus appendices with legislation, glossary and practical tools.
+
+Let's begin.
+
+
+════════════════════════════════════════════════════════════════════════════════
+IMPORTANT NOTICE
+
+This book is informational and educational. It is not investment advice, legal advice, or tax advice. Real estate auctions involve risks, including loss of capital. Before deciding, consult a lawyer, an accountant, and an investment advisor registered with the CVM (Brazil's securities regulator). The author promotes his own products and services (Hercleus Terminal and the AVVISI podcast) throughout the book.
+
+PART I — THE FOUNDATION
+════════════════════════════════════════════════════════════════════════════════
+
+Chapter 1: What Is a Real Estate Auction?
+═══════════════════════════════════════════════════════════════════════════════
+
+1.1 Definition and Basic Concepts
+
+The assets sold in real estate auctions can come from legal proceedings, banks, 
+insurance companies, businesses or private individuals.
+
+A real estate auction is a category of real estate asset sales, and in this type 
+of transaction there is no direct negotiation between a buyer and a seller. In 
+the case of judicial auctions, the sale is made through a legal process, and the 
+judge will homologate or reject the purchase. In auctions, interested parties make 
+bids in competition, in which the best offer will be homologated.
+
+
+1.2 The Difference Between Conventional Purchase and Auction Purchase
+
+╔════════════════════════════════════════════════════════════════╗
+║           CONVENTIONAL PURCHASE vs. AUCTION PURCHASE           ║
+╠═════════════════════╦══════════════════╦═══════════════════════╣
+║ Aspect              ║ Conventional     ║ Auction Purchase      ║
+╠═════════════════════╬══════════════════╬═══════════════════════╣
+║ Negotiation         ║ Direct seller    ║ Via auction, bids     ║
+║ Price               ║ Market (negotia.)║ Highest bid           ║
+║ Property Condition  ║ Free inspection  ║ "As is" condition     ║
+║ Debts               ║ Seller pays      ║ May be assumed        ║
+║ Time                ║ Flexible         ║ Defined by notice     ║
+╚═════════════════════╩══════════════════╩═══════════════════════╝
+
+
+1.3 Why Properties Go to Auction
+
+The main factor is crisis. Brazil has not yet recovered from the economic crisis 
+that left millions unemployed. We had the COVID-19 pandemic, we had a post-COVID 
+recession, and this reduced the number of real estate launches. Those with money 
+began to look for used properties with better payment conditions. This was the 
+starting point for the growth of the auction market.
+
+Brazilians discovered this possibility and started making bids to buy their own 
+homes paying much less. Furthermore, many financial institutions loaded with 
+repossessed properties that needed to be sold facilitated negotiation, spread 
+payments and, in many cases, even financed the winning bid with terms almost as 
+long as a mortgage and reduced rates.
+
+
+1.4 The History of Auctions in Brazil
+
+The real estate auction is based on Law number 9,514, of November 20, 1997, which 
+provides for the Real Estate Financing System, institutes the fiduciary alienation 
+of real property and provides other provisions.
+
+The Real Estate Financing System (SFI) aims to promote real estate financing in 
+general, under conditions compatible with the formation of respective funds.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 2: The Legal Foundation of Auctions
+═══════════════════════════════════════════════════════════════════════════════
+
+2.1 Law 9,514/97: The Real Estate Financing System (SFI)
+
+Law 9,514/97 is the foundation of the real estate auction market in Brazil.
+
+Article 1: The Real Estate Financing System (SFI) aims to promote real estate 
+financing in general, under conditions compatible with the formation of respective 
+funds.
+
+Article 2: The following may operate in the SFI: Caixa Econômica Federal, 
+commercial banks, investment banks, banks with real estate credit portfolios, 
+real estate credit companies, savings and loan associations, mortgage companies 
+and, at the discretion of the National Monetary Council (CMN), other entities.
+
+Article 3: Real estate credit securitization companies, non-financial institutions 
+established as joint-stock companies, shall aim to acquire and securitize these 
+credits and issue and place on the financial market Certificates of Real Estate 
+Receivables (CRI), being able to issue other securities, conduct business and 
+provide services compatible with their activities.
+
+
+Second auction under the out-of-court procedure: if the first auction has no bid equal to or above the property value set in the contract, a second auction is held within 15 days. In it, the bid must be equal to or above the full debt, expenses and legal charges (art. 27, §§ 1 and 2, of Law 9,514/97). The Superior Court of Justice treats a bid below 50% of the appraised value as a vile price (AgInt nos EDcl no REsp 1,931,921/SP, 2021), a prohibition that REsp 2,096,465/SP also applies to out-of-court enforcement.
+
+2.2 Law 13,465/2017: Updates and Modernizations
+
+Law 13,465/2017 brought important updates to the auction market, especially with 
+regard to extrajudicial auctions, which now fall under this law in conjunction 
+with Law 9,514/97.
+
+
+2.3 The Role of the National Monetary Council (CMN)
+
+The CMN is the body responsible for defining which entities may operate in the 
+SFI, as provided in Article 2 of Law 9,514/97.
+
+
+2.4 Certificates of Real Estate Receivables (CRI) and Securitization
+
+Real estate credit securitization companies aim to acquire and securitize these 
+credits and issue and place on the financial market Certificates of Real Estate 
+Receivables (CRI). This mechanism allows real estate credits to be transformed 
+into tradable securities on the financial market, increasing liquidity in the 
+sector.
+
+
+2.5 The Constitution and Property Rights
+
+The real estate auction, although a form of forced execution, respects the right 
+to property provided for in the Constitution, as it occurs within a legal process 
+that guarantees due process and full defense to the debtor.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 3: Two Types of Auctions
+═══════════════════════════════════════════════════════════════════════════════
+
+The auction can be held in judicial or extrajudicial form.
+
+3.1 Extrajudicial Auction
+
+In the extrajudicial auction, governed by Laws 9,514/97 and 13,465/2017, the 
+extrajudicial auction of real estate is executed in cases of default of at least 
+three installments of a property sold to the financial institution with fiduciary 
+alienation.
+
+How it works:
+
+1. The citizen bought an apartment with financing
+2. Did not pay three installments
+3. Went to the extrajudicial auction process
+
+The process:
+
+The bank will send to the debtor, via the real estate registry office, written 
+notification to pay the overdue and adjusted installments, according to a 
+spreadsheet that will accompany the notification. The debtor will normally have 
+15 days to pay the debt in full and at the office.
+
+Otherwise, the financial institution may pay the ITBI (Real Estate Transfer Tax) 
+and secure the property in its favor. Within 30 days of consolidation, the 
+property may be put up for auction and is purchased.
+
+How to prevent the auction:
+
+The only way to prevent the property from being auctioned is through a court 
+action informing the judiciary the reasons for the default, and proposing to pay 
+the full debt at once, depositing the amounts in a court-linked account attached 
+to the proceedings, or in case the creditor accepts an agreement on the 
+installment plan of the debt.
+
+
+3.2 Judicial Auction
+
+It occurs through a court action to collect debt on the property itself, which 
+can vary between condominium fees or unpaid property taxes.
+
+How to suspend a judicial auction:
+
+In this case, suspension of the auction will only occur with payment of the full 
+debt or if the creditor accepts an agreement on the installment plan of the debt.
+
+
+3.3 The Difference Between 1st and 2nd Call
+
+In judicial auctions, there are two calls:
+
+1st call: The property is offered at the appraised value. If there are no bids, 
+it proceeds to the 2nd call.
+
+2nd call: The property is offered again, with a minimum bid set by the judge and the notice. Law prohibits so-called "vile price" sales, and bids far below the appraised value may be annulled. Check the floor that applies to your case with a lawyer.
+
+It is in the 2nd call that opportunities often appear, but the discount depends on the notice and the legal floor against vile price.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 4: Who Can and Cannot Participate
+═══════════════════════════════════════════════════════════════════════════════
+
+4.1 Legal Persons and Natural Persons: Basic Requirements
+
+Any person over 18 years old, natural or legal, can participate in an auction.
+
+To participate, it is necessary:
+
+• To appear at the location where the auction will be held as stated in the notice, 
+  carrying personal documents
+• Or participate online by doing early registration on the auctioneer's website
+
+
+4.2 Restrictions in Article 890 of the Code of Civil Procedure
+
+The following may not bid on the assets and situations indicated in Article 890 of the Code of Civil Procedure:
+
+• Guardians, curators, executors, administrators and liquidators, regarding the assets entrusted to their care and responsibility
+
+• Attorneys-in-fact, regarding the assets whose administration or sale they are in charge of
+
+• Judges, members of the Public Prosecutor's Office and Public Defender's Office, court clerks and other court staff, in the locality where they serve
+
+• Auctioneers and their agents, regarding the assets whose sale they are in charge of
+
+• Attorneys of either party
+
+
+4.3 Minors: Is It Possible?
+
+No. Participation in an auction requires full legal capacity, that is, being 
+18 years old.
+
+
+4.4 Foreigners: Special Rules
+
+Foreigners can participate in auctions in Brazil, but must observe specific rules, 
+which will be detailed in Chapter 26 (Bonus).
+
+
+════════════════════════════════════════════════════════════════════════════════
+PART II — THE PATH
+════════════════════════════════════════════════════════════════════════════════
+
+Chapter 5: The Notice — The Bible of the Deal
+═══════════════════════════════════════════════════════════════════════════════
+
+5.1 What It Is and Where to Find It
+
+Because it is a bidding process, all auctions have a notice, which must be 
+announced in advance, with wide publicity and circulation, whether printed or 
+digital.
+
+Where to find:
+
+• Major newspapers, which already have a section with notices
+• Auctioneer websites
+• Court websites
+
+
+5.2 Essential Information in the Notice
+
+Must state the main information about the asset, such as:
+
+╔════════════════════════════════════════════════════════════════╗
+║              ESSENTIAL INFORMATION IN THE NOTICE               ║
+╠════════════════════════════════╦═══════════════════════════════╣
+║ Information                    ║ Why It Matters                ║
+╠════════════════════════════════╬═══════════════════════════════╣
+║ Square Footage                 ║ Defines size and value        ║
+║ Location                       ║ Determines market value       ║
+║ Property Condition             ║ Indicates need for renovation ║
+║ Occupancy                      ║ Occupied or unoccupied?       ║
+║ Pending Debts                  ║ Property taxes, condo, etc.   ║
+║ Minimum Value                  ║ Starting bid                  ║
+║ Payment Conditions             ║ Cash, installment, or financed║
+╚════════════════════════════════╩═══════════════════════════════╝
+
+
+5.3 How to Interpret the Legal Language of the Notice
+
+Notices are written in legal language, which can be intimidating for beginners. 
+It is essential to:
+
+1. Read the entire notice — not just the summary
+2. Identify the most important clauses — occupancy, debts, minimum value
+3. Seek professional help if there are doubts
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 6: Where to Find Auctions
+═══════════════════════════════════════════════════════════════════════════════
+
+6.1 Major Newspapers
+
+Newspapers like O Globo, O Estado de São Paulo, Valor Econômico have weekly 
+sections teaching everything about auctions and informing available opportunity 
+purchases.
+
+
+6.2 Official Auctioneer Websites
+
+Each auctioneer maintains a website where they publish their notices and hold 
+online auctions.
+
+
+6.3 Court Justice Portals
+
+The Justice Courts of the states publish notices of judicial auctions on their 
+portals.
+
+
+6.4 Digital Platforms That Bring Together Multiple Auctioneers
+
+A digital platform that brings together properties available in 1,500 auctioneers 
+is beginning to operate, making it easier to search for opportunities.
+
+
+6.5 How to Set Up Alerts to Not Miss Opportunities
+
+Practical tip: Register on the websites of the main auctioneers and set up email 
+alerts to receive notifications when new notices are published.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 7: How to Make a Bid
+═══════════════════════════════════════════════════════════════════════════════
+
+7.1 In-Person Auction: Required Documents and Procedures
+
+To participate in an in-person auction, it is necessary:
+
+1. Attend the location indicated in the notice
+2. Carry personal documents (ID, CPF)
+3. Be attentive to the auctioneer's conduct
+4. Make verbal bids during the bidding
+
+
+7.2 Online Auction: Early Registration and Bidding Strategies
+
+To participate in an online auction:
+
+1. Register early on the auctioneer's website
+2. Submit required documentation
+3. Deposit a security deposit (usually 5% of minimum bid)
+4. Make bids through the platform on the scheduled date
+
+
+7.3 Strategies to Win at the Lowest Possible Price
+
+1. Set your maximum bid before the auction — and don't exceed it
+2. Participate in auctions with few bidders — less competition
+3. Make bids in the final minute — avoids inflating the price before time
+4. Don't let emotions carry you — discipline is the key
+
+
+7.4 What to Do If You Lose the Bid
+
+If you lose the bid, don't be discouraged. The auction market offers opportunities 
+every day. Analyze what went wrong and prepare for the next one.
+
+
+7.5 Psychology of the Auction: How Not to Be Carried Away by Emotion
+
+The auction is an emotional environment. The auctioneer is trained to create a 
+sense of urgency and competition. To avoid falling into this trap:
+
+• Have your maximum bid defined and don't change it during the auction
+• Remember: there will always be another property
+• Take a deep breath before making a bid
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 8: The Role of the Auctioneer
+═══════════════════════════════════════════════════════════════════════════════
+
+8.1 Who They Are and What Their Functions Are
+
+The auctioneer is the professional responsible for conducting the auction, 
+receiving bids and declaring the winner.
+
+
+8.2 Requirements to Be an Auctioneer
+
+The profession of auctioneer will be exercised by means of registration granted 
+by the commercial boards of the Federal District, the states and the Acre 
+territory.
+
+To be an auctioneer, it is necessary:
+
+• To be a Brazilian citizen
+• To be in the enjoyment of your civil and political rights
+• To be over 25 years old
+• To be domiciled in the place where you intend to practice the profession for 
+  more than five years
+• To have proven integrity with the presentation of identity card and negative 
+  certificates from the registry offices
+• To present a negative certificate of lawsuits or executions filed against him 
+  in the Federal Civil Court and local corresponding to his domicile and relating 
+  to the last five years
+
+May not be auctioneers:
+
+• Those who were previously removed from this profession, except if they were 
+  removed at their request
+• Bankrupts not rehabilitated
+• Rehabilitated persons when bankruptcy has been classified as negligent or 
+  fraudulent
+
+
+8.3 Guarantee and Legal Responsibilities
+
+The auctioneer, after being properly qualified before the commercial boards, is 
+obligated, by court order of the same boards, to provide a guarantee in money or 
+in a federal government bond.
+
+
+8.4 How to Check If an Auctioneer Is Trustworthy
+
+1. Consult the auctioneer's registration at the Commercial Board
+2. Check if there are lawsuits against him
+3. Research the auctioneer's reputation on the internet
+4. Ask for references from other investors
+
+
+════════════════════════════════════════════════════════════════════════════════
+PART III — THE BUSINESS
+════════════════════════════════════════════════════════════════════════════════
+
+Chapter 9: The Purchase — The Moment of Truth
+═══════════════════════════════════════════════════════════════════════════════
+
+9.1 What Happens After the Winning Bid
+
+After the winning bid, the buyer must:
+
+1. Pay the bid value (or down payment, if paid in installments)
+2. Await homologation by the judge (in judicial auctions)
+3. Register the purchase at the real estate registry office
+
+
+9.2 Homologation by the Judge: What It Means and How Long It Takes
+
+In the case of judicial auctions, the sale is made through a legal process, and 
+the judge will homologate or reject the purchase. Homologation can take from a 
+few days to several months, depending on the complexity of the case.
+
+
+9.3 The Payment: Cash, Installment or Financed?
+
+Many financial institutions have facilitated negotiation, spread the value of the 
+purchase and, in many cases, even financed the winning bid, with terms almost as 
+long as a mortgage and with reduced rates.
+
+
+9.4 Costs Beyond the Bid
+
+╔═══════════════════════════════╦═════════════════════════════════╗
+║ Cost                          ║ Description                     ║
+╠═══════════════════════════════╬═════════════════════════════════╣
+║ ITBI                          ║ Real Estate Transfer Tax (2-4%) ║
+║ Registry Fees (Emoluments)    ║ Property registration (0.5-1%)  ║
+║ Auctioneer Fees               ║ Commission on bid (1-5%)        ║
+║ Retroactive Debts             ║ Property taxes, condo (Variable)║
+║ Registration of Purchase      ║ Registry office (Variable)      ║
+╚═══════════════════════════════╩═════════════════════════════════╝
+
+
+9.5 Financing After the Auction
+
+In bank auctions, such as those of Caixa, the notice may allow financed payment. Rules that usually appear:
+
+1. Down payment: in Caixa auctions, the down payment is usually at least 5% of the minimum sale price, paid within 2 business days after approval. Check the notice.
+2. Financing and FGTS: allowed only when the property listing says so. It is not a general rule.
+3. Financed percentage: promotional material mentions up to 95%, but the actual amount depends on the notice and the bank's approval. Treat any figure as a starting point, not a guarantee.
+4. Auctioneer fee: usually about 5% of the property value, paid by the buyer. Check the notice.
+5. Second auction: if the first auction has no winning bid, the second auction takes place within 15 days, with a minimum bid that can be lower, but never below 50% of the appraised value (art. 27, §2, of Law 9,514/97, as amended by Law 14,711/2023).
+
+Before relying on financing, confirm with the bank the required income, documents, property appraisal, maximum term and fees. Because the property is held under fiduciary sale, a buyer in default loses the right to pay off the debt and recover the property once ownership is consolidated: according to the Brazilian Superior Court of Justice (Theme 1,288, REsp 2,126,726/SP), once ownership is consolidated under Law 13,465/2017 there is no longer a right to cure the default; the debtor keeps only a right of first refusal (art. 27, §2-B, of Law 9,514/97).
+
+The figures in this text come from press reports and 2026 auction notices. Always confirm them in the notice of each property.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 10: Taking Possession — How to Take the Property
+═══════════════════════════════════════════════════════════════════════════════
+
+10.1 Unoccupied Property: The Fastest Path
+
+If the property is unoccupied, taking possession is immediate. The buyer can take 
+possession as soon as payment is made and the purchase is homologated.
+
+
+10.2 Occupied Property: How to Proceed
+
+If the property is occupied, the situation is more complex. In this case:
+
+1. Check in the notice if occupancy is reported
+2. Try an out-of-court settlement with the occupant
+3. If necessary, file an action for taking possession
+
+
+10.3 Taking Possession: Out-of-Court or Judicial
+
+The path depends on how the auction was held.
+
+In an out-of-court auction, governed by Law 9.514/97, the buyer has the right to take possession once the auction certificate is recorded in the property registry (art. 30). If the occupant does not leave, a possession action may be filed. While the occupant stays, an occupancy fee of 1% per month, calculated on the property value stated in the contract for out-of-court auction, is due from the auction to the date of possession (art. 37-A, as amended by Law 14.711/2023). A lawsuit challenging the auction, without a decision suspending the procedure, generally does not prevent possession, according to decisions of state courts. This is not a guarantee: check your case with a lawyer.
+
+In a judicial auction, possession follows the expropriation rules of the Code of Civil Procedure. Deadlines and remedies differ and must be checked with a lawyer.
+
+Warning: the occupant may allege that the procedure was invalid. Read the notice of auction and the property registration before bidding. Also check whether the notice proves that the debtor was personally notified of the auction dates: courts debate when the lack of personal notice voids the procedure, and the debtor's clear awareness has been considered sufficient in some cases. Confirm with a lawyer.
+
+
+10.4 Timeframes and Legal Costs
+
+╔═══════════════════════════════╦═════════════════════════════════╗
+║ Aspect                        ║ Estimate                        ║
+╠═══════════════════════════════╬═════════════════════════════════╣
+║ Time for voluntary eviction   ║ 15 to 30 days                   ║
+║ Time for judicial eviction    ║ 6 months to 2 years             ║
+║ Legal costs                   ║ Lawyer, court fees, expertise   ║
+╚═══════════════════════════════╩═════════════════════════════════╝
+
+
+10.5 Out-of-Court Settlements with Occupants
+
+Often, it is faster and cheaper to make an agreement with the occupant (payment 
+for "turnkey") than to file a judicial action.
+
+
+10.6 Extreme Cases: Reintegration of Possession with Police Force
+
+In extreme cases, it may be necessary to use police force to reintegrate 
+possession. This is an expensive, time-consuming and emotionally draining 
+procedure.
+
+
+10.7 What to Do If the Occupant Is Elderly, a Child or Person with Disability
+
+The eviction of properties occupied by the elderly, children or people with 
+disabilities is more difficult and lengthy, as justice tends to be more protective 
+with these groups.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 11: Renovation and Appreciation
+═══════════════════════════════════════════════════════════════════════════════
+
+11.1 Assessing the Property's Condition
+
+Before buying, assess the condition of the property. If possible, do an inspection. 
+If not possible, be prepared for surprises.
+
+
+11.2 Essential Renovations vs. Aesthetic Renovations
+
+╔═══════════════════════════════╦═════════════════════════════════╗
+║ Type of Renovation            ║ Description / Priority          ║
+╠═══════════════════════════════╬═════════════════════════════════╣
+║ Essential                     ║ Structure, electrical, plumbing ║
+║                               ║ roof — HIGH PRIORITY            ║
+║ Aesthetic                     ║ Painting, flooring, finishing   ║
+║                               ║ — MEDIUM PRIORITY               ║
+║ Luxury                        ║ Decoration, landscaping         ║
+║                               ║ — LOW PRIORITY                  ║
+╚═══════════════════════════════╩═════════════════════════════════╝
+
+
+11.3 Budget: How Not to Go Over Plan
+
+1. Do a detailed budget before renovation
+2. Add a 30% reserve for unexpected expenses
+3. Research suppliers before contracting
+
+
+11.4 The Impact of Renovation on Sale Price
+
+A well-done renovation can increase the property's value by 20-40%. A poorly-done 
+renovation may add no value or even reduce the price.
+
+
+11.5 When It's Worth It to Sell "As Is"
+
+In some cases, it's better to sell the property "as is" (in the condition it is in) 
+for investors who prefer to do the renovation themselves.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 12: The Sale — Realized Profit
+═══════════════════════════════════════════════════════════════════════════════
+
+12.1 Pricing: How to Arrive at Fair Market Price
+
+1. Research similar properties in the region (Zap Imóveis, VivaReal)
+2. Consult FipeZap for reference
+3. Consider location, condition and size of the property
+
+
+12.2 Sales Strategies
+
+╔═══════════════════════════════╦═════════════════════════════════╗
+║ Strategy                      ║ Advantage / Disadvantage        ║
+╠═══════════════════════════════╬═════════════════════════════════╣
+║ Traditional Real Estate Agents║ Reach, expertise /              ║
+║                               ║ High commission (5-6%)          ║
+║ Direct Sale (OLX, Zap, Viva)  ║ Save commissions /              ║
+║                               ║ Seller's work                   ║
+║ Sale to Other Investors       ║ Quick sale /                    ║
+║                               ║ Lower price                     ║
+║ Auction Again                 ║ Quick sale /                    ║
+║                               ║ Below market price              ║
+╚═══════════════════════════════╩═════════════════════════════════╝
+
+
+12.3 Average Sale Time: 12 Months (and How to Reduce It)
+
+The average for sales is 12 months. To reduce this timeframe:
+
+1. Price competitively
+2. Invest in professional photos
+3. Prepare the property for viewings
+4. Advertise on multiple platforms
+
+
+12.4 Negotiation: Giving Discount to Sell Quickly
+
+Sometimes, giving a small 3-4% discount can speed up the sale and increase your 
+ROI (Return on Investment) in the long run.
+
+
+12.5 Taxation of the Sale: When Tax Applies to the Gain
+
+When you sell the property for more than the acquisition cost, the difference is a capital gain, subject to personal income tax at progressive rates: 15% up to R$ 5 million of gain; 17.5% from R$ 5 million to R$ 10 million; 20% from R$ 10 million to R$ 30 million; and 22.5% above R$ 30 million. There are two important exemptions:
+
+1. A single property sold for up to R$ 440,000, with no other sale in the last 5 years (art. 23 of Law 9.250/95).
+2. Sale of a residential property with the full proceeds reinvested in another residential property in Brazil within 180 days (art. 39 of Law 11.196/2005). Partial reinvestment, in construction or land, does not guarantee the exemption.
+
+The taxable gain is calculated in the GCAP system and paid by DARF. Even when exempt, the sale must be reported in the tax return. This text is informational and does not replace the advice of an accountant.
+
+
+════════════════════════════════════════════════════════════════════════════════
+PART IV — THE STRATEGY
+════════════════════════════════════════════════════════════════════════════════
+
+Chapter 13: The Mathematics of Profit
+═══════════════════════════════════════════════════════════════════════════════
+
+13.1 ROI (Return on Investment): How to Calculate
+
+ROI (Return on Investment) measures profit relative to total investment.
+
+Formula: ROI = (Profit / Total Investment) × 100
+
+
+Practical Example:
+
+• Property bought for R$ 180,000
+• Costs (renovation, taxes, etc.): R$ 50,000
+• Total investment: R$ 230,000
+• Sale for R$ 320,000
+• Profit: R$ 90,000
+
+ROI = (90,000 / 230,000) × 100 = 39.1%
+
+
+13.2 ROE (Return on Equity): The Definitive Indicator
+
+ROE (Return on Equity) measures return on own capital invested.
+
+Formula: ROE = (Profit / Own Capital) × 100
+
+
+13.3 Step-by-Step Practical Example
+
+Step 1: Identify the property at auction
+- Market value: R$ 350,000
+- Minimum bid: R$ 180,000
+
+Step 2: Participate in the auction
+- Winning bid: R$ 180,000
+
+Step 3: Additional costs
+- Renovation: R$ 40,000
+- ITBI: R$ 7,200 (2%)
+- Auctioneer commission: R$ 3,600 (1%)
+- Total costs: R$ 50,800
+
+Step 4: Sale
+- Estimated sale price: R$ 320,000
+- Real estate agent commission: R$ 19,200 (6%)
+
+Step 5: Profit calculation
+- Revenue: R$ 320,000
+- Total costs: R$ 50,800 + R$ 19,200 = R$ 70,000
+- Profit: R$ 250,000
+
+
+13.4 Calculation Spreadsheet: Download and Use
+
+We have included an ROI calculation spreadsheet in Appendix C. Download and use 
+it for your analyses.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 14: Comparison with Other Investments
+═══════════════════════════════════════════════════════════════════════════════
+
+14.1 Savings Account: 12% per Year vs. 100% in One Year
+
+╔════════════════════╦═══════════════════╦══════════════════════╗
+║ Investment         ║ Annual Return     ║ Observation          ║
+╠════════════════════╬═══════════════════╬══════════════════════╣
+║ Savings Account    ║ ~6%               ║ Low return           ║
+║ Real Estate Auction║ 30-60% (12 mths) ║ High return          ║
+╚════════════════════╩═══════════════════╩══════════════════════╝
+
+
+14.2 Fixed Income Securities (Tesouro Direto, CDBs)
+
+╔════════════════════╦═══════════════════╦══════════════════════╗
+║ Investment         ║ Annual Return     ║ Observation          ║
+╠════════════════════╬═══════════════════╬══════════════════════╣
+║ Treasury Selic     ║ ~10%              ║ Low return           ║
+║ CDBs               ║ ~11-12%           ║ Limited return       ║
+║ Real Estate Auction║ 30-60% (12 mths) ║ Superior return      ║
+╚════════════════════╩═══════════════════╩══════════════════════╝
+
+
+14.3 Stocks and Stock Exchange (Bovespa)
+
+╔════════════════════╦═══════════════════╦══════════════════════╗
+║ Investment         ║ Annual Return     ║ Observation          ║
+╠════════════════════╬═══════════════════╬══════════════════════╣
+║ Bovespa            ║ Variable (10-20%) ║ High volatility      ║
+║ Real Estate Auction║ 30-60% (12 mths) ║ More predictable     ║
+╚════════════════════╩═══════════════════╩══════════════════════╝
+
+
+14.4 Real Estate Investment Funds (FIIs)
+
+╔════════════════════╦═══════════════════╦══════════════════════╗
+║ Investment         ║ Annual Return     ║ Observation          ║
+╠════════════════════╬═══════════════════╬══════════════════════╣
+║ FIIs               ║ 8-12%             ║ Monthly dividend     ║
+║ Real Estate Auction║ 30-60% (12 mths) ║ Superior return      ║
+╚════════════════════╩═══════════════════╩══════════════════════╝
+
+
+14.5 Cryptocurrencies: The Risk Is Not Worth It
+
+╔════════════════════╦═══════════════════╦══════════════════════╗
+║ Investment         ║ Annual Return     ║ Observation          ║
+╠════════════════════╬═══════════════════╬══════════════════════╣
+║ Cryptocurrencies   ║ Variable (negative)║ Speculation         ║
+║ Real Estate Auction║ 30-60% (12 mths) ║ Real asset          ║
+╚════════════════════╩═══════════════════╩══════════════════════╝
+
+
+14.6 Why Real Estate Auctions Are More Predictable
+
+Unlike stocks or cryptocurrencies, the value of a property is relatively stable 
+in the short term. Nowadays, property prices are easy to check by anyone using 
+available digital resources on the internet. Furthermore, property prices do not 
+vary much in the short term. If you buy a property today, a year from now its 
+value will not be much different.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 15: The 3 Pillars of Success
+═══════════════════════════════════════════════════════════════════════════════
+
+For the real return to be achieved, certain conditions must be met:
+
+
+15.1 First Pillar: Avoid Competition
+
+Look for auctions where there will be less competition.
+
+Strategies:
+
+• Auctions in smaller cities
+• Properties with some "defect" that scares beginners
+• Strategic times and dates (weekday auctions, business hours)
+
+
+15.2 Second Pillar: Choose Neighborhoods with Demand
+
+Seek properties with interested buyers. There's no point in buying a property in 
+a distant neighborhood where no one is looking. On the contrary, look for 
+centralized neighborhoods with more property searches.
+
+
+15.3 Third Pillar: Sell Quickly
+
+Good property, located in a good neighborhood, with a small 3-4% discount, has a 
+better chance of being sold quickly.
+
+
+15.4 The Interaction Between the Pillars
+
+            ┌────────────────────┐         ┌────────────────────┐
+            │  1. AVOID BIDDING  │         │  2. NEIGHBORHOODS │
+            │    COMPETITION     │         │    WITH DEMAND     │
+            └─────────┬──────────┘         └─────────┬──────────┘
+                      │                              │
+                      └──────────────┬───────────────┘
+                                     │
+                        ┌────────────▼────────────┐
+                        │  3. SELL QUICKLY       │
+                        └────────────────────────┘
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 16: The Magic of Compound Interest Applied to Auctions
+═══════════════════════════════════════════════════════════════════════════════
+
+16.1 One Deal Per Year: Is It Possible?
+
+Considering that the average for sales is 12 months, it is possible to do one 
+deal per year. With a little experience and dedication, you can find a property 
+per year.
+
+
+16.2 Projection for 10, 20 and 30 Years
+
+Considering ROE (Return on Equity) of 35% per year:
+
+╔═════════╦═══════════════════════════════════╗
+║ Period  ║ Wealth (starting from R$ 100k)   ║
+╠═════════╬═══════════════════════════════════╣
+║ 10 years║ R$ 2,000,000                      ║
+╚═════════╩═══════════════════════════════════╝
+
+
+16.3 Warren Buffett's Example (20% a.a.) vs. Auction (35% a.a.)
+
+Warren Buffett, the greatest investor in the American stock market and consequently 
+in the world, achieved throughout his career an average ROE of 20%, considering 
+that all money would be reinvested.
+
+With 20% ROE, investing R$ 100,000 today:
+
+╔═════════╦═══════════════════════════════════╗
+║ Period  ║ Wealth (starting from R$ 100k)   ║
+╠═════════╬═══════════════════════════════════╣
+║ 10 years║ R$ 620,000                        ║
+╚═════════╩═══════════════════════════════════╝
+
+With 35% ROE (real estate auction):
+
+╔═════════╦═══════════════════════════════════╗
+║ Period  ║ Wealth (starting from R$ 100k)   ║
+╠═════════╬═══════════════════════════════════╣
+║ 10 years║ R$ 2,000,000                      ║
+╚═════════╩═══════════════════════════════════╝
+
+
+16.4 The Limits of the Model: When Wealth Becomes Too Large
+
+Obviously, the larger your wealth becomes, the harder it will be to find large-value 
+properties to continue this multiplication. But with this example alone, you can 
+see that it is possible to achieve great returns with properties in auctions.
+
+When you have 40 million, you won't buy 100k properties anymore. You'll have to 
+buy larger properties. 40 million will be a portfolio of properties, then you'll 
+already need technical support, sometimes a specialized real estate sales office. 
+That is, you will grow along with it.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 17: Diversification and Risk Management
+═══════════════════════════════════════════════════════════════════════════════
+
+17.1 Why Not Put All Money in One Property
+
+Diversification is a valid strategy to reduce risks and not depend on one or 
+two investments.
+
+
+17.2 Combining Auctions with Fixed Income and Stocks
+
+If you are young, with few commitments and a lot of time ahead, you have more 
+room for risk-taking, considering that the consequences will be better and you 
+will have plenty of time to recover from any loss.
+
+However, if you are older, with more commitments and responsibilities, with less 
+time to live, what you would like to do is invest in more secure and less 
+volatile assets.
+
+
+17.3 The Real Estate Portfolio: When Wealth Grows, Business Changes
+
+As your wealth grows, you will need:
+
+• Technical support
+• Specialized real estate sales office
+• Lawyers and accountants
+
+
+17.4 How to Exit Real Estate and Migrate to Other Assets
+
+Diversification should be used in this balance between high and low risk investments. 
+What makes the most sense to me is: diversify.
+
+
+════════════════════════════════════════════════════════════════════════════════
+PART V — THE DANGER
+════════════════════════════════════════════════════════════════════════════════
+
+Chapter 18: The Real Risks (That No One Tells You About)
+═══════════════════════════════════════════════════════════════════════════════
+
+18.1 Occupancy Risk: The Hidden Cost
+
+The property may be occupied. If it is occupied, the possibility of judicially 
+requesting taking possession may take some time, in addition to more legal costs. 
+Eviction can take from 6 months to 2 years.
+
+
+18.2 Legal Risk: Debts and Incomplete Documentation
+
+The property may have hidden debts (property taxes, condominium fees, liens) that 
+may become the responsibility of the new owner. It is essential to analyze the 
+property's registration at the real estate registry office.
+
+
+18.3 Renovation Risk: Budget Exceeded
+
+The property may be in poor condition, requiring renovations that exceed the 
+planned budget. Always add a 30% reserve for unexpected expenses.
+
+
+18.4 Liquidity Risk: Property Stuck
+
+The property may take more than 12 months to sell, tying up the investor's capital.
+
+
+18.5 Competition Risk: Bid Too High
+
+The bid may be inflated by competition, eroding profit.
+
+
+18.6 Macroeconomic Risk: Interest Rates, Inflation and Crisis
+
+The real estate market can be affected by economic crises, rising interest rates 
+and inflation.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 19: How to Avoid Scams and False Promises
+═══════════════════════════════════════════════════════════════════════════════
+
+19.1 The "Property with 94% Discount" Scam
+
+Be wary of promises of miraculous discounts. Real discounts usually range from 
+30% to 60% of market value, not 94%.
+
+
+19.2 Be Wary of "Miracle Course" Sellers
+
+Many course sellers promise to get rich with auctions, but have never participated 
+in an auction in their lives.
+
+
+19.3 How to Verify Auctioneer's Integrity
+
+1. Consult the auctioneer's registration at the Commercial Board
+2. Check if there are lawsuits against him
+3. Research reputation on the internet
+
+
+19.4 Consulting Negative Certificates and Records
+
+Always request negative certificates of lawsuits or executions filed against the 
+auctioneer at the Federal Civil Court and local corresponding to your domicile 
+and relating to the last five years.
+
+
+19.5 Fake Websites and Phishing: How to Protect Yourself
+
+• Always verify the auctioneer's website domain
+• Don't click on suspicious links
+• Confirm the website address directly with the auctioneer
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 20: When Not to Buy a Property at Auction
+═══════════════════════════════════════════════════════════════════════════════
+
+20.1 Red Flags in the Notice
+
+• Occupancy not reported
+• Debts not specified
+• Minimum value very low (may indicate serious problems)
+• Incomplete documentation
+
+
+20.2 Properties with Serious Structural Problems
+
+• Cracks
+• Water infiltration
+• Foundation problems
+• Condemnation by city hall
+
+
+20.3 Neighborhoods with Low Demand or Violence
+
+• Low property demand
+• Rising violence
+• Continuous devaluation
+
+
+20.4 Occupancy by Elderly, Child or Person with Disability
+
+Eviction of properties occupied by these groups is more difficult and lengthy.
+
+
+20.5 Properties in Rural or Border Areas (For Foreigners)
+
+For foreigners, purchasing rural or border area properties requires authorization 
+from INCRA or the National Defense Council.
+
+
+20.6 When the Discount Does Not Justify the Risk
+
+If the discount is small (less than 30%), the risk may not be worth it. Assess 
+whether the profit potential justifies the risk.
+
+
+════════════════════════════════════════════════════════════════════════════════
+PART VI — THE PRACTICE
+════════════════════════════════════════════════════════════════════════════════
+
+Chapter 21: Your First Auction — Complete Checklist
+═══════════════════════════════════════════════════════════════════════════════
+
+21.1 Month 1: Study and Preparation
+
+□ Read this book twice
+□ Set aside capital (minimum R$ 50,000 to start)
+□ Keep your CPF up to date and open a bank account
+
+
+21.2 Month 2: Property Selection and Notice Analysis
+
+□ Analyze 10 notices per day
+□ Create a spreadsheet of opportunities
+□ Visit the properties (if possible)
+
+
+21.3 Month 3: Participation and Purchase
+
+□ Set your maximum bid (don't exceed it!)
+□ Participate in 3 auctions as "training"
+□ Purchase your first property
+
+
+21.4 Post-Purchase: Documents and Payment
+
+□ Pay the bid (or down payment)
+□ Await homologation (if judicial)
+□ Register the purchase at the registry office
+
+
+21.5 After Taking Possession: Renovation and Sale Preparation
+
+□ Assess the property's condition
+□ Do essential renovations
+□ Prepare property for sale
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 22: Real Case Studies
+═══════════════════════════════════════════════════════════════════════════════
+
+22.1 Case 1: The Apartment in Vila Madalena (The Author's Case)
+
+In August, I purchased an apartment in Vila Madalena, São Paulo, for R$ 180,000. 
+I spent over R$ 50,000 on other expenses. Time passed, and I resold the property 
+for R$ 320,000. This is a profit of R$ 90,000 in less than 12 months.
+
+╔════════════════╦═════════════════════╗
+║ Item           ║ Value               ║
+╠════════════════╬═════════════════════╣
+║ Purchase       ║ R$ 180,000          ║
+║ Costs          ║ R$ 50,000           ║
+║ Investment     ║ R$ 230,000          ║
+║ Sale           ║ R$ 320,000          ║
+║ Profit         ║ R$ 90,000           ║
+║ ROI            ║ 39.1%               ║
+╚════════════════╩═════════════════════╝
+
+
+22.2 Case 2: Occupied Property That Took 2 Years to Evict
+
+An investor bought an occupied property for R$ 150,000. Judicial eviction took 
+2 years and cost R$ 40,000 in lawyer fees and court costs. In the end, sold for 
+R$ 250,000.
+
+╔════════════════════════════╦═════════════════════╗
+║ Item                       ║ Value               ║
+╠════════════════════════════╬═════════════════════╣
+║ Purchase                   ║ R$ 150,000          ║
+║ Eviction Costs             ║ R$ 40,000           ║
+║ Renovation                 ║ R$ 20,000           ║
+║ Total Investment           ║ R$ 210,000          ║
+║ Sale                       ║ R$ 250,000          ║
+║ Profit                     ║ R$ 40,000           ║
+║ ROI                        ║ 19% (in 2 years)    ║
+╚════════════════════════════╩═════════════════════╝
+
+
+22.3 Case 3: The Auction with Fierce Competition That Almost Lost Money
+
+An investor got into fierce bidding and paid R$ 300,000 for a property appraised 
+at R$ 350,000. Costs were R$ 70,000. Fierce competition eroded all profit.
+
+╔════════════════╦═════════════════════╗
+║ Item           ║ Value               ║
+╠════════════════╬═════════════════════╣
+║ Purchase       ║ R$ 300,000          ║
+║ Costs          ║ R$ 70,000           ║
+║ Investment     ║ R$ 370,000          ║
+║ Sale           ║ R$ 370,000          ║
+║ Profit         ║ R$ 0                ║
+║ ROI            ║ 0%                  ║
+╚════════════════╩═════════════════════╝
+
+
+22.4 Case 4: The Property That Yielded 59% Profit in 6 Months
+
+An investor bought a property at auction for R$ 200,000, a property appraised at 
+R$ 300,000. Spent R$ 20,000 on renovation and sold for R$ 350,000.
+
+╔════════════════╦═════════════════════╗
+║ Item           ║ Value               ║
+╠════════════════╬═════════════════════╣
+║ Purchase       ║ R$ 200,000          ║
+║ Costs          ║ R$ 20,000           ║
+║ Investment     ║ R$ 220,000          ║
+║ Sale           ║ R$ 350,000          ║
+║ Profit         ║ R$ 130,000          ║
+║ ROI            ║ 59.1% (in 6 months) ║
+╚════════════════╩═════════════════════╝
+
+
+22.5 Case 5: A Beginner's First Auction (Mistakes and Successes)
+
+A beginner bought a property without doing an inspection. Discovered it needed 
+R$ 50,000 in renovations that hadn't been foreseen. However, the property was in 
+a valued neighborhood and sold quickly.
+
+╔════════════════╦═════════════════════╗
+║ Item           ║ Value               ║
+╠════════════════╬═════════════════════╣
+║ Purchase       ║ R$ 160,000          ║
+║ Expected Costs ║ R$ 10,000           ║
+║ Unexpected Costs║ R$ 50,000           ║
+║ Investment     ║ R$ 220,000          ║
+║ Sale           ║ R$ 280,000          ║
+║ Profit         ║ R$ 60,000           ║
+║ ROI            ║ 27.3%               ║
+╚════════════════╩═════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 23: Tools and Useful Resources
+═══════════════════════════════════════════════════════════════════════════════
+
+23.1 Websites to Check Property Values
+
+• Zap Imóveis: www.zapimoveis.com.br
+• VivaReal: www.vivareal.com.br
+• FipeZap: Real estate price index
+
+
+23.2 Auction Search Systems
+
+• Official auctioneer websites
+• Court portals
+• Digital platforms that bring together multiple auctioneers
+
+
+23.3 Spreadsheets to Calculate ROI and Costs
+
+We have included an ROI calculation spreadsheet in Appendix C.
+
+
+23.4 Contract Templates and Necessary Documents
+
+• Model purchase and sale contract
+• Model power of attorney for representation
+• Model out-of-court settlement for eviction
+
+
+23.5 Applications for Auction Monitoring
+
+• Email alerts
+• Auction notification applications
+• RSS feeds from notices
+
+
+23.6 Groups and Communities of Investors
+
+• Groups on WhatsApp and Telegram
+• Real estate investment forums
+• In-person events and meetings
+
+
+════════════════════════════════════════════════════════════════════════════════
+PART VII — THE FUTURE
+════════════════════════════════════════════════════════════════════════════════
+
+Chapter 24: The Real Estate Auction Market in Brazil
+═══════════════════════════════════════════════════════════════════════════════
+
+24.1 Growth in Recent Years
+
+Brazilians discovered this possibility and started making bids to buy their own 
+homes paying much less. Furthermore, many financial institutions loaded with 
+repossessed properties that needed to be sold facilitated negotiation.
+
+
+24.2 The Role of Technology and Online Auctions
+
+A digital platform that brings together properties available in 1,500 auctioneers 
+is beginning to operate. The vast majority of auctions today occur online, making 
+it easier for investors from across the country to participate.
+
+
+24.3 What to Expect for the Next 10 Years
+
+Newspapers like O Globo, O Estado de São Paulo, Valor Econômico have weekly 
+sections teaching everything about auctions and informing available purchase 
+opportunities. Economic commentators on radio stations CBN and Bandeirantes have 
+already spoken much about the subject.
+
+
+24.4 The Impact of Artificial Intelligence on Opportunity Analysis
+
+Artificial intelligence can help:
+
+• Analyze thousands of notices quickly
+• Identify opportunities with high profit potential
+• Predict property market value
+• Evaluate legal and occupancy risks
+
+
+24.5 New Laws and Regulations
+
+The auction market continues to evolve, with new laws that may facilitate or hinder 
+investment. It is important to stay updated.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 25: The Lion and the Gazelle — The Investor's Mindset
+═══════════════════════════════════════════════════════════════════════════════
+
+25.1 The Importance of Patience
+
+The true investor waits. There are no shortcuts. Nobody becomes a millionaire in three years driving a Ferrari or Lamborghini: the image shared online does not represent most investors. It might exist for someone, but generally it does not exist in the financial market.
+
+
+25.2 Don't Fall in Love with the Property (Only with the Numbers)
+
+Always keep in mind that the property is an investment, not a house to live in. 
+Decisions should be based on numbers, not emotion.
+
+
+25.3 Learn from Mistakes and Move Forward
+
+Every investor makes mistakes. The important thing is to learn from them and move 
+forward.
+
+
+25.4 Building Generational Wealth
+
+I always give the example: imagine Uncle Scrooge. He didn't like to lose a penny, 
+didn't spend on anything. That is the mathematics.
+
+
+25.5 The Responsibility of Teaching and Helping Other Investors
+
+In addition, it is necessary to study and specialize, or have someone who does it. 
+Even if you have someone, you will also have to study to understand what you are 
+doing with your money, so you don't come out with those stories in the news — "I 
+didn't see what he did with my money and lost everything".
+
+
+════════════════════════════════════════════════════════════════════════════════
+BONUS CHAPTERS
+════════════════════════════════════════════════════════════════════════════════
+
+Chapter 26 (Bonus): How Foreigners Can Invest in Auctions in Brazil
+═══════════════════════════════════════════════════════════════════════════════
+
+26.1 Fundamental Requirements: CPF and Documentation
+
+The first and most important step for any foreigner interested in participating 
+in an auction in Brazil is to obtain a CPF (Individual Taxpayer Registry). This 
+is the tax identification number mandatory for any real estate transaction in the 
+country.
+
+How to obtain:
+
+The process can be carried out through the Brazilian consular network in the 
+country of residence of the investor. Registration normally takes 2 to 3 weeks 
+to complete.
+
+Basic required documentation:
+
+• Valid passport (with at least 6 months validity)
+• CPF registration certificate
+• Proof of address (electricity, water bill or bank statement)
+• Power of attorney with specific powers, if using a representative in Brazil 
+  (must be notarized and apostilled)
+
+It is also recommended to obtain the RNE (National Registry of Foreigners), 
+although it is not strictly necessary for a single purchase.
+
+
+26.2 Opening a Bank Account and Foreign Exchange
+
+Real estate transactions in Brazil are mandatory in Brazilian Reais (BRL). 
+Therefore, the investor needs to plan the transfer of funds to an account 
+in Brazil.
+
+Bank account: It is advisable to open an account at a Brazilian bank to enable 
+the transfer of funds.
+
+Foreign exchange: Foreign exchange operations must be carried out through 
+institutions authorized by the Central Bank of Brazil, and the investor must be 
+prepared to provide documentation of the origin of the funds to comply with 
+compliance requirements.
+
+
+26.3 Auction Participation: Online and In-Person
+
+The vast majority of real estate auctions in Brazil today occur online, which 
+facilitates the participation of foreign investors.
+
+Registration: The interested party must register on the auctioneer's platform 
+before the auction date. This registration requires the presentation of a CPF 
+and identity documentation.
+
+Security deposit: Many auctions require the deposit of a security amount (usually 
+5% of minimum bid) to credential the participant.
+
+
+26.4 The Notice and Due Diligence (Critical Analysis)
+
+"Due diligence" is the most critical stage and cannot be neglected. Unlike 
+traditional purchases, the property at auction is sold "as is".
+
+The Notice: It is the document that governs the auction. Must be read carefully. 
+It contains all information about the property, debts, occupancy and payment 
+conditions.
+
+Registration Research: The property's registration with the Real Estate Registry 
+Office is the property's birth certificate. It is essential to analyze this 
+document to verify the chain of ownership, the existence of liens, mortgages or 
+other debts that "follow" the property.
+
+
+26.5 Specific Restrictions: Rural Areas, Border and Marine Properties
+
+While the acquisition of urban real estate is relatively free for foreigners, 
+Law 5,709/71 imposes significant restrictions on rural properties and areas of 
+national interest.
+
+Rural Properties:
+
+• Acquisition by foreign natural persons is limited to 50 indefinite exploitation 
+  modules
+• For areas between 3 and 50 modules, INCRA authorization is required
+• Brazilian companies with a majority of foreign capital are treated as foreign 
+  for these purposes
+
+Border Zone (up to 150 km from border): Purchasing urban or rural properties in 
+these areas by foreigners depends on prior authorization from the National 
+Defense Council.
+
+Coastal Properties (Marine Land): Acquisition also faces restrictions.
+
+Non-compliance with these rules can lead to nullity of the transaction.
+
+
+26.6 Alternatives and Structures: Right to Surface, Partnership with Brazilian Partner
+
+To bypass restrictions or optimize investment, alternative structures exist:
+
+Right to Surface: Allows the foreigner (surface holder) to build or plant on 
+property owned by a third party (grantor), without acquiring full property of 
+the land. It is an alternative to economically exploit the property without 
+facing restrictions on land purchase.
+
+Partnership with Brazilian Partner: A joint venture with a Brazilian partner can 
+enable transactions in the rural sector, diluting foreign control.
+
+Usufruct: Another alternative is the constitution of a real property right of 
+usufruct, which guarantees the foreigner the right to use and enjoy the property 
+without being the full owner.
+
+
+26.7 Specialized Legal Advice
+
+A foreign investor should not act alone. Legal and bureaucratic complexity makes 
+specialized legal advice support not just recommended, but essential.
+
+Process Coordinator: A local law firm can act as a "command center", coordinating 
+legal, exchange, due diligence and property registration aspects of the deal.
+
+Prior Preparation: Legal advice can prepare the investor before even defining 
+the asset, ensuring that the investment structure, documents and banking channels 
+are ready for execution.
+
+
+26.8 Summary Checklist for Foreign Investor
+
+1. Obtain CPF
+2. Open a bank account in Brazil (or plan foreign exchange transfer)
+3. Select an urban property to avoid complex restrictions
+4. Perform complete due diligence: analyze the notice, property registration, 
+   debts and occupancy situation
+5. If necessary, seek authorizations (INCRA, CDN) in advance
+6. Hire local legal advice to conduct the process
+7. Set aside resources for costs beyond the bid (ITBI, fees, possible debts)
+8. Participate in the auction with a predefined bid limit, avoiding getting 
+   involved in emotional disputes
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Chapter 27 (Bonus): High-Value Auctions — How to Invest Above R$ 1 Million
+═══════════════════════════════════════════════════════════════════════════════
+
+27.1 The Luxury Real Estate Market at Auction
+
+Luxury properties (above R$ 1 million) also go to auction. The discount may be 
+lower (30-40%), but the absolute profit is higher.
+
+
+27.2 Capital Raising: How to Raise Capital
+
+To invest in high-value properties, it may be necessary:
+
+• Consortium of investors
+• Financing
+• Partnership with other investors
+
+
+27.3 Investor Consortium: Buying Syndicate
+
+A buying syndicate is a group of investors who join together to buy a high-value 
+property. Each investor contributes part of the capital and receives a 
+proportional share of the profit.
+
+
+27.4 Analysis of Commercial and Industrial Properties
+
+In addition to residential properties, it is possible to invest in commercial 
+(offices, stores) and industrial (warehouses, factories) properties at auction.
+
+
+27.5 Strategic Exit: Sale to Investment Funds
+
+High-value properties can be sold to real estate investment funds (FIIs), which 
+pay a premium for stability and scale.
+
+
+════════════════════════════════════════════════════════════════════════════════
+POSTFACE
+════════════════════════════════════════════════════════════════════════════════
+
+A Final Message from Solomon Von Herclestein
+
+When someone talks about investments, it is normal that our first reaction is to 
+feel suspicious, thinking that the person who is talking wants to sell us something. 
+Usually that's exactly what happens.
+
+Our role is always to listen, try to understand and draw our own conclusions. 
+Sometimes, when the subject is interesting, to study it to see if the truth really 
+makes sense.
+
+And that is how I want to talk about real estate investments via auction. The idea 
+here is to plant a seed on the subject in your head so that later you seek 
+knowledge and make it grow, and who knows if it transforms into the realization 
+of your goals.
+
+I have no doubt that whoever starts investing in judicial real estate auctions 
+will not regret it.
+
+Invitation to the Investor Community
+
+I thank you for coming this far and having read all of this work.
+
+I invite you to be part of the community of investors who are transforming their 
+lives through real estate auctions.
+
+How to Get in Touch with the Author
+
+Email: solomonvonherclestein@hotmail.com
+Telephone: 11 951356262
+Substack: solomonvonherclestein.substack.com
+Podcast: AVVISI (available on Spotify)
+Investing.com: Active profile since 2018
+Social media: Instagram, Facebook, LinkedIn
+
+I wish you great deals.
+
+
+════════════════════════════════════════════════════════════════════════════════
+APPENDICES
+════════════════════════════════════════════════════════════════════════════════
+
+Appendix A: Full Text of Law 9,514/97 (Most Relevant Provisions)
+═══════════════════════════════════════════════════════════════════════════════
+
+Law No. 9,514, of November 20, 1997
+
+Provides for the Real Estate Financing System, institutes the fiduciary alienation 
+of real property and provides other provisions.
+
+Article 1: The Real Estate Financing System (SFI) aims to promote real estate 
+financing in general, under conditions compatible with the formation of respective 
+funds.
+
+Article 2: The following may operate in the SFI: Caixa Econômica Federal, 
+commercial banks, investment banks, banks with real estate credit portfolios, 
+real estate credit companies, savings and loan associations, mortgage companies 
+and, at the discretion of the National Monetary Council (CMN), other entities.
+
+Article 3: Real estate credit securitization companies, non-financial institutions 
+established as joint-stock companies, shall aim to acquire and securitize these 
+credits and issue and place on the financial market Certificates of Real Estate 
+Receivables (CRI), being able to issue other securities, conduct business and 
+provide services compatible with their activities.
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Appendix B: Glossary of Technical Terms (Common Law vs. Civil Law)
+═══════════════════════════════════════════════════════════════════════════════
+
+╔════════════════════╦═════════════════════╦══════════════════════════════════╗
+║ Term               ║ Definition          ║ Application in Context          ║
+╠════════════════════╬═════════════════════╬══════════════════════════════════╣
+║ Purchase           ║ The act by which the║ Real estate auction purchase    ║
+║                    ║ buyer acquires the  ║ process                         ║
+║                    ║ property at auction ║                                  ║
+╠════════════════════╬═════════════════════╬══════════════════════════════════╣
+║ Fiduciary          ║ Transfer of         ║ Debt security                   ║
+║ Alienation         ║ ownership as        ║                                  ║
+║                    ║ guarantee           ║                                  ║
+╠════════════════════╬═════════════════════╬══════════════════════════════════╣
+║ CRI                ║ Certificate of Real ║ Real estate credit security     ║
+║                    ║ Estate Receivables  ║                                  ║
+╠════════════════════╬═════════════════════╬══════════════════════════════════╣
+║ Common Law         ║ Legal system based  ║ Basis for international        ║
+║                    ║ on precedents       ║ financial contracts (~80% of    ║
+║                    ║                     ║ cross-border contracts)         ║
+╠════════════════════╬═════════════════════╬══════════════════════════════════╣
+║ Civil Law          ║ Legal system based  ║ Brazilian legal system          ║
+║                    ║ on written codes    ║                                  ║
+╠════════════════════╬═════════════════════╬══════════════════════════════════╣
+║ Notice             ║ Document that       ║ Auction "bible"                 ║
+║                    ║ governs the auction ║                                  ║
+╠════════════════════╬═════════════════════╬══════════════════════════════════╣
+║ Homologation       ║ Court approval of   ║ Formalization of purchase       ║
+║                    ║ the purchase        ║                                  ║
+╠════════════════════╬═════════════════════╬══════════════════════════════════╣
+║ Taking Possession  ║ Court action to     ║ Take possession of purchased    ║
+║                    ║ take possession     ║ property                        ║
+╠════════════════════╬═════════════════════╬══════════════════════════════════╣
+║ ITBI               ║ Real Estate         ║ Purchase cost (2-4%)            ║
+║                    ║ Transfer Tax        ║                                  ║
+╠════════════════════╬═════════════════════╬══════════════════════════════════╣
+║ Extrajudicial      ║ Auction outside     ║ Non-payment of 3+ installments  ║
+║ Auction            ║ judicial process    ║                                  ║
+╠════════════════════╬═════════════════════╬══════════════════════════════════╣
+║ Judicial Auction   ║ Auction within      ║ Real estate debt collection     ║
+║                    ║ judicial process    ║                                  ║
+╠════════════════════╬═════════════════════╬══════════════════════════════════╣
+║ Registration       ║ Document from       ║ Property history                ║
+║                    ║ registry with       ║                                  ║
+║                    ║ history             ║                                  ║
+╠════════════════════╬═════════════════════╬══════════════════════════════════╣
+║ ROI                ║ Return on           ║ Profit / Investment (in %)      ║
+║                    ║ Investment          ║                                  ║
+╠════════════════════╬═════════════════════╬══════════════════════════════════╣
+║ ROE                ║ Return on Equity    ║ Profit / Own Capital (in %)     ║
+╠════════════════════╬═════════════════════╬══════════════════════════════════╣
+║ SFI                ║ Real Estate         ║ Regulatory framework for        ║
+║                    ║ Financing System    ║ auctions                        ║
+╚════════════════════╩═════════════════════╩══════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Appendix C: ROI Calculation Spreadsheet Model
+═══════════════════════════════════════════════════════════════════════════════
+
+REAL ESTATE AUCTION INVESTMENT ANALYSIS SPREADSHEET
+
+Property Data:
+Address: ___________________________
+Bid Value: R$ _______________
+Estimated Market Value: R$ _______________
+Discount: ___________%
+
+Costs:
+ITBI (2-4%): R$ _______________
+Auctioneer Commission (1-5%): R$ _______________
+Registry Fees: R$ _______________
+Renovation: R$ _______________
+Debts (Property Tax, Condominium): R$ _______________
+Other: R$ _______________
+Total Costs: R$ _______________
+
+Total Investment:
+Bid Value: R$ _______________
+Total Costs: R$ _______________
+Total Investment: R$ _______________
+
+Sale:
+Estimated Sale Price: R$ _______________
+Real Estate Agent Commission (5-6%): R$ _______________
+Net Revenue: R$ _______________
+
+Result:
+Profit: R$ _______________
+ROI: ___________%
+
+
+═══════════════════════════════════════════════════════════════════════════════
+Appendix D: How to Check the List of Official Auctioneers
+════════════════════════════════════════
+
+The list of official auctioneers is kept by the Commercial Registry (Junta Comercial) of each state. An auctioneer may only operate if registered with the board of the state where they work.
+
+Where to check (addresses verified in October 2026):
+
+
+RJ: JUCERJA, www.jucerja.rj.gov.br (publishes the list of registered public auctioneers)
+
+MG: JUCEMG, jucemg.mg.gov.br/pagina/139/leiloeiros-oficiais
+
+AL: JUCEAL, juceal.al.gov.br/servicos/leiloeiros
+
+ES: JUCEES, www.jucees.es.gov.br/servicos/leiloeiros/
+
+SP: JUCESP, address to be confirmed before publication
+Other states: search for "Junta Comercial do [state] leiloeiros" on the official state government website.
+
+How to check whether an auctioneer is official:
+
+
+1. Ask for the full name and the registration number with the Commercial Registry.
+
+2. Check that number on the state board's website and confirm the name and number match.
+
+3. Confirm the registration is active, without a license or suspension.
+
+4. Ask for the registration certificate issued by the Commercial Registry, a document required in accreditation notices.
+
+5. Be wary of PDF lists and websites that do not appear on the official list. JUCEMG reports it has detected fake lists and sites using auctioneers' names and the board's brand.
+
+Note: the number of auctioneers per state is set by the commercial registries and may change. There is no fixed national number, and this appendix gives no figures.
+
+═══════════════════════════════════════════════════════════════════════════════
+Appendix E: Frequently Asked Questions (FAQ)
+═══════════════════════════════════════════════════════════════════════════════
+
+1. Is it Safe to Buy a Foreclosed Property?
+
+Purchasing a property at auction is very attractive. However, this transaction 
+can become complex for those without the legal knowledge necessary to conduct the 
+business. To ensure a good deal and peace of mind in the purchase, it is essential 
+to have specialized advice on property auctions.
+
+
+2. What Is the Average Discount in Auctions?
+
+Discounts vary by property, auction stage and notice. In practice, they usually range from 30% to 60% of market value.
+
+
+3. Can I Finance the Purchase?
+
+Many financial institutions have facilitated negotiation, spread the purchase 
+value and, in many cases, even financed the winning bid, with terms almost as 
+long as a mortgage and with reduced rates.
+
+
+4. What Happens If the Property Is Occupied?
+
+If the property is occupied, the possibility of judicially requesting taking 
+possession may take some time, in addition to more legal costs.
+
+
+5. How Long Does It Take to Sell?
+
+The average for sales is 12 months.
+
+
+6. What Is the Average ROI?
+
+Considering all costs involved in acquiring a property and sale expenses, it is 
+possible to achieve, in a single deal, an ROI between 50% and 60%.
+
+
+7. Can Foreigners Participate in Auctions in Brazil?
+
+Yes. Foreigners can participate in auctions in Brazil, but must obtain a CPF and 
+observe specific restrictions for rural properties and border areas.
+
+
+════════════════════════════════════════════════════════════════════════════════
+BIBLIOGRAPHY REFERENCES
+════════════════════════════════════════════════════════════════════════════════
+
+1. BRAZIL. Law No. 9,514, of November 20, 1997. Provides for the Real Estate 
+   Financing System, institutes the fiduciary alienation of real property and 
+   provides other provisions.
+
+2. BRAZIL. Law No. 13,465, of July 11, 2017. Provides for land tenure 
+   regularization.
+
+3. BRAZIL. Civil Procedure Code. Law No. 13,105, of March 16, 2015.
+
+4. BRAZIL. Law No. 5,709, of October 7, 1971. Regulates the acquisition of rural 
+   properties by foreigners.
+
+5. Institute of Advanced Legal Studies. (2025). Book Launch of Contemporary Law 
+   in Common Law and Civil Law. University of London.
+
+6. Anbima. (2026). Investor Caution Favors Shorter-Term Fixed Income in First 
+   Quarter of 2026.
+
+
+════════════════════════════════════════════════════════════════════════════════
+SUBJECT INDEX
+════════════════════════════════════════════════════════════════════════════════
+
+Purchase ............................ Chapter 9
+Common Law .......................... Chapter 1, 26
+CRI ................................ Chapter 2
+Notice ............................. Chapter 5
+Foreigner .......................... Chapter 4, 26
+Homologation ....................... Chapter 9
+Taking Possession .................. Chapter 10
+ITBI ............................... Chapter 9
+Extrajudicial Auction .............. Chapter 3
+Judicial Auction ................... Chapter 3
+Auctioneer ......................... Chapter 8
+Occupancy .......................... Chapter 10
+ROI ................................ Chapter 13
+SFI ................................ Chapter 2
+
+
+════════════════════════════════════════════════════════════════════════════════
+ABOUT THE AUTHOR
+════════════════════════════════════════════════════════════════════════════════
+
+Solomon Von Herclestein is a financial strategist and economist trained at Estácio 
+University, with complementary courses at Bocconi University (Italy), Harvard 
+University and Yale University (USA). He holds 141 global certifications, including 
+credentials from the United Nations (UN) and Interpol, with focus on fraud 
+prevention, international compliance and financial crimes.
+
+He has been a contributor to Investing.com since 2018, where he developed and uses 
+the proprietary HUE (Unique Effective Heritage) metric, an indicator of return 
+adjusted for risk and costs. He is the author of the Substack "Solomon Von 
+Herclestein" and host of the AVVISI podcast — whose tagline is "Just signal. Just 
+Avvisi" — dedicated to discreet financial intelligence for high-income investors.
+
+He acts as a Private Architect for ultra-high net worth (UHNW) individuals and 
+families, with expertise in treasury management, derivatives, structured credit 
+and real estate auctions. His Warrior-Scholar method — a synthesis of Kenjutsu 
+(samurai discipline), Chess (strategy) and Poker (risk management under 
+uncertainty) — guides his approach to wealth protection and intergenerational 
+asset expansion.
+
+He has complementary training in Common Law from the University of London, through 
+the Institute of Advanced Legal Studies (IALS), participating in the international 
+seminar "New Trends in the Common Law" since 2018, consolidating expertise in 
+structuring cross-border transactions.
+
+His motto is: "Until now, the Lord has helped me" — a declaration of gratitude, 
+purpose and integrity that frames all of his work.
+
+
+════════════════════════════════════════════════════════════════════════════════
+CONTACT
+════════════════════════════════════════════════════════════════════════════════
+
+Email: solomonvonherclestein@hotmail.com
+Telephone: 11 951356262
+Substack: solomonvonherclestein.substack.com
+Podcast: AVVISI (available on Spotify)
+Investing.com: Active profile since 2018
+Social media: Instagram, Facebook, LinkedIn
+
+"The goal is not just profit, but the mastery of the financial battlefield 
+through superior intellect and unwavering discipline."
+
+
+════════════════════════════════════════════════════════════════════════════════
+END OF BOOK
+════════════════════════════════════════════════════════════════════════════════
+
+Published by Solomon Von Herclestein
+Date: 2026
+Version: Complete and Revised Edition
+Total Chapters: 27 (25 + 2 Bonus)
+Total Appendices: 5

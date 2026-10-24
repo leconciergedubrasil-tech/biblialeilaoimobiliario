@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Bíblia do Leilão Imobiliário - Amostra Diagramada</title>
+    <style>
+        @page {
+            size: 170mm 240mm;
+            margin: 20mm 18mm 20mm 18mm;
+            background: white;
+            color: #2b2b2b;
+        }
+
+        @page :left {
+            margin-right: 20mm;
+            margin-left: 18mm;
+        }
+
+        @page :right {
+            margin-right: 18mm;
+            margin-left: 20mm;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html, body {
+            font-family: 'Crimson Text', 'Georgia', serif;
+            font-size: 12pt;
+            line-height: 1.5;
+            color: #2b2b2b;
+            background: white;
+            width: 170mm;
+            height: 240mm;
+        }
+
+        body {
+            margin: 20mm 18mm;
+            padding: 0;
+        }
+
+        /* CLASSES PARA IMPRESSÃO */
+        .page-break {
+            page-break-after: always;
+            display: block;
+            height: 240mm;
+            margin: 0;
+        }
+
+        .page-break-left {
+            page-break-before: left;
+        }
+
+        /* TIPOGRAFIA */
+        h1 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 28pt;
+            font-weight: bold;
+            color: #1a472a;
+            margin: 40px 0 20px 0;
+            text-align: center;
+            letter-spacing: 0.5pt;
+        }
+
+        h2 {
+            font-family: 'Lato', sans-serif;
+            font-size: 14pt;
+            font-weight: bold;
+            color: #2b2b2b;
+            margin: 15px 0 10px 0;
+        }
+
+        h3 {
+            font-family: 'Lato', sans-serif;
+            font-size: 12pt;
+            font-weight: bold;
+            color: #1a472a;
+            margin: 12px 0 8px 0;
+        }
+
+        p {
+            margin: 0 0 12px 0;
+            text-align: justify;
+            text-indent: 12pt;
+            line-height: 1.5;
+        }
+
+        p.first {
+            text-indent: 0;
+        }
+
+        /* ROSTO */
+        .rosto {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            text-align: center;
+            page-break-after: always;
+        }
+
+        .rosto h1 {
+            margin: 100px 0 20px 0;
+            font-size: 32pt;
+            line-height: 1.3;
+        }
+
+        .rosto .subtitle {
+            font-size: 16pt;
+            color: #d4af37;
+            margin: 20px 0;
+            font-style: italic;
+        }
+
+        .rosto .author {
+            margin: 80px 0 0 0;
+            font-size: 14pt;
+            font-weight: bold;
+        }
+
+        .rosto .place-year {
+            margin-top: 120px;
+            font-size: 12pt;
+        }
+
+        /* CRÉDITOS */
+        .credits {
+            font-size: 10pt;
+            line-height: 1.3;
+            margin: 50px 0;
+            page-break-after: always;
+        }
+
+        .credits h2 {
+            margin-top: 0;
+            color: #1a472a;
+        }
+
+        /* SUMÁRIO */
+        .toc {
+            page-break-after: always;
+        }
+
+        .toc h2 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .toc-part {
+            margin: 20px 0 15px 0;
+        }
+
+        .toc-part-title {
+            font-weight: bold;
+            color: #1a472a;
+            margin: 15px 0 10px 0;
+            font-size: 12pt;
+        }
+
+        .toc-chapter {
+            margin: 5px 0 5px 20px;
+            font-size: 11pt;
+        }
+
+        .toc-page {
+            float: right;
+        }
+
+        /* PREFÁCIO */
+        .prefacio {
+            page-break-after: always;
+        }
+
+        .prefacio h2 {
+            text-align: center;
+            margin: 40px 0 30px 0;
+            color: #1a472a;
+            font-size: 18pt;
+        }
+
+        /* CABEÇALHO E RODAPÉ */
+        .header {
+            position: absolute;
+            top: 15mm;
+            height: 20mm;
+            width: 134mm;
+            font-size: 11pt;
+            color: #1a472a;
+            border-bottom: 1pt solid #d4af37;
+            padding-bottom: 5mm;
+            text-align: right;
+        }
+
+        .header.left {
+            text-align: left;
+        }
+
+        .footer {
+            position: absolute;
+            bottom: 15mm;
+            height: 15mm;
+            width: 134mm;
+            font-size: 11pt;
+            color: #1a472a;
+            border-top: 1pt solid #d4af37;
+            padding-top: 5mm;
+            text-align: right;
+        }
+
+        .footer.left {
+            text-align: left;
+        }
+
+        /* CAPÍTULO */
+        .chapter {
+            page-break-before: always;
+        }
+
+        .chapter-header {
+            height: 60%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .chapter-number {
+            font-family: 'Lato', sans-serif;
+            font-size: 18pt;
+            color: #1a472a;
+            letter-spacing: 1pt;
+            margin-bottom: 10px;
+        }
+
+        .chapter-title {
+            font-size: 28pt;
+            font-weight: bold;
+            color: #1a472a;
+            line-height: 1.3;
+            margin: 15px 0;
+        }
+
+        .chapter-subtitle {
+            font-family: 'Lato', sans-serif;
+            font-size: 14pt;
+            color: #2b2b2b;
+            margin: 10px 0;
+        }
+
+        /* TABELA */
+        table {
+            width: 100%;
+            margin: 15px 0;
+            border-collapse: collapse;
+            font-size: 10pt;
+            line-height: 1.3;
+        }
+
+        table.fancy {
+            border: 1pt solid #1a472a;
+        }
+
+        th {
+            background-color: #1a472a;
+            color: white;
+            padding: 8px 6px;
+            text-align: left;
+            font-weight: bold;
+            font-size: 9pt;
+            border-bottom: 2pt solid #d4af37;
+        }
+
+        td {
+            padding: 6px;
+            border-bottom: 1pt solid #e0e0e0;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        /* BOX DESTAQUE */
+        .box {
+            border: 2pt solid #1a472a;
+            border-left: 5pt solid #d4af37;
+            background-color: #f5f5f5;
+            padding: 12px;
+            margin: 15px 0;
+            page-break-inside: avoid;
+        }
+
+        .box h4 {
+            font-family: 'Lato', sans-serif;
+            font-size: 11pt;
+            font-weight: bold;
+            color: #1a472a;
+            margin: 0 0 8px 0;
+        }
+
+        .box p {
+            font-size: 10pt;
+            line-height: 1.4;
+            text-indent: 0;
+            text-align: justify;
+        }
+
+        /* LISTA */
+        ul {
+            margin: 12px 0;
+            padding: 0 0 0 20px;
+        }
+
+        li {
+            margin: 6px 0;
+            text-align: justify;
+            list-style-type: none;
+            margin-left: 20px;
+        }
+
+        li:before {
+            content: "• ";
+            color: #d4af37;
+            font-weight: bold;
+            margin-right: 8px;
+            margin-left: -15px;
+        }
+
+        /* NUMERAÇÃO */
+        .page-num {
+            position: absolute;
+            bottom: 15mm;
+            font-size: 11pt;
+            color: #1a472a;
+            font-weight: bold;
+        }
+
+        .page-num.right {
+            right: 18mm;
+        }
+
+        .page-num.left {
+            left: 18mm;
+        }
+
+        /* SEÇÕES */
+        .section-title {
+            font-family: 'Lato', sans-serif;
+            font-size: 12pt;
+            font-weight: bold;
+            color: #1a472a;
+            margin: 15px 0 10px 0;
+            padding-top: 10px;
+        }
+
+        /* ESPAÇAMENTO */
+        .spacer {
+            height: 20px;
+        }
+
+        /* PRINT */
+        @media print {
+            body {
+                margin: 0;
+                padding: 0;
+            }
+            .page-break {
+                page-break-after: always;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<!-- PÁGINA 1: ROSTO -->
+<div class="page-break">
+    <div class="rosto">
+        <h1>A BÍBLIA DO LEILÃO IMOBILIÁRIO</h1>
+        <p class="subtitle">Compre seu Imóvel com até 94% de Desconto</p>
+        <p class="spacer"></p>
+        <p class="author">Salomão Von Herclestein</p>
+        <p class="place-year">
+            Brasília<br>
+            2026
+        </p>
+    </div>
+</div>
+
+<!-- PÁGINA 2: VERSO DO ROSTO (em branco) -->
+<div class="page-break"></div>
+
+<!-- PÁGINA 3: CRÉDITOS -->
+<div class="page-break">
+    <div class="credits">
+        <h2>A BÍBLIA DO LEILÃO IMOBILIÁRIO</h2>
+        <p class="first">Compre seu Imóvel com até 94% de Desconto</p>
+        
+        <p style="margin-top: 30px;"><strong>© 2026 Salomão Von Herclestein</strong></p>
+        <p>Todos os direitos reservados.</p>
+        
+        <p style="margin-top: 20px;">ISBN: [a atribuir]<br>
+        ISSN: [a atribuir]</p>
+        
+        <p style="margin-top: 20px;">Impressão: [Tipografia]<br>
+        Encadernação: Brochura fresada<br>
+        Papel: 90 gsm branco offset</p>
+        
+        <p style="margin-top: 20px;"><strong>Contato do Autor:</strong><br>
+        Email: solomonvonherclestein@hotmail.com<br>
+        Telefone: +55 11 951356262<br>
+        Substack: solomonvonherclestein.substack.com<br>
+        Podcast: AVVISI (Spotify)</p>
+        
+        <p style="margin-top: 20px; font-size: 10pt;">Nenhuma parte desta publicação pode ser reproduzida, armazenada em um sistema de recuperação ou transmitida sob qualquer forma ou por qualquer meio eletrônico, mecânico, fotocópia, gravação ou qualquer outro, sem permissão prévia por escrito do autor.</p>
+    </div>
+</div>
+
+<!-- PÁGINA 4-6: SUMÁRIO -->
+<div class="page-break">
+    <h2 style="text-align: center; margin-top: 0;">SUMÁRIO</h2>
+    
+    <div class="toc">
+        <div class="toc-part">
+            <div class="toc-part-title">PARTE I — O FUNDAMENTO</div>
+            <div class="toc-chapter">Capítulo 1: O que é um Leilão Imobiliário <span class="toc-page">19</span></div>
+            <div class="toc-chapter">Capítulo 2: A Base Legal <span class="toc-page">27</span></div>
+            <div class="toc-chapter">Capítulo 3: Dois Tipos de Leilões <span class="toc-page">32</span></div>
+            <div class="toc-chapter">Capítulo 4: Quem Pode Participar <span class="toc-page">36</span></div>
+        </div>
+
+        <div class="toc-part">
+            <div class="toc-part-title">PARTE II — O CAMINHO</div>
+            <div class="toc-chapter">Capítulo 5: O Edital — A Bíblia do Deal <span class="toc-page">42</span></div>
+            <div class="toc-chapter">Capítulo 6: Onde Encontrar Leilões <span class="toc-page">47</span></div>
+            <div class="toc-chapter">Capítulo 7: Como Dar um Lance <span class="toc-page">52</span></div>
+            <div class="toc-chapter">Capítulo 8: O Papel do Leiloeiro <span class="toc-page">57</span></div>
+        </div>
+
+        <div class="toc-part">
+            <div class="toc-part-title">PARTE III — O NEGÓCIO</div>
+            <div class="toc-chapter">Capítulo 9: A Compra — O Momento da Verdade <span class="toc-page">65</span></div>
+            <div class="toc-chapter">Capítulo 10: Imissão na Posse <span class="toc-page">70</span></div>
+            <div class="toc-chapter">Capítulo 11: Reforma e Valorização <span class="toc-page">77</span></div>
+            <div class="toc-chapter">Capítulo 12: A Venda — Lucro Realizado <span class="toc-page">82</span></div>
+        </div>
+
+        <p style="margin-top: 40px; font-size: 10pt; text-indent: 0;">[Sumário continua com as demais partes no livro completo]</p>
+    </div>
+</div>
+
+<!-- PÁGINA 7: PÁGINA DE CRÉDITOS CONTINUADA (em branco para separação) -->
+<div class="page-break"></div>
+
+<!-- PÁGINA 8-11: PREFÁCIO -->
+<div class="page-break">
+    <div class="prefacio">
+        <h2>PREFÁCIO</h2>
+        <h3 style="text-align: center; margin-top: 0;">Por Quê Escrevi Este Livro</h3>
+        
+        <p class="first">Bom afternoon. Sou Salomão Von Herclestein.</p>
+
+        <p>Hoje falaremos — ou melhor, farei uma exposição — sobre leilões imobiliários. Este livro é a versão expandida e aprofundada do conteúdo que venho apresentando em minhas aulas e palestras. É a "Bíblia do Leilão Imobiliário: Compre seu Imóvel com até 94% de Desconto".</p>
+
+        <p>Escrevi este livro porque nunca me canso de explicar que leilões imobiliários são um bom investimento, com retornos financeiros muito superiores a outras aplicações e com risco muito menor do que imaginado. Mesmo assim, porque ainda não é popular no Brasil, as pessoas têm medo de dar lances. Este medo diminui diariamente conforme surgem novas casas de leilão e a imprensa dedica mais espaço para cobrir este mercado.</p>
+
+        <p><strong>Minha História: Do Primeiro Leilão ao Portfólio de Milhões</strong></p>
+
+        <p>Em agosto de 2022, comprei um apartamento em Vila Madalena, São Paulo, por R$ 180.000. Gastuei mais de R$ 50.000 em outras despesas. O tempo passou, e revendi o imóvel por R$ 320.000. Este é um lucro de R$ 90.000 em menos de 12 meses — o que, comparado, por exemplo, com contas de poupança ou alguns títulos que giram em torno de 12% ao ano, representa três anos de retorno em apenas um ano.</p>
+
+        <p>Este não foi um caso isolado. Foi o primeiro de muitos. E acredito que se você estiver lendo este livro, também pode alcançar resultados similares ou até melhores.</p>
+
+        <div class="spacer"></div>
+    </div>
+</div>
+
+<div class="page-break">
+    <div class="prefacio">
+        <p class="first"><strong>Para Quem É Este Livro</strong></p>
+
+        <p>Este livro é para você que:</p>
+
+        <ul>
+            <li>Quer comprar sua própria casa pagando muito menos do que o valor de mercado</li>
+            <li>Procura uma alternativa de investimento com retornos maiores que poupança e renda fixa</li>
+            <li>Quer compreender como funciona o mercado de leilões imobiliários sem cair em golpes ou falsas promessas</li>
+            <li>Quer se tornar um investidor imobiliário com conhecimento legal e financeiro sólido</li>
+            <li>É estrangeiro e quer investir no mercado imobiliário brasileiro</li>
+        </ul>
+
+        <p><strong>Como Usar Este Livro</strong></p>
+
+        <p>Este livro está organizado em sete Partes, que vão desde o fundamento até a prática.</p>
+
+        <p><strong>PARTE I — O Fundamento:</strong> Entenda o que é um leilão imobiliário, sua base legal e os tipos que existem.</p>
+
+        <p><strong>PARTE II — O Caminho:</strong> Aprenda como participar de um leilão, desde ler o edital até dar seu lance.</p>
+
+        <p><strong>PARTE III — O Negócio:</strong> Descubra os custos, a aquisição, a tomada de posse, reforma e venda.</p>
+
+        <p><strong>PARTE IV — A Estratégia:</strong> Domine a matemática do lucro, os 3 pilares do sucesso e a mágica dos juros compostos aplicada a leilões.</p>
+
+        <p><strong>PARTE V — O Perigo:</strong> Conheça os riscos reais e como evitá-los.</p>
+
+        <p><strong>PARTE VI — A Prática:</strong> Siga o checklist completo para seu primeiro leilão e estude casos reais.</p>
+
+        <p><strong>PARTE VII — O Futuro:</strong> Compreenda as tendências do mercado e a mentalidade do investidor bem-sucedido.</p>
+
+        <p>Além disso, incluí capítulos bônus sobre investimento para estrangeiros e leilões de alto valor, mais apêndices com legislação, glossário e ferramentas práticas.</p>
+
+        <p>Vamos começar.</p>
+    </div>
+</div>
+
+<!-- PÁGINA 12: PARTE I ABERTURA -->
+<div class="page-break">
+    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; height: 100%; text-align: center;">
+        <h1 style="margin: 0; font-size: 42pt; letter-spacing: 2pt;">PARTE I</h1>
+        <h2 style="margin: 30px 0 0 0; font-size: 24pt; font-weight: normal; color: #d4af37;">O FUNDAMENTO</h2>
+        <p style="margin-top: 80px; text-align: center; text-indent: 0; font-style: italic; color: #666;">Entenda o que é um leilão imobiliário, sua base legal e os tipos que existem.</p>
+    </div>
+</div>
+
+<!-- PÁGINA 13: CAPÍTULO 1 ABERTURA -->
+<div class="page-break">
+    <div class="chapter">
+        <div class="chapter-header">
+            <div class="chapter-number">═════════════════════════</div>
+            <div class="chapter-title">CAPÍTULO 1</div>
+            <div class="chapter-subtitle">O que É um Leilão Imobiliário?</div>
+            <div class="chapter-number">═════════════════════════</div>
+        </div>
+    </div>
+</div>
+
+<!-- PÁGINA 14: INÍCIO DO CAP 1 -->
+<div class="page-break">
+    <div style="position: relative; height: 100%;">
+        <div class="header right">Capítulo 1: O que é um Leilão Imobiliário? | Página 19</div>
+
+        <div style="margin-top: 20mm; margin-bottom: 20mm;">
+            <h3 class="section-title">1.1 Definição e Conceitos Básicos</h3>
+
+            <p class="first">Os ativos vendidos em leilões imobiliários podem provir de processos legais, bancos, seguradoras, empresas ou pessoas físicas.</p>
+
+            <p>Um leilão imobiliário é uma categoria de venda de ativos imobiliários, e neste tipo de transação não há negociação direta entre um comprador e um vendedor. No caso de leilões judiciais, a venda é realizada através de um processo legal, e o juiz irá homologar ou rejeitar a compra. Nos leilões, partes interessadas fazem lances em concorrência, em que a melhor oferta será homologada.</p>
+
+            <h3 class="section-title">1.2 Diferença Entre Compra Convencional e Arrematação</h3>
+
+            <table class="fancy">
+                <thead>
+                    <tr>
+                        <th>Aspecto</th>
+                        <th>Compra Convencional</th>
+                        <th>Arrematação em Leilão</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td><strong>Negociação</strong></td>
+                        <td>Direta com vendedor</td>
+                        <td>Via leilão, por lances</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Preço</strong></td>
+                        <td>Mercado (negociável)</td>
+                        <td>Lance mais alto</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Condição do Imóvel</strong></td>
+                        <td>Inspeção livre</td>
+                        <td>"Como está" (as is)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Dívidas</strong></td>
+                        <td>Vendedor paga</td>
+                        <td>Pode ser assumida</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Tempo</strong></td>
+                        <td>Flexível</td>
+                        <td>Definido no edital</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h3 class="section-title">1.3 Por Que Imóveis Vão a Leilão</h3>
+
+            <p class="first">O fator principal é crise. O Brasil ainda não se recuperou totalmente da crise econômica que deixou milhões desempregados. Passamos pela pandemia de COVID-19, tivemos uma recessão pós-COVID, e isto reduziu o número de lançamentos imobiliários. Os que tinham dinheiro começaram a procurar por imóveis usados com condições de pagamento melhores. Este foi o ponto de partida para o crescimento do mercado de leilões.</p>
+
+            <p>Brasileiros descobriram esta possibilidade e começaram a dar lances para comprar suas próprias casas pagando muito menos. Além disto, muitas instituições financeiras carregadas de imóveis retomados que precisavam ser vendidos facilitaram a negociação, dividiram pagamentos e, em muitos casos, até financiaram o lance vencedor com condições quase tão longas quanto uma hipoteca e taxas reduzidas.</p>
+
+            <div class="box">
+                <h4>💡 Insight Importante</h4>
+                <p>Nos últimos 5 anos, o mercado de leilões cresceu 340% em volume de ofertas, conforme dados da ANBIMA. Este não é mais um nicho desconhecido — é uma indústria profissionalizada.</p>
+            </div>
+        </div>
+
+        <div class="footer right">Página 19 | Capítulo 1</div>
+    </div>
+</div>
+
+<!-- PÁGINA 15: CONTINUAÇÃO CAP 1 -->
+<div class="page-break">
+    <div style="position: relative; height: 100%;">
+        <div class="header left">Página 20 | O FUNDAMENTO</div>
+
+        <div style="margin-top: 20mm; margin-bottom: 20mm;">
+            <h3 class="section-title">1.4 O Histórico de Leilões no Brasil</h3>
+
+            <p class="first">O leilão imobiliário é baseado na Lei número 9.514, de 20 de novembro de 1997, que provê o Sistema de Financiamento Imobiliário, institui a alienação fiduciária de imóvel e dispõe sobre outras providências.</p>
+
+            <p>O Sistema de Financiamento Imobiliário (SFI) tem como objetivo promover financiamentos imobiliários em geral, sob condições compatíveis com a formação dos respectivos fundos.</p>
+
+            <h3 class="section-title">1.5 Estrutura Regulatória Moderna</h3>
+
+            <p class="first">A regulação dos leilões imobiliários brasileiros é robusta e sofisticada. Envolve múltiplos órgãos:</p>
+
+            <ul>
+                <li>Banco Central do Brasil (Bacen) — supervisão de instituições financeiras</li>
+                <li>Conselho Monetário Nacional (CMN) — definição de critérios SFI</li>
+                <li>Tribunais de Justiça estaduais — leilões judiciais</li>
+                <li>Juntas Comerciais — registro e regulação de leiloeiros</li>
+                <li>ANBIMA — associação das instituições do mercado</li>
+            </ul>
+
+            <div class="box">
+                <h4>📋 Nota Técnica</h4>
+                <p>A Lei 13.465/2017 modernizou significativamente o mercado ao simplificar procedimentos extrajudiciais. Isto abriu espaço para crescimento acelerado em 2018-2026.</p>
+            </div>
+
+            <h3 class="section-title">1.6 Os Números do Mercado Hoje</h3>
+
+            <table class="fancy">
+                <thead>
+                    <tr>
+                        <th>Métrica</th>
+                        <th>2022</th>
+                        <th>2024</th>
+                        <th>Crescimento</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Total de Leilões</td>
+                        <td>2.100</td>
+                        <td>2.847</td>
+                        <td>+35%</td>
+                    </tr>
+                    <tr>
+                        <td>Volume (R$ bilhões)</td>
+                        <td>R$ 5.2B</td>
+                        <td>R$ 8.92B</td>
+                        <td>+71%</td>
+                    </tr>
+                    <tr>
+                        <td>Taxa de Sucesso</td>
+                        <td>68%</td>
+                        <td>76%</td>
+                        <td>+8pp</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h3 class="section-title">1.7 Perspectiva International: Common Law vs. Civil Law</h3>
+
+            <p class="first">O Brasil adota o sistema Civil Law, baseado em códigos escritos. Porém, aproximadamente 80% dos contratos transfronteiriços financeiros usam Common Law inglesa. Como este livro é destinado também a estrangeiros, é importante entender a diferença.</p>
+
+            <p>Tenho formação complementar em Common Law pela University of London (IALS), desde 2018, no seminário "New Trends in the Common Law". Esta perspectiva enriquece a análise de leilões imobiliários quando há envolvimento internacional.</p>
+        </div>
+
+        <div class="footer left">Página 20 | Capítulo 1</div>
+    </div>
+</div>
+
+<!-- PÁGINA 16: BLANK BEFORE CHAPTER 2 -->
+<div class="page-break">
+    <div style="position: relative; height: 100%;">
+        <div class="header right">Página 21</div>
+        <div class="footer right">Página 21</div>
+    </div>
+</div>
+
+<!-- PÁGINA 17: CHAPTER 2 OPENING -->
+<div class="page-break">
+    <div class="chapter">
+        <div class="chapter-header">
+            <div class="chapter-number">═════════════════════════</div>
+            <div class="chapter-title">CAPÍTULO 2</div>
+            <div class="chapter-subtitle">A Base Legal de Leilões Imobiliários</div>
+            <div class="chapter-number">═════════════════════════</div>
+        </div>
+    </div>
+</div>
+
+<!-- PÁGINA 18: CAP 2 CONTENT -->
+<div class="page-break">
+    <div style="position: relative; height: 100%;">
+        <div class="header right">Capítulo 2: A Base Legal | Página 27</div>
+
+        <div style="margin-top: 20mm; margin-bottom: 20mm;">
+            <h3 class="section-title">2.1 Lei 9.514/97 — O Fundamento</h3>
+
+            <p class="first">Lei 9.514/97 é o fundamento do mercado de leilões imobiliários no Brasil. Esta lei é a peça-chave que torna tudo legal e regulado.</p>
+
+            <p><strong>Artigo 1º:</strong> O Sistema de Financiamento Imobiliário (SFI) tem por objetivo promover financiamentos imobiliários em geral, sob condições compatíveis com a formação dos respectivos fundos.</p>
+
+            <p><strong>Artigo 2º:</strong> Podem atuar no SFI a Caixa Econômica Federal, bancos comerciais, bancos de investimento, bancos com carteira de crédito imobiliário, sociedades de crédito imobiliário, associações de poupança e empréstimo, sociedades de crédito hipotecário e, a critério do Conselho Monetário Nacional (CMN), outras entidades.</p>
+
+            <p><strong>Artigo 3º:</strong> As sociedades de securitização de créditos imobiliários, instituições não-financeiras constituídas como sociedades anônimas, visam adquirir e securitizar esses créditos e emitir e colocar no mercado financeiro Certificados de Recebíveis Imobiliários (CRI), podendo, ainda, emitir outros títulos, realizar operações e prestar serviços compatíveis com suas atividades.</p>
+
+            <h3 class="section-title">2.2 Lei 13.465/2017 — Atualizações Modernas</h3>
+
+            <p class="first">Lei 13.465/2017 trouxe atualizações importantes para o mercado de leilões, especialmente com relação aos leilões extrajudiciais, que agora caem sob esta lei em conjunto com Lei 9.514/97.</p>
+
+            <p>Esta modernização acelerou o mercado e desburocratizou processos que antes levavam anos.</p>
+
+            <h3 class="section-title">2.3 O Papel do Conselho Monetário Nacional (CMN)</h3>
+
+            <p class="first">O CMN é o órgão responsável por definir quais entidades podem operar no SFI, conforme Artigo 2º de Lei 9.514/97. Sua capacidade regulatória é ampla e engloba desde instituições financeiras tradicionais até fintech atuais.</p>
+        </div>
+
+        <div class="footer right">Página 27 | Capítulo 2</div>
+    </div>
+</div>
+
+<!-- PÁGINA 19: FINAL EXEMPLO -->
+<div class="page-break">
+    <div style="position: relative; height: 100%;">
+        <div class="header left">Página 28 | O FUNDAMENTO</div>
+
+        <div style="margin-top: 20mm; margin-bottom: 20mm;">
+            <h3 class="section-title">2.4 Certificados de Recebíveis Imobiliários (CRI)</h3>
+
+            <p class="first">As sociedades de securitização visam adquirir e securitizar créditos imobiliários e emitir e colocar no mercado financeiro Certificados de Recebíveis Imobiliários (CRI).</p>
+
+            <p>Este mecanismo permite que créditos imobiliários sejam transformados em títulos negociáveis no mercado financeiro, aumentando a liquidez do setor. Isto é importante porque significa que há muito capital institucional buscando estes ativos.</p>
+
+            <p>Para você como investidor individual, isto significa liquidez. Quando você compra uma propriedade em leilão, há grande demanda de recompra no mercado. Você não fica preso.</p>
+
+            <h3 class="section-title">2.5 A Constituição e Direitos de Propriedade</h3>
+
+            <p class="first">O leilão imobiliário, embora seja uma forma de execução forçada, respeita o direito de propriedade previsto na Constituição, pois ocorre dentro de um processo legal que garante devido processo e ampla defesa ao devedor.</p>
+
+            <p>Isto é crucial: você não está participando de nada ilegal ou antiético. Está participando de um mercado regulado e supervisionado que permite às pessoas terem acesso a propriedades com grandes descontos.</p>
+
+            <div class="box">
+                <h4>⚖️ Base Constitucional</h4>
+                <p>Artigo 5º da Constituição Federal garante o direito de propriedade e o direito ao devido processo legal. Os leilões imobiliários respeitam ambos os princípios. Qualquer leilão que viole isto é nulo de direito.</p>
+            </div>
+        </div>
+
+        <div class="footer left">Página 28 | Capítulo 2</div>
+    </div>
+</div>
+
+<!-- PÁGINA 20: FINAL -->
+<div class="page-break">
+    <div style="position: relative; height: 100%; display: flex; align-items: center; justify-content: center; text-align: center;">
+        <div>
+            <h2 style="margin: 0; color: #1a472a; font-size: 18pt;">═══════════════════════════════════</h2>
+            <h2 style="margin: 20px 0; color: #d4af37; font-size: 14pt;">FIM DA AMOSTRA</h2>
+            <p style="margin: 20px 0 0 0; text-indent: 0; color: #666; font-size: 12pt;">Este é um exemplo do design profissional diagramado para gráfica.</p>
+            <p style="margin: 10px 0; text-indent: 0; color: #666; font-size: 10pt;">O livro completo possui 188 páginas com esta qualidade.</p>
+            <h2 style="margin: 30px 0 0 0; color: #1a472a; font-size: 18pt;">═══════════════════════════════════</h2>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Para imprimir como PDF, use: CTRL+P no navegador
+    // Configurar como: "Salvar como PDF" com margem "Nenhuma"
+    window.onload = function() {
+        console.log('=== INSTRUÇÕES PARA IMPRIMIR ===');
+        console.log('1. Aperte CTRL+P (ou Cmd+P no Mac)');
+        console.log('2. Selecione "Salvar como PDF"');
+        console.log('3. Margem: "Nenhuma"');
+        console.log('4. Tamanho: "A5" ou "170x240mm"');
+        console.log('5. Salve como: LIVRO_DIAGRAMADO.pdf');
+        console.log('');
+        console.log('Para enviar à gráfica:');
+        console.log('- Use arquivo PDF em CMYK se disponível');
+        console.log('- Se tiver Adobe, exporte em PDF/X-1a para máxima compatibilidade');
+        console.log('===================================');
+    };
+</script>
+
+</body>
+</html>

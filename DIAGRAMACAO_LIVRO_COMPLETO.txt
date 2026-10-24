@@ -1,0 +1,756 @@
+════════════════════════════════════════════════════════════════════════════════
+        PROJETO DE DIAGRAMAÇÃO: A BÍBLIA DO LEILÃO IMOBILIÁRIO
+            Especificação Técnica Completa — Layout & Grid
+════════════════════════════════════════════════════════════════════════════════
+
+
+════════════════════════════════════════════════════════════════════════════════
+1. ESPECIFICAÇÕES TÉCNICAS
+════════════════════════════════════════════════════════════════════════════════
+
+FORMATO & DIMENSÕES
+┌─────────────────────────────────────────────────────────────┐
+│ Formato:              170 x 240 mm (A5 horizontal)          │
+│ Alternativa:          158 x 235 mm (6" x 9" — padrão Kindle)
+│ Impressão:            A4 (210 x 297 mm) — 2 páginas/folha  │
+│ Resolução:            300 DPI (impressão profissional)      │
+│ Espaçamento:          1.5 linhas (body text)                │
+│ Margens:              20mm (superior/inferior)              │
+│                       18mm (esquerda/direita)               │
+│ Coluna:               Simples (não usar múltiplas colunas)  │
+└─────────────────────────────────────────────────────────────┘
+
+TIPOGRAFIA
+┌─────────────────────────────────────────────────────────────┐
+│ FONTE PRINCIPAL:                                            │
+│ • Corpo: Minion Pro ou Crimson Text (serif clássico)        │
+│ • Tamanho body: 12pt                                        │
+│ • Tamanho notas: 10pt                                       │
+│ • Tamanho cabeçalho: 11pt (tracking +0.5pt)                 │
+│                                                             │
+│ FONTE TÍTULOS:                                              │
+│ • Títulos de Capítulo: Montserrat Bold / EB Garamond      │
+│ • Tamanho: 28pt                                             │
+│ • Cor: #1a472a (verde profundo)                             │
+│                                                             │
+│ FONTE SECUNDÁRIA:                                           │
+│ • Subtítulos: Lato Regular, 14pt                            │
+│ • Labels em tabelas: Lato Bold, 9pt                         │
+│                                                             │
+│ LINHA DE BASE:                                              │
+│ • Grid: 6mm (baseline grid para alinhamento vertical)       │
+│ • Justificação: esquerda (não justificar)                   │
+│ • Hiphenação: ligada (mínimo 2 letras antes/depois)         │
+└─────────────────────────────────────────────────────────────┘
+
+PALETA DE CORES
+┌─────────────────────────────────────────────────────────────┐
+│ Cor Primária:    #1a472a (verde florestal — confiança)      │
+│ Cor Secundária:  #d4af37 (ouro — prosperidade)              │
+│ Cor Neutra:      #2b2b2b (cinza escuro — texto)             │
+│ Cor Fundo:       #ffffff (branco — legibilidade)            │
+│ Destaque:        #e74c3c (vermelho suave — atenção)         │
+│ OK/Positivo:     #27ae60 (verde claro — sucesso)            │
+│ Alerta:          #f39c12 (laranja — cuidado)                │
+│                                                             │
+│ USO:                                                        │
+│ • Títulos capítulos: verde primário (#1a472a)               │
+│ • Rodapé/página: ouro (#d4af37)                             │
+│ • Tabelas alternadas: cinza muito claro (#f5f5f5)           │
+│ • Links/referências: azul clássico (#0066cc)                │
+└─────────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+2. CÁLCULO DE PÁGINAS
+════════════════════════════════════════════════════════════════════════════════
+
+CONTEÚDO TEXTUAL
+
+Base: 47.000 palavras (conforme levantamento anterior)
+
+Conversão para páginas:
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│ Palavras por página: ~250 palavras (12pt, 1.5 linhas)      │
+│                                                             │
+│ Cálculo:                                                    │
+│ 47.000 palavras ÷ 250 = 188 páginas (body only)            │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+ESTRUTURA COMPLETA
+
+┌────────────────────────────────────────────────────────────────┐
+│ ELEMENTO                          PÁGINAS    OBSERVAÇÃO         │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│ FRONT MATTER                                                   │
+│ ├─ Rosto (1)                         2       Verso branco      │
+│ ├─ Créditos/Copyright (2)            1       Verso da página 2 │
+│ ├─ Dedicatória (opcional)            1       Se houver         │
+│ ├─ Sumário                           3       Até 3 páginas     │
+│ ├─ Prefácio                          4       ~1.000 palavras   │
+│ └─ Apresentação ao leitor            2       Como usar o livro │
+│   SUBTOTAL FRONT MATTER:            13 páginas               │
+│                                                                │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│ CORPO DO LIVRO (27 capítulos)                                 │
+│                                                                │
+│ PARTE I (Fundamento)                                           │
+│ ├─ Cap. 1 (5 seções)                 6       ~1.500 palavras  │
+│ ├─ Cap. 2 (5 seções)                 5       ~1.200 palavras  │
+│ ├─ Cap. 3 (3 seções)                 4       ~1.000 palavras  │
+│ ├─ Cap. 4 (4 seções)                 4       ~1.000 palavras  │
+│ │ SUBTOTAL PARTE I:                 19 páginas               │
+│                                                                │
+│ PARTE II (O Caminho)                                           │
+│ ├─ Cap. 5 (3 seções)                 4       ~1.000 palavras  │
+│ ├─ Cap. 6 (5 seções)                 5       ~1.300 palavras  │
+│ ├─ Cap. 7 (5 seções)                 5       ~1.200 palavras  │
+│ ├─ Cap. 8 (4 seções)                 4       ~1.000 palavras  │
+│ │ SUBTOTAL PARTE II:                18 páginas               │
+│                                                                │
+│ PARTE III (O Negócio)                                          │
+│ ├─ Cap. 9 (4 seções)                 5       ~1.200 palavras  │
+│ ├─ Cap. 10 (7 seções)                7       ~1.700 palavras  │
+│ ├─ Cap. 11 (5 seções)                5       ~1.300 palavras  │
+│ ├─ Cap. 12 (4 seções)                5       ~1.200 palavras  │
+│ │ SUBTOTAL PARTE III:               22 páginas               │
+│                                                                │
+│ PARTE IV (A Estratégia)                                        │
+│ ├─ Cap. 13 (4 seções)                5       ~1.300 palavras  │
+│ ├─ Cap. 14 (6 seções + tabelas)      8       ~2.000 palavras  │
+│ ├─ Cap. 15 (4 seções)                5       ~1.200 palavras  │
+│ ├─ Cap. 16 (4 seções + tabelas)      6       ~1.500 palavras  │
+│ ├─ Cap. 17 (4 seções)                5       ~1.300 palavras  │
+│ │ SUBTOTAL PARTE IV:                29 páginas               │
+│                                                                │
+│ PARTE V (O Perigo)                                             │
+│ ├─ Cap. 18 (6 seções)                6       ~1.500 palavras  │
+│ ├─ Cap. 19 (5 seções)                5       ~1.300 palavras  │
+│ ├─ Cap. 20 (6 seções)                7       ~1.700 palavras  │
+│ │ SUBTOTAL PARTE V:                 18 páginas               │
+│                                                                │
+│ PARTE VI (A Prática)                                           │
+│ ├─ Cap. 21 (5 seções)                6       ~1.500 palavras  │
+│ ├─ Cap. 22 (5 casos + análise)       10      ~2.500 palavras  │
+│ ├─ Cap. 23 (6 seções)                6       ~1.500 palavras  │
+│ │ SUBTOTAL PARTE VI:                22 páginas               │
+│                                                                │
+│ PARTE VII (O Futuro)                                           │
+│ ├─ Cap. 24 (5 seções)                5       ~1.200 palavras  │
+│ ├─ Cap. 25 (5 seções)                6       ~1.500 palavras  │
+│ │ SUBTOTAL PARTE VII:               11 páginas               │
+│                                                                │
+│ CAPÍTULOS BÔNUS                                                │
+│ ├─ Cap. 26 (Estrangeiros)            8       ~2.000 palavras  │
+│ ├─ Cap. 27 (Alto valor)              6       ~1.500 palavras  │
+│ │ SUBTOTAL BÔNUS:                   14 páginas               │
+│                                                                │
+│ TOTAL CORPO DO LIVRO (27 caps):    153 páginas               │
+│                                                                │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│ BACK MATTER                                                    │
+│ ├─ Posfácio                          2       ~500 palavras    │
+│ ├─ Apêndice A (Lei 9.514)            2       Texto legal      │
+│ ├─ Apêndice B (Glossário)            4       Termos técnicos  │
+│ ├─ Apêndice C (Spreadsheet modelo)   2       Referência       │
+│ ├─ Apêndice D (Leiloeiros)           2       Listas por UF    │
+│ ├─ Apêndice E (FAQ)                  3       7 perguntas      │
+│ ├─ Referências                       2       Bibliografia     │
+│ ├─ Sobre o Autor                     2       Bio + contatos   │
+│ └─ Índice remissivo                  3       A-Z              │
+│   SUBTOTAL BACK MATTER:             22 páginas               │
+│                                                                │
+├────────────────────────────────────────────────────────────────┤
+│                                                                │
+│                TOTAL GERAL:        188 páginas               │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+
+DISTRIBUIÇÃO VISUAL
+
+┌─────────────────────────────────┐
+│ FRONT MATTER (13 pag)    7%      │  ████
+│ CORPO (153 pag)          81%     │ ███████████████████████████████
+│ BACK MATTER (22 pag)     12%     │ █████
+└─────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+3. GRID & LAYOUT PÁGINA
+════════════════════════════════════════════════════════════════════════════════
+
+GRID 12-COLUNA (PRINCIPAL)
+
+┌────────────────────────────────────────────────────────────────┐
+│                    PÁGINA PAR (VERSO)                          │
+│                                                                │
+│  [20mm]                                                    [18mm]
+│   ┌──────────────────────────────────────────────┐            │
+│   │                                              │            │
+│   │  Rodapé: Número página | Nome do Capítulo   │            │
+│   │  [11pt Lato Regular]                         │            │
+│   │                                              │            │
+│   │  [20mm]                                      │            │
+│ ──┼──────────────────────────────────────────────┼──          │
+│   │                                              │            │
+│   │  CORPO DE TEXTO (12pt / 1.5 linhas)          │            │
+│   │  [Lorem ipsum dolor sit amet...]             │            │
+│   │                                              │            │
+│   │  Grid: 6mm baseline                          │            │
+│   │  Margens internas: 18mm x 20mm               │            │
+│   │  Coluna única, 160mm de largura              │            │
+│   │                                              │            │
+│   │  [Notas de rodapé em 10pt, se houver]        │            │
+│   │                                              │            │
+│ ──┴──────────────────────────────────────────────┴──          │
+│   │                                              │            │
+│   │  Página: 42 | Capítulo 5: O Edital          │            │
+│   │  [11pt Lato, cor #1a472a]                    │            │
+│   │                                              │            │
+│   └──────────────────────────────────────────────┘            │
+│  [20mm]                                                    [18mm]
+└────────────────────────────────────────────────────────────────┘
+
+PÁGINA ÍMPAR (RECTO)
+
+┌────────────────────────────────────────────────────────────────┐
+│                   PÁGINA ÍMPAR (RECTO)                         │
+│                                                                │
+│  [18mm]                                                    [20mm]
+│        ┌──────────────────────────────────────────────┐        │
+│        │                                              │        │
+│        │  Capítulo 5: O Edital | Página 43           │        │
+│        │  [11pt Lato, cor #1a472a]                    │        │
+│        │                                              │        │
+│        │  [20mm]                                      │        │
+│ ───────┼──────────────────────────────────────────────┼────    │
+│        │                                              │        │
+│        │  CORPO DE TEXTO (12pt / 1.5 linhas)         │        │
+│        │  [Lorem ipsum dolor sit amet...]            │        │
+│        │                                              │        │
+│        │  Grid: 6mm baseline                         │        │
+│        │  Margens internas: 18mm x 20mm              │        │
+│        │  Coluna única, 160mm de largura             │        │
+│        │                                              │        │
+│        │  [Notas de rodapé em 10pt, se houver]       │        │
+│        │                                              │        │
+│ ───────┴──────────────────────────────────────────────┴────    │
+│        │                                              │        │
+│        │  Rodapé: Nome do Capítulo | Número página   │        │
+│        │  [11pt Lato Regular]                         │        │
+│        │                                              │        │
+│        └──────────────────────────────────────────────┘        │
+│  [18mm]                                                    [20mm]
+└────────────────────────────────────────────────────────────────┘
+
+ELEMENTOS DE PÁGINA
+
+┌─────────────────────────────────────────────────────────────┐
+│ CABEÇALHO                                                   │
+│ ├─ Páginas pares (verso):  "Página XX | Nome Capítulo"    │
+│ ├─ Páginas ímpares (recto): "Capítulo X: Título | Página XX"
+│ └─ Fonte: Lato 11pt, cor #1a472a, alinhado cantos         │
+│                                                             │
+│ CORPO                                                       │
+│ ├─ Fonte: Minion Pro 12pt / 1.5 linhas                    │
+│ ├─ Parágrafo first-line indent: 12pt                      │
+│ ├─ Espaço entre parágrafos: 6pt (0.5 linhas)              │
+│ ├─ Justificação: alinhado à esquerda (ragged right)       │
+│ └─ Hifenização: ativa (2 letras min/max)                  │
+│                                                             │
+│ RODAPÉ                                                      │
+│ ├─ Altura: 20mm do pé da página                           │
+│ ├─ Separador: linha 0.5pt, cor #d4af37                    │
+│ ├─ Texto: Lato 10pt, cinza #2b2b2b                        │
+│ ├─ Notas de rodapé: Minion 10pt, espaçamento 1.3          │
+│ └─ Numeração de página: Minion 11pt bold, #1a472a         │
+│                                                             │
+│ MARGENS                                                     │
+│ ├─ Superior: 20mm (cabeçalho em 15mm)                     │
+│ ├─ Inferior: 20mm (rodapé em 18mm)                        │
+│ ├─ Esquerda (verso): 18mm                                 │
+│ ├─ Direita (verso): 20mm (encadernação)                   │
+│ ├─ Esquerda (recto): 20mm (encadernação)                  │
+│ └─ Direita (recto): 18mm                                  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+
+QUEBRA DE PÁGINA & PARTES
+
+Cada PARTE do livro começa em página ímpar (recto). Se o capítulo
+anterior termina em página ímpar, insere-se página em branco.
+
+Exemplo:
+┌─────────────────────────────┐
+│ Cap 4 termina na página 42  │  [par = verso]
+│ (página par = verso)         │
+├─────────────────────────────┤
+│ Página 43 em branco         │  [ímpar, para deixar espaço]
+│ (verso da página 42)         │
+├─────────────────────────────┤
+│ PARTE II — O CAMINHO        │  [página 44, começa capítulo 5]
+│ Capítulo 5                  │
+└─────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+4. TEMPLATES DE PÁGINA ESPECÍFICAS
+════════════════════════════════════════════════════════════════════════════════
+
+TEMPLATE: ABERTURA DE CAPÍTULO
+
+┌────────────────────────────────────────────────────────────────┐
+│                                                                │
+│                                                                │
+│                                                                │
+│                    CAPÍTULO 5                                  │
+│                                                                │
+│              O Edital — A Bíblia do Deal                       │
+│                                                                │
+│              [Versalete 18pt, cor #1a472a]                     │
+│              [Subtitle 14pt, Lato, cor #2b2b2b]               │
+│                                                                │
+│              [20 linhas em branco = ~150mm de espaço]         │
+│                                                                │
+│                                                                │
+│                                                                │
+│  5.1 O que é o Edital                                          │
+│  [Primeira seção começa aqui, sem espaço extra]                │
+│                                                                │
+│  Corpo de texto. Lorem ipsum...                               │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+
+TEMPLATE: TABELA (Em contexto)
+
+┌────────────────────────────────────────────────────────────────┐
+│                                                                │
+│  [Título da Tabela]                                            │
+│  [Roboto/Lato Bold, 12pt, cor #1a472a]                        │
+│                                                                │
+│  ┌────────────────────────────────────────────────────────┐   │
+│  │ COLUNA 1         │ COLUNA 2         │ COLUNA 3         │   │
+│  │ [Lato Bold 9pt]  │ [Lato Bold 9pt]  │ [Lato Bold 9pt]  │   │
+│  ├────────────────────────────────────────────────────────┤   │
+│  │ Dado 1           │ Dado 2           │ Dado 3           │   │
+│  │ [Minion 10pt]    │ [Minion 10pt]    │ [Minion 10pt]    │   │
+│  ├────────────────────────────────────────────────────────┤   │ linha alternada
+│  │ Dado 1           │ Dado 2           │ Dado 3           │   │ fundo #f5f5f5
+│  │ [Minion 10pt]    │ [Minion 10pt]    │ [Minion 10pt]    │   │
+│  └────────────────────────────────────────────────────────┘   │
+│  [4pt espaço depois da tabela]                                 │
+│                                                                │
+│  Legendagem (se houver):                                       │
+│  Fonte: [referência], Minion 9pt, itálico, cor #666666       │
+│                                                                │
+│  [Corpo de texto continua, 6pt acima]                         │
+│  Lorem ipsum dolor sit amet...                                │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+
+TEMPLATE: BOXES / DESTAQUE
+
+┌────────────────────────────────────────────────────────────────┐
+│                                                                │
+│  [Caixa com bordas]                                            │
+│  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓      │
+│  ┃  [Minion 10pt, cor #1a472a, weight: bold]              ┃      │
+│  ┃  Título do Box / Destaque                               ┃      │
+│  ┃                                                         ┃      │
+│  ┃  [Corpo do box em Minion 11pt, 1.4 linhas]            ┃      │
+│  ┃  Lorem ipsum dolor sit amet, consectetur adipiscing    ┃      │
+│  ┃  elit. Sed do eiusmod tempor incididunt ut labore et   ┃      │
+│  ┃  dolore magna aliqua.                                  ┃      │
+│  ┃                                                         ┃      │
+│  ┃  [Espaçamento interno: 12pt]                           ┃      │
+│  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛      │
+│  [Bordas: 2pt, cor #1a472a; fundo: #f9f9f9]                   │
+│                                                                │
+│  [Corpo de texto continua depois]                             │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+
+TEMPLATE: LISTA (Bullet points)
+
+┌────────────────────────────────────────────────────────────────┐
+│                                                                │
+│  Pontos principais:                                            │
+│                                                                │
+│  • Item 1 — Descrição breve em Minion 11pt,                   │
+│    com quebra de linha se necessário alinhada à                │
+│    primeira letra do texto.                                    │
+│                                                                │
+│  • Item 2 — Segundo ponto com detalhe                         │
+│    complementar que ocupa múltiplas linhas.                    │
+│                                                                │
+│  • Item 3 — Terceiro item na sequência.                       │
+│                                                                │
+│  [Bullet: •, cor #d4af37, tamanho 12pt]                        │
+│  [Espaço entre itens: 6pt = meia linha]                        │
+│  [Indent: 18pt; text indent: 12pt]                             │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+5. ESTRUTURA DETALHADA POR SEÇÃO
+════════════════════════════════════════════════════════════════════════════════
+
+FRONT MATTER
+
+Páginas 1-2: Rosto
+┌────────────────────────────────────────┐
+│                                        │
+│                                        │
+│    A BÍBLIA DO LEILÃO IMOBILIÁRIO     │
+│                                        │
+│  Compre seu Imóvel com até 94% Desc.  │
+│                                        │
+│                                        │
+│          Salomão Von Herclestein       │
+│                                        │
+│                                        │
+│                Brasília                │
+│                  2026                  │
+│                                        │
+└────────────────────────────────────────┘
+
+Página 3: Créditos/Copyright
+┌────────────────────────────────────────┐
+│                                        │
+│  A BÍBLIA DO LEILÃO IMOBILIÁRIO        │
+│  Compre seu Imóvel com até 94% Desc.  │
+│                                        │
+│  © 2026 Salomão Von Herclestein        │
+│  Todos os direitos reservados.         │
+│                                        │
+│  ISBN: [a atribuir]                    │
+│  ISSN: [a atribuir]                    │
+│                                        │
+│  Impressão: [tipografia]               │
+│  Encadernação: [material]              │
+│                                        │
+│  www.solomonvonherclestein.substack.com
+│  solomonvonherclestein@hotmail.com     │
+│  +55 11 951356262                      │
+│                                        │
+└────────────────────────────────────────┘
+
+Páginas 4-6: Sumário (3 páginas)
+┌────────────────────────────────────────┐
+│ SUMÁRIO                                │
+│                                        │
+│ PARTE I — O FUNDAMENTO         19     │
+│   Capítulo 1: Definição         21    │
+│   Capítulo 2: Legal Foundation  27    │
+│   Capítulo 3: Tipos de Leilão   32    │
+│   Capítulo 4: Quem Participa    36    │
+│                                        │
+│ PARTE II — O CAMINHO          40     │
+│   Capítulo 5: O Edital         42    │
+│   Capítulo 6: Onde Encontrar   47    │
+│   Capítulo 7: Como Dar Lance   52    │
+│   Capítulo 8: O Leiloeiro      57    │
+│                                        │
+│ [continua...]                         │
+│                                        │
+│ APÊNDICES                              │
+│   Apêndice A: Lei 9.514/97    165    │
+│   Apêndice B: Glossário       167    │
+│   Apêndice C: ROI Calculator  171    │
+│   Apêndice D: Leiloeiros      173    │
+│   Apêndice E: FAQ             175    │
+│                                        │
+│ Referências                    178    │
+│ Sobre o Autor                  180    │
+│ Índice Remissivo              182    │
+│                                        │
+└────────────────────────────────────────┘
+
+Páginas 7-10: Prefácio
+┌────────────────────────────────────────┐
+│ PREFÁCIO                               │
+│ Por Quê Escrevi Este Livro             │
+│                                        │
+│ [~1.000 palavras = 4 páginas]          │
+│                                        │
+│ "Bom afternoon. Sou Salomão Von       │
+│  Herclestein."                         │
+│                                        │
+│ [História pessoal. Vila Madalena.]     │
+│                                        │
+│ [Motivação. Democratizar acesso.]      │
+│                                        │
+│ [Estrutura do livro.]                  │
+│                                        │
+└────────────────────────────────────────┘
+
+Páginas 11-13: Apresentação ao Leitor
+┌────────────────────────────────────────┐
+│ COMO USAR ESTE LIVRO                   │
+│                                        │
+│ Para quem é o livro                    │
+│ ├─ Iniciantes                          │
+│ ├─ Investidores                        │
+│ ├─ Estrangeiros                        │
+│                                        │
+│ Como ler                               │
+│ ├─ Sequência recomendada               │
+│ ├─ Leitura modular                     │
+│ ├─ Referências cruzadas               │
+│                                        │
+│ Estrutura                              │
+│ ├─ 7 Partes temáticas                  │
+│ ├─ 27 Capítulos                        │
+│ ├─ 5 Apêndices                         │
+│                                        │
+└────────────────────────────────────────┘
+
+CORPO DO LIVRO (Capítulo Exemplo: Cap. 5)
+
+Página 42: Fim do capítulo anterior (ou abertura de PARTE II)
+
+Página 43: Abertura de Cap. 5
+┌────────────────────────────────────────┐
+│                                        │
+│                                        │
+│                 CAPÍTULO 5             │
+│                                        │
+│           O Edital — A Bíblia         │
+│              do Deal                   │
+│                                        │
+│          [28pt Montserrat Bold]        │
+│          [#1a472a]                     │
+│                                        │
+│          [página em branco ~150mm]     │
+│                                        │
+│          5.1 O que É o Edital         │
+│                                        │
+│          [Seção abre aqui]             │
+│          Lorem ipsum dolor...          │
+│                                        │
+└────────────────────────────────────────┘
+
+Páginas 44-46: Conteúdo do Capítulo 5
+┌────────────────────────────────────────┐
+│ [Corpo de texto com subcapítulos]      │
+│                                        │
+│ 5.1 O que é o Edital                  │
+│ [Minion 12pt, 1.5 linhas]              │
+│ Lorem ipsum...                         │
+│                                        │
+│ [Tabela com "Informações Essenciais"]  │
+│                                        │
+│ 5.2 Como Interpretar                  │
+│ Lorem ipsum...                         │
+│                                        │
+│ [Box de destaque / conselho]           │
+│                                        │
+│ 5.3 Cuidados Comuns                    │
+│ Lorem ipsum...                         │
+│                                        │
+│ [Lista com bullet points]              │
+│                                        │
+│ [Rodapé: "Página 44 | Capítulo 5"]    │
+│                                        │
+└────────────────────────────────────────┘
+
+BACK MATTER
+
+Página 165: Apêndices começam
+┌────────────────────────────────────────┐
+│                                        │
+│                APÊNDICE A              │
+│                                        │
+│    Lei 9.514/97 — Trechos Relevantes   │
+│                                        │
+│    [Texto legal em Minion 10pt, selecionado]
+│                                        │
+│    Artigo 1º: ...                      │
+│    Artigo 2º: ...                      │
+│    Artigo 3º: ...                      │
+│                                        │
+└────────────────────────────────────────┘
+
+Página 167: Apêndice B (Glossário)
+┌────────────────────────────────────────┐
+│ APÊNDICE B                             │
+│ GLOSSÁRIO DE TERMOS TÉCNICOS           │
+│                                        │
+│ Arrematação                            │
+│ [Lato Bold 10pt] Descrição em Minion   │
+│ 11pt com 1.3 linhas. Lorem ipsum...    │
+│                                        │
+│ Alienação Fiduciária                   │
+│ [Idem]                                 │
+│                                        │
+│ [alfabético A-Z]                       │
+│                                        │
+└────────────────────────────────────────┘
+
+Página 180: Sobre o Autor
+┌────────────────────────────────────────┐
+│                                        │
+│          SOBRE O AUTOR                 │
+│                                        │
+│ [Fotografia 60x80mm, opcional]         │
+│                                        │
+│ SALOMÃO VON HERCLESTEIN é estrategista│
+│ financeiro, economista pela Estácio de│
+│ Sá, com cursos em Bocconi, Harvard,   │
+│ Yale. [...] Contribuidor do           │
+│ Investing.com desde 2018.              │
+│                                        │
+│ Contato:                               │
+│ Email: solomonvonherclestein@...      │
+│ Telefone: +55 11 951356262            │
+│ Substack: solomonvonherclestein...    │
+│ Podcast: AVVISI (Spotify)              │
+│                                        │
+└────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+6. ESPECIFICAÇÕES TÉCNICAS FINAIS
+════════════════════════════════════════════════════════════════════════════════
+
+SUMÁRIO EXECUTIVO: PÁGINAS & LAYOUT
+
+┌────────────────────────────────────────────────────────┐
+│                                                        │
+│ Total de Páginas: 188                                  │
+│                                                        │
+│ Front Matter:          13 páginas (7%)                │
+│ Corpo (27 caps):      153 páginas (81%)               │
+│ Back Matter:           22 páginas (12%)               │
+│                                                        │
+├────────────────────────────────────────────────────────┤
+│                                                        │
+│ Formato:              170 x 240 mm                     │
+│ Tipografia:           Minion Pro / Montserrat          │
+│ Paleta:               Verde #1a472a / Ouro #d4af37   │
+│ Grid:                 6mm baseline, 12-coluna          │
+│ Margens:              18-20mm (ajustadas por lado)     │
+│                                                        │
+├────────────────────────────────────────────────────────┤
+│                                                        │
+│ Tabelas:              28 (distribuídas pelos caps)     │
+│ Caixas de Destaque:   ~25 (distribuídas)              │
+│ Figuras/Gráficos:     Referências externas            │
+│ Listas:               ~45 (conforme o livro)          │
+│                                                        │
+├────────────────────────────────────────────────────────┤
+│                                                        │
+│ Papel:                90 gsm branco offset             │
+│ Encadernação:         Brochura fresada ou espiral      │
+│ Impressão:            CMYK, 300 DPI                    │
+│ Acabamento:           Laminação fosca (recomendado)   │
+│                                                        │
+└────────────────────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+7. GUIA PARA DESIGNER/DIAGRAMADOR
+════════════════════════════════════════════════════════════════════════════════
+
+CHECKLIST DE IMPLEMENTAÇÃO
+
+Preparação:
+☐ Criar arquivo base em InDesign (template)
+☐ Definir estilos de parágrafo (Body, Título, Subtítulo, etc)
+☐ Definir estilos de caractere (Bold, Itálico, Código, etc)
+☐ Criar swatches de cores (Primária, Secundária, etc)
+☐ Configurar grid 6mm e coluna 160mm
+
+Numeração:
+☐ Estilos de página (esquerda/direita different)
+☐ Cabeçalhos automáticos (running heads)
+☐ Numeração de página automática
+☐ Rodapés com separador
+
+Conteúdo:
+☐ Importar arquivo Word (.docx) com formatação
+☐ Aplicar estilos InDesign ao conteúdo
+☐ Ajustar quebras de página (chapters em páginas ímpares)
+☐ Posicionar tabelas e boxes
+☐ Criar índice remissivo automático
+☐ Gerar sumário automático
+
+QA:
+☐ Verificar órfãs e viúvas (no widows/orphans)
+☐ Verificar espaçamento entre linhas (baseline grid)
+☐ Verificar cores (CMYK for print)
+☐ Verificar hiação (word breaks)
+☐ Proofread completo (2 passes)
+
+Exportação:
+☐ PDF alta resolução (300 DPI, CMYK)
+☐ PDF para e-book (RGB, 72 DPI, reflow)
+☐ Arquivo de impressão (tipo PDF/X-1a)
+
+
+════════════════════════════════════════════════════════════════════════════════
+8. ORÇAMENTO DE DIAGRAMAÇÃO
+════════════════════════════════════════════════════════════════════════════════
+
+Se você fizer (DIY):
+┌────────────────────────────────────────┐
+│ Ferramentas:                           │
+│ • InDesign (Creative Cloud): R$ 50/mês │
+│ • Adobe Fonts: incluso                 │
+│ • Canva (backup): grátis               │
+│                                        │
+│ Tempo: ~40-60 horas (2-3 semanas)      │
+│ Custo: R$ 0-200 (cloud subscription)   │
+└────────────────────────────────────────┘
+
+Se contratar designer:
+┌────────────────────────────────────────┐
+│ Diagramador profissional:   R$ 800-1.500
+│ (Upwork, Fiverr, freelancers BR)       │
+│                                        │
+│ Custos inclusos:                       │
+│ ✓ Arquivo final em InDesign            │
+│ ✓ PDF de impressão pronto              │
+│ ✓ PDF para e-book                      │
+│ ✓ Revisão de layout (2 rodadas)        │
+│ ✓ Ajustes finais                       │
+│                                        │
+│ Tempo: 3-4 semanas (standard)          │
+└────────────────────────────────────────┘
+
+
+════════════════════════════════════════════════════════════════════════════════
+9. PRÓXIMOS PASSOS
+════════════════════════════════════════════════════════════════════════════════
+
+SEQUÊNCIA RECOMENDADA:
+
+1️⃣  Revisar este documento
+    └─ Aprovar layout, páginas, tipografia
+
+2️⃣  Exportar livro de Word para arquivo limpo
+    └─ Remover formatação manual
+    └─ Usar apenas estilos de parágrafo
+
+3️⃣  Contratar designer ou fazer você mesmo
+    └─ Se DIY: comprar InDesign, dedicar 40-60h
+    └─ Se hired: publicar job no Upwork, vet portfolio
+
+4️⃣  Preparar arquivo final
+    └─ PDF de impressão (CMYK, 300 DPI)
+    └─ PDF de e-book (RGB, 72 DPI)
+
+5️⃣  Escolher impressora
+    └─ Para impressão: JoinClub, Gráfika, SPN
+    └─ Para e-book: KDP, Smashwords, Google Play Books
+
+════════════════════════════════════════════════════════════════════════════════
+Documento preparado em: 2026
+Status: PRONTO PARA IMPLEMENTAÇÃO
+════════════════════════════════════════════════════════════════════════════════

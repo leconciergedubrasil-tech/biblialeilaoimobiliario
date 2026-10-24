@@ -1,0 +1,444 @@
+╔════════════════════════════════════════════════════════════════════════════╗
+║              A BÍBLIA DO LEILÃO IMOBILIÁRIO                               ║
+║                    BRIEFING PARA DESIGNER DE CAPA                         ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+PROJETO: Capa de livro profissional — Primeira edição
+AUTOR: Salomão Von Herclestein
+GÊNERO: Não-ficção / Investimento Imobiliário
+PÚBLICO: Investidores iniciantes a avançados (25-65 anos)
+PRAZO: 7-10 dias úteis
+ORÇAMENTO: R$ 800-1.500
+
+════════════════════════════════════════════════════════════════════════════════
+1. ESPECIFICAÇÕES TÉCNICAS
+════════════════════════════════════════════════════════════════════════════════
+
+FORMATO:
+  • Dimensões finais: 170 x 240 mm (A5 horizontal — compacto, portátil)
+  • Arquivo de trabalho: 172 x 242 mm (+ 1mm sangra de cada lado)
+  • Resolução: 300 DPI CMYK (preparado para offset/CMYK)
+
+DIVISÃO DE ARQUIVO:
+  • Capa frontal: 170 x 240 mm (esquerda)
+  • Lombada: ~12 mm (188 páginas + capa = ~20-22mm espessura; designer vai confirmar com gráfica)
+  • Verso + contracapa: 170 x 240 mm (direita)
+  • TOTAL: 352 x 242 mm (frente-lombada-verso em 1 arquivo)
+
+SOFTWARE ACEITO:
+  ✓ Adobe InDesign (preferencial)
+  ✓ Adobe Illustrator
+  ✓ CorelDRAW
+  ✗ Canva, figma, etc (baja qualidade para print)
+
+FORMATO ENTREGA:
+  • PDF/X-1a (print-ready) ✓
+  • PSD (backup) ✓
+  • AI (backup) ✓
+
+════════════════════════════════════════════════════════════════════════════════
+2. CONCEITO VISUAL & POSICIONAMENTO
+════════════════════════════════════════════════════════════════════════════════
+
+POSICIONAMENTO:
+  • Premium mas acessível
+  • "Bíblia" = referência autorizada, conhecimento comprovado
+  • "Leilão Imobiliário" = oportunidade, inteligência, lucro
+  • Público: Investidor inteligente que busca vantagem competitiva
+
+TONE & FEEL:
+  ✓ Profissional, confiável, expertise
+  ✓ Moderno mas atemoral (serve em 2026, 2030, 2040)
+  ✓ Sofisticado sem ser excessivo
+  ✗ Clickbait, sensacionalismo, "fique rico rápido"
+  ✗ Genérico, template padrão
+  ✗ Infantil ou excessivamente colorido
+
+REFERÊNCIAS VISUAIS:
+  1. "The Intelligent Investor" (Benjamin Graham)
+     → Simplicidade elegante, tipografia clara, fundo neutro
+  2. "Zero to One" (Peter Thiel)
+     → Minimalista, foco, tipografia ousada
+  3. "Debt: The First 5000 Years" (David Graeber)
+     → Intelectual, sério, design limpo
+  4. Capas de livros de finanças no Brasil (Suno, Empiricus)
+     → Dinâmicas mas profissionais, verde/azul frequente
+  5. "Liar's Poker" (Michael Lewis)
+     → Crédivel, narrativa forte, design memorável
+
+════════════════════════════════════════════════════════════════════════════════
+3. PALETA DE CORES
+════════════════════════════════════════════════════════════════════════════════
+
+COR PRIMÁRIA:
+  • Verde Escuro: #1a472a (RGB: 26, 71, 42)
+  • Uso: Títulos, elementos principais, background
+  • Razão: Confiança, crescimento, investimento
+
+COR SECUNDÁRIA:
+  • Ouro: #d4af37 (RGB: 212, 175, 55)
+  • Uso: Acentos, separadores, "Bíblia", destaque
+  • Razão: Luxo, valor, objetivo (conseguir ouro em forma de desconto)
+
+COR TERCIÁRIA:
+  • Cinza Escuro: #2b2b2b (RGB: 43, 43, 43)
+  • Uso: Texto corpo, subtítulos
+  • Razão: Legibilidade, seriedade
+
+FUNDO:
+  • Opção A: Branco puro (#ffffff) com textura sutil
+  • Opção B: Verde escuro (#1a472a) com tipografia clara
+  • RECOMENDAÇÃO: Branco com ouro para Frente; Verde para Verso/Contracapa
+
+CORES A EVITAR:
+  ✗ Vermelho (associa risco, queda)
+  ✗ Rosa/roxo (muito soft para tema)
+  ✗ Preto puro (muito pesado, sem nuance)
+
+════════════════════════════════════════════════════════════════════════════════
+4. TIPOGRAFIA
+════════════════════════════════════════════════════════════════════════════════
+
+TÍTULOS PRINCIPAIS:
+  • Fonte: Montserrat Bold, Raleway Bold, ou Poppins Bold
+  • Tamanho: 36-48pt (para "A Bíblia do Leilão Imobiliário")
+  • Cor: Verde escuro (#1a472a)
+  • Style: SEM SOMBRA, SEM OUTLINE — apenas peso
+
+SUBTÍTULO:
+  • Fonte: Crimson Text, Georgia, ou Lora (serif elegante)
+  • Tamanho: 16-20pt
+  • Cor: Ouro (#d4af37) ou Cinza (#2b2b2b)
+  • Texto: "Compre seu Imóvel com até 94% de Desconto"
+  • Style: Itálico (opcional)
+
+AUTOR:
+  • Fonte: Montserrat Medium ou Raleway Regular
+  • Tamanho: 12-14pt
+  • Cor: Cinza (#2b2b2b)
+  • Posição: Baixo da capa ou verso
+
+BIO/DESCRIÇÃO:
+  • Fonte: Crimson Text ou Minion Pro Regular
+  • Tamanho: 10-11pt
+  • Cor: Cinza (#2b2b2b)
+  • Espaçamento: 1.2-1.4 linhas
+
+════════════════════════════════════════════════════════════════════════════════
+5. ELEMENTOS GRÁFICOS
+════════════════════════════════════════════════════════════════════════════════
+
+FRENTE (Recomendações):
+
+Opção A — Minimalista (Preferida):
+  • Fundo branco com textura subtle (linen 5%)
+  • Título + Subtítulo centrado, tamanho grande
+  • Elemento geométrico sutil: linha ouro horizontal separando espaços
+  • Sem fotografia, sem complexidade
+  • Profissional, intemporal, fácil de reconhecer à distância
+
+Opção B — Com Elemento Visual:
+  • Incorporar ícone/ilustração de:
+    - Chave + imóvel (símbolo de propriedade)
+    - Gráfico ascendente (lucro)
+    - Leilão (martelo estilizado)
+  • Ícone em ouro sobre fundo verde (ou vice-versa)
+  • Tamanho moderado (não domina a capa)
+
+Opção C — Com Fotografia (Menos Recomendado):
+  • Se usar foto: imóvel premium, bem iluminado, aspiracional
+  • Filtro verde/ouro overlay (40-50% opacidade) para manter a paleta
+  • Foto NUNCA deve ser o destaque principal
+  • Prefira ilustração ou conceitual a "foto genérica de imóvel"
+
+VERSO/CONTRACAPA:
+
+□ Bio do autor (3-5 linhas):
+   "Salomão Von Herclestein é estrategista financeiro, economista, e 
+   investidor especializado em leilões imobiliários brasileiros. Com 
+   15+ anos de experiência em mercados de capitais, fundou Cardinal 
+   Protocol e é colaborador regular da Investing.com."
+
+□ Recomendações / "Social Proof" (Opcional):
+   Se tiver endorsements de: economistas, leiloeiros conhecidos, 
+   plataformas financeiras — incluir citação curta
+
+□ Código QR (Opcional mas Recomendado):
+   • Links para: Substack, podcast, website
+   • Tamanho: ~20 x 20 mm
+   • Posição: Canto inferior verso
+
+□ Foto do autor (Headshot profissional):
+   • 5 x 5 cm aprox
+   • Foto: em preto & branco ou colorida?
+   • RECOMENDAÇÃO: Preto & branco para match estético com paleta
+
+LOMBADA:
+
+□ Título vertical (ou horizontal, depender design):
+   "A BÍBLIA DO LEILÃO IMOBILIÁRIO"
+
+□ Autor:
+   "Salomão Von Herclestein"
+
+□ Logo editora (Opcional):
+   Se tiver logo pessoal/editora — colocar aqui
+
+════════════════════════════════════════════════════════════════════════════════
+6. CONTEÚDO TEXTUAL A INCLUIR
+════════════════════════════════════════════════════════════════════════════════
+
+FRENTE:
+
+Título Principal:
+  "A Bíblia do Leilão Imobiliário"
+
+Subtítulo:
+  "Compre seu Imóvel com até 94% de Desconto"
+
+Autor (pequeno):
+  "Salomão Von Herclestein"
+
+──────────────────────────────────────────────────────────────────────────────
+
+VERSO/CONTRACAPA:
+
+Sinopse (Importante! Vender o conceito):
+  
+  ┌────────────────────────────────────────────────────────┐
+  │  Você já imaginou comprar uma casa, apartamento ou     │
+  │  imóvel comercial com desconto de até 94% do valor     │
+  │  de mercado?                                           │
+  │                                                        │
+  │  Não é ilusão. É realidade nos leilões imobiliários   │
+  │  brasileiros — um mercado de R$ 8,92 bilhões em 2024, │
+  │  em crescimento acelerado.                            │
+  │                                                        │
+  │  A Bíblia do Leilão Imobiliário é seu guia completo:  │
+  │                                                        │
+  │  • 27 capítulos cobrindo cada aspecto do processo      │
+  │  • Da base legal até estratégia de investimento        │
+  │  • Estudos de caso reais com ROI documentado          │
+  │  • Checklist prático para seu primeiro leilão         │
+  │  • Análise de riscos e como evitar armadilhas         │
+  │                                                        │
+  │  Quer transformar crise imobiliária em oportunidade?  │
+  │  Este livro é seu manual.                             │
+  │                                                        │
+  │  "Até agora, o Senhor me ajudou"                       │
+  │  — Salomão Von Herclestein                            │
+  └────────────────────────────────────────────────────────┘
+
+Bio do Autor:
+  Salomão Von Herclestein é estrategista financeiro, economista, 
+  e investidor especializado em leilões imobiliários. Fundador da 
+  Cardinal Protocol (aconselhamento de obligações para HNW investors), 
+  colaborador da Investing.com desde 2018, e autor de análises 
+  macroeconômicas para mercado de capitais. Educação: Estácio de Sá, 
+  Bocconi, Harvard, Yale.
+
+════════════════════════════════════════════════════════════════════════════════
+7. ESPECIFICAÇÕES TÉCNICAS FINAIS
+════════════════════════════════════════════════════════════════════════════════
+
+ARQUIVO FINAL:
+
+Formato:       PDF/X-1a (CMYK)
+Resolução:     300 DPI
+Modo Cor:      CMYK (não RGB!)
+Perfil ICC:    ISO Coated v2 300%
+Sangra:        1 mm em todos os lados
+Espaço Branco: Mínimo 5 mm (margem de segurança)
+
+DIRETRIZES:
+
+✓ Sem fonts embedding não-padrão
+✓ Nenhuma RGB pura (converter para CMYK!)
+✓ Imagens/fotos em 300 DPI (se houver)
+✓ Sem transparências (flattened)
+✓ Sem clipping masks desnecessários
+✓ Cores verificadas em CMYK preview
+
+TESTE FINAL:
+
+Antes de entregar, abrir em:
+  ✓ Adobe Acrobat Pro (check de cores)
+  ✓ Preflight Acrobat (verificar erros)
+  ✓ Imprimir amostra em impressora RGB (se possível)
+  ✓ Comparar com paleta original
+
+════════════════════════════════════════════════════════════════════════════════
+8. PROCESSO DE APROVAÇÃO
+════════════════════════════════════════════════════════════════════════════════
+
+ETAPA 1: Conceito (2-3 dias)
+  Designer apresenta:
+  □ 2-3 conceitos visuais (sketch/rascunho)
+  □ Paleta de cores aplicada
+  □ Tipografia escolhida
+  
+  Você escolhe direção (A, B, ou C)
+
+ETAPA 2: Design Completo (3-4 dias)
+  Designer entrega:
+  □ Capa frente/verso/lombada em alta resolução
+  □ PSD/AI (working files)
+  □ Mockup de como ficará impresso
+  
+  Você revisa e solicita ajustes
+
+ETAPA 3: Ajustes Finais (2 dias)
+  Designer corrige:
+  □ Alinhamento de texto
+  □ Cores (CMYK final)
+  □ Resolução e resolução (300 DPI)
+  
+  Aprovação final
+
+ETAPA 4: Entrega Final (1 dia)
+  Arquivos entregues:
+  ✓ PDF/X-1a (pronto para gráfica)
+  ✓ PSD (para futuras edições)
+  ✓ Mockup final
+  ✓ Instruções para gráfica (se necessário)
+
+════════════════════════════════════════════════════════════════════════════════
+9. REFERÊNCIAS COMPETITIVAS
+════════════════════════════════════════════════════════════════════════════════
+
+Livros SIMILARES a analisar (inspiration):
+
+1. "A Bíblia da Bolsa de Valores" (Bastter)
+   → Capa verde/dourada, tipografia clara
+   → Posicionamento: referência = bíblia
+
+2. "Cómo Hacer Dinero en Bienes Raíces" (Robert Kiyosaki)
+   → Minimalista, foco em texto
+   → Cor: vermelho/branco (evitar este combo)
+
+3. "O Investidor Inteligente" (Benjamin Graham - edição BR)
+   → Clássico, design atemporal
+   → Tipografia serif, paleta neutra
+
+4. Livros Empiricus / Suno (português)
+   → Design moderno, cores vibrantes mas profissionais
+   → Visita: livrarias virtuais (Skoob, Amazon)
+
+════════════════════════════════════════════════════════════════════════════════
+10. CONTATOS RECOMENDADOS (DESIGNERS)
+════════════════════════════════════════════════════════════════════════════════
+
+PLATAFORMAS:
+  • Upwork.com (filtrar por "Book Cover Design")
+    → Buscar portfolio com livros similares
+    → Budget: R$ 800-1.500
+    → Filtro: 4.8+ stars, livros profissionais no portfolio
+
+  • Freelancer.com.br
+    → Designers brasileiros
+    → Conhecem gráficas locais (melhor comunicação)
+    → Mesma faixa de preço
+
+  • 99designs.com
+    → Contest-based (design competition)
+    → Você recebe 10+ conceitos
+    → Mais caro (R$ 1.500-2.500) mas variedade maior
+
+CRITÉRIOS SELEÇÃO:
+
+✓ Portfolio com capas de livros (não posts em rede social)
+✓ Experiência com impressão offset/CMYK
+✓ Referências de clientes anteriores
+✓ Tempo de resposta < 24h
+✓ Falante em português (se não falar inglês)
+
+BRIEFING FINAL:
+
+Enviar designer este documento + pasta com:
+  □ Este briefing completo
+  □ Imagens de referência visuais (capas similares)
+  □ Arquivo TXT com conteúdo textual exato
+  □ Foto headshot do autor (se tiver)
+  □ Logo/marca pessoal (se tiver)
+
+════════════════════════════════════════════════════════════════════════════════
+11. TIMELINE & MILESTONES
+════════════════════════════════════════════════════════════════════════════════
+
+SEMANA 1:
+
+  Dia 1: Contratar designer via Upwork/Freelancer
+  Dia 2: Enviar briefing + referências
+  Dia 3: Designer apresenta 2-3 conceitos
+  Dia 4-5: Você escolhe direção, designer refina
+
+SEMANA 2:
+
+  Dia 6-7: Designer entrega capa completa (PSD + PDF preview)
+  Dia 8: Você revisa e solicita ajustes (máx 2 rodadas recomendado)
+  Dia 9: Designer faz ajustes finais
+  Dia 10: Aprovação final + PDF/X-1a pronto para gráfica
+
+TOTAL: 10 dias úteis (2 semanas)
+
+════════════════════════════════════════════════════════════════════════════════
+12. BUDGET BREAKDOWN (R$ 1.000-1.500)
+════════════════════════════════════════════════════════════════════════════════
+
+LOW-END (R$ 800):
+  • Design básico (1 conceito)
+  • Revisões limitadas (1-2)
+  • Sem mockup de impressão
+  • Entrega: PSD + PDF
+
+MID-RANGE (R$ 1.000-1.200) ⭐ RECOMENDADO:
+  • Design 2-3 conceitos
+  • Revisões ilimitadas (até aprovação)
+  • Mockup de impressão incluído
+  • Entrega: PSD + AI + PDF/X-1a
+  • Suporte de ajustes pós-entrega (7 dias)
+
+HIGH-END (R$ 1.500+):
+  • Design premium com elementos customizados
+  • Ilustração original ou fotografia profissional
+  • Mockup 3D (como ficará no lançamento)
+  • Consultoria de posicionamento/branding
+  • Suporte estendido (30 dias)
+
+╔════════════════════════════════════════════════════════════════════════════╗
+║                          CHECKLIST FINAL                                  ║
+╚════════════════════════════════════════════════════════════════════════════╝
+
+ANTES DE ENVIAR PARA DESIGNER:
+
+□ Você tem foto headshot profissional do autor?
+  [ ] Sim → Enviar junto com briefing
+  [ ] Não → Avisar designer (ele recomendará fotógrafo)
+
+□ Você tem logo/marca pessoal?
+  [ ] Sim → Incluir na capa?
+  [ ] Não → OK, capa funciona sem logo
+
+□ Aprovado o subtítulo: "Compre seu Imóvel com até 94% de Desconto"?
+  [ ] Sim
+  [ ] Não → Propor alternativa antes de enviar
+
+□ A sinopse (verso) está completa?
+  [ ] Sim
+  [ ] Não → Completar agora (essencial para vender)
+
+□ Você quer foto do autor no verso?
+  [ ] Sim
+  [ ] Não
+
+□ Código QR no verso (para podcast/substack)?
+  [ ] Sim → Informar URL ao designer
+  [ ] Não
+
+════════════════════════════════════════════════════════════════════════════════
+
+PRÓXIMO PASSO: Escolha designer em Upwork, envie este briefing, e comece!
+
+Dúvidas sobre design ou briefing? Responda agora.
+
+—Salomão

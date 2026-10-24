@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mockup Capa - A Bíblia do Leilão Imobiliário</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f5f5f5;
+            padding: 40px 20px;
+            color: #333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 28px;
+            color: #1a472a;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 40px;
+            font-size: 14px;
+        }
+
+        .mockup-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 40px;
+            margin-bottom: 60px;
+        }
+
+        .mockup-box {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+
+        .mockup-label {
+            font-weight: bold;
+            color: #1a472a;
+            margin-bottom: 20px;
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        /* CAPA FRENTE */
+        .capa-frente {
+            width: 100%;
+            max-width: 300px;
+            height: 420px;
+            background: white;
+            margin: 20px auto;
+            border: 1px solid #ddd;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 30px 20px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .capa-frente::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: #d4af37;
+        }
+
+        .capa-frente::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: #d4af37;
+        }
+
+        .titulo-principal {
+            font-size: 32px;
+            font-weight: bold;
+            color: #1a472a;
+            margin: 0 0 30px 0;
+            line-height: 1.2;
+            font-family: 'Georgia', serif;
+        }
+
+        .separador {
+            width: 60px;
+            height: 2px;
+            background: #d4af37;
+            margin: 20px auto;
+        }
+
+        .subtitulo-capa {
+            font-size: 14px;
+            color: #d4af37;
+            font-style: italic;
+            font-family: 'Georgia', serif;
+            margin: 20px 0 40px 0;
+            font-weight: 500;
+        }
+
+        .autor-frente {
+            font-size: 12px;
+            color: #2b2b2b;
+            margin-top: auto;
+            font-family: 'Arial', sans-serif;
+        }
+
+        /* CAPA VERSO */
+        .capa-verso {
+            width: 100%;
+            max-width: 300px;
+            height: 420px;
+            background: #1a472a;
+            margin: 20px auto;
+            border: 1px solid #0d2515;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-items: center;
+            padding: 30px 20px;
+            color: white;
+            position: relative;
+        }
+
+        .verso-titulo {
+            font-size: 16px;
+            font-weight: bold;
+            color: #d4af37;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+
+        .verso-sinopse {
+            font-size: 11px;
+            line-height: 1.5;
+            color: rgba(255,255,255,0.9);
+            text-align: center;
+            margin-bottom: 25px;
+            font-family: 'Georgia', serif;
+        }
+
+        .verso-bio {
+            font-size: 10px;
+            line-height: 1.4;
+            color: rgba(255,255,255,0.8);
+            text-align: center;
+            margin-bottom: 20px;
+            border-top: 1px solid rgba(212,175,55,0.3);
+            padding-top: 15px;
+        }
+
+        .verso-autor-nome {
+            font-size: 11px;
+            font-weight: bold;
+            color: #d4af37;
+            margin-top: auto;
+        }
+
+        /* LOMBADA */
+        .lombada {
+            width: 100%;
+            max-width: 100px;
+            height: 420px;
+            background: linear-gradient(90deg, #1a472a 0%, #0d2515 100%);
+            margin: 20px auto;
+            border: 1px solid #0d2515;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 10px;
+            color: white;
+            writing-mode: vertical-rl;
+            text-orientation: mixed;
+            position: relative;
+        }
+
+        .lombada-titulo {
+            font-size: 11px;
+            font-weight: bold;
+            color: #d4af37;
+            margin-bottom: 15px;
+            letter-spacing: 2px;
+        }
+
+        .lombada-autor {
+            font-size: 9px;
+            color: rgba(255,255,255,0.8);
+            margin-top: 15px;
+        }
+
+        /* COMPARAÇÃO */
+        .comparison {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-top: 40px;
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        .comparison h3 {
+            grid-column: 1 / -1;
+            color: #1a472a;
+            margin-bottom: 20px;
+            font-size: 18px;
+        }
+
+        .comparison-item {
+            background: #f9f9f9;
+            padding: 15px;
+            border-radius: 4px;
+            border-left: 4px solid #d4af37;
+        }
+
+        .comparison-item strong {
+            color: #1a472a;
+            display: block;
+            margin-bottom: 8px;
+        }
+
+        .comparison-item p {
+            font-size: 13px;
+            color: #666;
+            line-height: 1.5;
+        }
+
+        /* 3D EFFECT */
+        .mockup-3d {
+            perspective: 1000px;
+            margin: 40px 0;
+        }
+
+        .book-3d {
+            width: 100%;
+            max-width: 400px;
+            height: 280px;
+            margin: 0 auto;
+            position: relative;
+            transform: rotateY(-15deg) rotateX(5deg);
+            background: white;
+            border-radius: 2px;
+            box-shadow: 
+                -20px 20px 40px rgba(0,0,0,0.3),
+                inset 1px 0 0 rgba(0,0,0,0.1);
+            display: flex;
+            overflow: hidden;
+        }
+
+        .book-3d-front {
+            width: 70%;
+            background: white;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 30px 20px;
+            position: relative;
+        }
+
+        .book-3d-front::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: #d4af37;
+        }
+
+        .book-3d-front::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: #d4af37;
+        }
+
+        .book-3d-spine {
+            width: 20%;
+            background: linear-gradient(90deg, #1a472a 0%, #0d2515 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 5px;
+            writing-mode: vertical-rl;
+            text-orientation: mixed;
+            color: #d4af37;
+            font-size: 10px;
+            font-weight: bold;
+        }
+
+        .book-3d-back {
+            width: 100%;
+            background: #1a472a;
+            display: none;
+        }
+
+        .title-3d {
+            font-size: 24px;
+            font-weight: bold;
+            color: #1a472a;
+            text-align: center;
+            margin-bottom: 15px;
+            line-height: 1.2;
+            font-family: 'Georgia', serif;
+        }
+
+        .subtitle-3d {
+            font-size: 12px;
+            color: #d4af37;
+            font-style: italic;
+            text-align: center;
+            font-family: 'Georgia', serif;
+            margin-bottom: 15px;
+        }
+
+        .author-3d {
+            font-size: 10px;
+            color: #2b2b2b;
+            text-align: center;
+            margin-top: auto;
+        }
+
+        /* INFO SECTIONS */
+        .info-section {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            margin-top: 40px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+
+        .info-section h2 {
+            color: #1a472a;
+            margin-bottom: 20px;
+            font-size: 20px;
+        }
+
+        .info-section p {
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 15px;
+        }
+
+        .specs-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .spec-item {
+            background: #f9f9f9;
+            padding: 15px;
+            border-radius: 4px;
+            border-left: 4px solid #d4af37;
+        }
+
+        .spec-item strong {
+            color: #1a472a;
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        .spec-item code {
+            background: #f0f0f0;
+            padding: 3px 6px;
+            border-radius: 2px;
+            font-size: 12px;
+            color: #2b2b2b;
+        }
+
+        /* PRINT STYLES */
+        @media print {
+            body { background: white; }
+            .mockup-box { box-shadow: none; border: 1px solid #ccc; }
+            .info-section { box-shadow: none; border: 1px solid #ccc; }
+        }
+
+        @media (max-width: 768px) {
+            .mockup-container {
+                grid-template-columns: 1fr;
+            }
+            .specs-grid {
+                grid-template-columns: 1fr;
+            }
+            .comparison {
+                grid-template-columns: 1fr;
+            }
+            .book-3d {
+                transform: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>A Bíblia do Leilão Imobiliário</h1>
+        <p class="subtitle">Mockup de Capa — Conceito Minimalista Recomendado</p>
+
+        <!-- 3D PREVIEW -->
+        <div class="mockup-box">
+            <div class="mockup-label">Visualização 3D (Perspectiva)</div>
+            <div class="mockup-3d">
+                <div class="book-3d">
+                    <div class="book-3d-front">
+                        <div class="title-3d">A Bíblia do Leilão Imobiliário</div>
+                        <div class="separador" style="margin: 15px auto;"></div>
+                        <div class="subtitle-3d">Compre seu Imóvel com até 94% de Desconto</div>
+                        <div class="author-3d">Salomão Von Herclestein</div>
+                    </div>
+                    <div class="book-3d-spine">SALOMÃO VON HERCLESTEIN</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- TRÊS VISTAS: FRENTE, VERSO, LOMBADA -->
+        <div class="mockup-container">
+            <div class="mockup-box">
+                <div class="mockup-label">Capa Frontal</div>
+                <div class="capa-frente">
+                    <div class="titulo-principal">A Bíblia do Leilão Imobiliário</div>
+                    <div class="separador"></div>
+                    <div class="subtitulo-capa">Compre seu Imóvel com até 94% de Desconto</div>
+                    <div class="autor-frente">Salomão Von Herclestein</div>
+                </div>
+                <p style="font-size: 12px; color: #666; margin-top: 15px;">
+                    <strong style="color: #1a472a;">Dimensão:</strong> 170 x 240 mm
+                </p>
+            </div>
+
+            <div class="mockup-box">
+                <div class="mockup-label">Contracapa (Verso)</div>
+                <div class="capa-verso">
+                    <div class="verso-titulo">O QUE VOCÊ VAI APRENDER</div>
+                    <div class="verso-sinopse">
+                        Guia completo para comprar imóveis com até 94% de desconto. 27 capítulos cobrindo base legal, estratégia, riscos e estudos de caso reais. Do fundamento ao lucro.
+                    </div>
+                    <div class="verso-bio">
+                        Salomão Von Herclestein é estrategista financeiro especializado em leilões imobiliários brasileiros. 15+ anos em mercados de capitais. Fundador da Cardinal Protocol.
+                    </div>
+                    <div class="verso-autor-nome">SALOMÃO VON HERCLESTEIN</div>
+                </div>
+                <p style="font-size: 12px; color: #666; margin-top: 15px;">
+                    <strong style="color: #1a472a;">Fundo verde escuro:</strong> #1a472a
+                </p>
+            </div>
+
+            <div class="mockup-box">
+                <div class="mockup-label">Lombada</div>
+                <div class="lombada">
+                    <div class="lombada-titulo">A BÍBLIA DO LEILÃO</div>
+                    <div class="lombada-autor">S. VON HERCLESTEIN</div>
+                </div>
+                <p style="font-size: 12px; color: #666; margin-top: 15px;">
+                    <strong style="color: #1a472a;">Dimensão:</strong> ~20 mm (ajustável por gráfica)
+                </p>
+            </div>
+        </div>
+
+        <!-- PALETA DE CORES -->
+        <div class="info-section">
+            <h2>🎨 Paleta de Cores</h2>
+            <div class="specs-grid">
+                <div class="spec-item">
+                    <strong>Verde Escuro (Primário)</strong>
+                    <p style="font-size: 12px; margin: 8px 0 0 0;">#1a472a</p>
+                    <div style="width: 100%; height: 30px; background: #1a472a; border-radius: 3px; margin-top: 10px; border: 1px solid #ddd;"></div>
+                    <p style="font-size: 11px; color: #999; margin-top: 8px;">Uso: Títulos, frente, texto principal</p>
+                </div>
+                <div class="spec-item">
+                    <strong>Ouro (Secundário)</strong>
+                    <p style="font-size: 12px; margin: 8px 0 0 0;">#d4af37</p>
+                    <div style="width: 100%; height: 30px; background: #d4af37; border-radius: 3px; margin-top: 10px; border: 1px solid #ddd;"></div>
+                    <p style="font-size: 11px; color: #999; margin-top: 8px;">Uso: Acentos, separadores, destaques</p>
+                </div>
+                <div class="spec-item">
+                    <strong>Cinza Escuro (Terciário)</strong>
+                    <p style="font-size: 12px; margin: 8px 0 0 0;">#2b2b2b</p>
+                    <div style="width: 100%; height: 30px; background: #2b2b2b; border-radius: 3px; margin-top: 10px; border: 1px solid #ddd;"></div>
+                    <p style="font-size: 11px; color: #999; margin-top: 8px;">Uso: Texto corpo, legibilidade</p>
+                </div>
+                <div class="spec-item">
+                    <strong>Branco (Fundo)</strong>
+                    <p style="font-size: 12px; margin: 8px 0 0 0;">#ffffff</p>
+                    <div style="width: 100%; height: 30px; background: #ffffff; border-radius: 3px; margin-top: 10px; border: 2px solid #ddd;"></div>
+                    <p style="font-size: 11px; color: #999; margin-top: 8px;">Uso: Frente (background principal)</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- TIPOGRAFIA -->
+        <div class="info-section">
+            <h2>✍️ Tipografia</h2>
+            <div class="specs-grid">
+                <div class="spec-item">
+                    <strong>Título Principal</strong>
+                    <p style="font-size: 11px; color: #666; margin-top: 5px;">Montserrat Bold ou Raleway Bold</p>
+                    <p style="font-size: 28px; font-weight: bold; color: #1a472a; margin: 10px 0; font-family: 'Georgia', serif;">A Bíblia</p>
+                    <p style="font-size: 11px; color: #999;">Tamanho: 36-48pt | Cor: Verde escuro</p>
+                </div>
+                <div class="spec-item">
+                    <strong>Subtítulo</strong>
+                    <p style="font-size: 11px; color: #666; margin-top: 5px;">Crimson Text (serif elegante)</p>
+                    <p style="font-size: 14px; color: #d4af37; margin: 10px 0; font-style: italic; font-family: 'Georgia', serif;">Compre com até 94% desconto</p>
+                    <p style="font-size: 11px; color: #999;">Tamanho: 16-20pt | Cor: Ouro</p>
+                </div>
+                <div class="spec-item">
+                    <strong>Autor</strong>
+                    <p style="font-size: 11px; color: #666; margin-top: 5px;">Montserrat Medium</p>
+                    <p style="font-size: 12px; color: #2b2b2b; margin: 10px 0;">Salomão Von Herclestein</p>
+                    <p style="font-size: 11px; color: #999;">Tamanho: 12-14pt | Cor: Cinza</p>
+                </div>
+                <div class="spec-item">
+                    <strong>Bio / Descrição</strong>
+                    <p style="font-size: 11px; color: #666; margin-top: 5px;">Crimson Text Regular</p>
+                    <p style="font-size: 10px; color: rgba(255,255,255,0.9); margin: 10px 0; font-family: 'Georgia', serif; line-height: 1.4;">Estrategista financeiro especializado em leilões...</p>
+                    <p style="font-size: 11px; color: #999;">Tamanho: 10-11pt | Cor: Branco/Cinza</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- ESPECIFICAÇÕES TÉCNICAS -->
+        <div class="info-section">
+            <h2>📐 Especificações Técnicas</h2>
+            <p><strong>Formato Final:</strong> 170 x 240 mm (A5 horizontal)</p>
+            <p><strong>Arquivo de Trabalho:</strong> 172 x 242 mm (+1mm sangra cada lado)</p>
+            <p><strong>Divisão:</strong> Frente (170x240mm) + Lombada (~20mm) + Verso (170x240mm)</p>
+            <p style="margin-top: 20px; padding-top: 20px; border-top: 1px solid #ddd;"><strong>Para Impressão:</strong></p>
+            <ul style="list-style: none; margin-top: 10px;">
+                <li style="padding: 8px 0; color: #666;">✓ Resolução: 300 DPI CMYK</li>
+                <li style="padding: 8px 0; color: #666;">✓ Formato: PDF/X-1a (print-ready)</li>
+                <li style="padding: 8px 0; color: #666;">✓ Sangra: 1 mm em todos os lados</li>
+                <li style="padding: 8px 0; color: #666;">✓ Modo cores: CMYK (não RGB)</li>
+                <li style="padding: 8px 0; color: #666;">✓ Sem transparências</li>
+            </ul>
+        </div>
+
+        <!-- DIFERENCIAIS -->
+        <div class="info-section">
+            <h2>⭐ Diferenciais Deste Conceito</h2>
+            <div class="comparison">
+                <h3>Por que este design funciona</h3>
+                
+                <div class="comparison-item">
+                    <strong>✓ Minimalista</strong>
+                    <p>Foca no essencial: título, subtítulo, autor. Profissional sem poluição visual. Memorável e atemporal.</p>
+                </div>
+                
+                <div class="comparison-item">
+                    <strong>✓ Diferenciado</strong>
+                    <p>Não é template genérico. Verde + ouro é sofisticado, sinaliza expertise e classe, não "livro comum de negócios".</p>
+                </div>
+                
+                <div class="comparison-item">
+                    <strong>✓ Legível à Distância</strong>
+                    <p>Tipografia clara e grande. Funciona bem em thumbnail (Amazon, Skoob), não depende de detalhes.</p>
+                </div>
+                
+                <div class="comparison-item">
+                    <strong>✓ Pronto para Print</strong>
+                    <p>Sem gradientes complexos, sem fotografia. Custa menos para imprimir, resultado consistente em gráfica.</p>
+                </div>
+                
+                <div class="comparison-item">
+                    <strong>✓ Verso Vendedor</strong>
+                    <p>Verde escuro + ouro criam contraste, sinopse clara convence a compra. Bio do autor adiciona credibilidade.</p>
+                </div>
+                
+                <div class="comparison-item">
+                    <strong>✓ Flexível para Futuro</strong>
+                    <p>Paleta e tipografia permitem expansão futura (versão en inglês, 2ª edição) sem redesign completo.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- PRÓXIMOS PASSOS -->
+        <div class="info-section">
+            <h2>🚀 Próximos Passos</h2>
+            <ol style="margin-left: 20px; line-height: 1.8; color: #666;">
+                <li><strong>Aprove este conceito</strong> ou solicite ajustes (tipografia, cores, layout)</li>
+                <li><strong>Faça foto headshot profissional</strong> para verso (opcional mas recomendado)</li>
+                <li><strong>Contrate designer no Upwork</strong> (R$ 1.000-1.200) com este briefing + mockup</li>
+                <li><strong>Designer apresenta 2-3 conceitos</strong> com base no briefing (2-3 dias)</li>
+                <li><strong>Você escolhe direção e pede ajustes</strong> (1-2 rodadas)</li>
+                <li><strong>Recebe PSD + PDF/X-1a final</strong> pronto para gráfica (10 dias total)</li>
+                <li><strong>Envie para gráfica</strong> junto com arquivo do miolo (livro) para impressão</li>
+            </ol>
+        </div>
+
+        <!-- RODAPÉ -->
+        <div style="margin-top: 60px; padding: 30px; text-align: center; color: #999; font-size: 12px; border-top: 1px solid #ddd;">
+            <p>Mockup criado com fins de conceituação visual</p>
+            <p style="margin-top: 10px;">Para questões, veja BRIEFING_CAPA_LIVRO_DESIGNER.txt</p>
+        </div>
+    </div>
+</body>
+</html>
