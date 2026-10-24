@@ -107,17 +107,21 @@ bids in competition, in which the best offer will be homologated.
 
 1.2 The Difference Between Conventional Purchase and Auction Purchase
 
-╔════════════════════════════════════════════════════════════════╗
-║           CONVENTIONAL PURCHASE vs. AUCTION PURCHASE           ║
-╠═════════════════════╦══════════════════╦═══════════════════════╣
-║ Aspect              ║ Conventional     ║ Auction Purchase      ║
-╠═════════════════════╬══════════════════╬═══════════════════════╣
-║ Negotiation         ║ Direct seller    ║ Via auction, bids     ║
-║ Price               ║ Market (negotia.)║ Highest bid           ║
-║ Property Condition  ║ Free inspection  ║ "As is" condition     ║
-║ Debts               ║ Seller pays      ║ May be assumed        ║
-║ Time                ║ Flexible         ║ Defined by notice     ║
-╚═════════════════════╩══════════════════╩═══════════════════════╝
+Conventional purchase and auction, side by side:
+
+╔════════════════════╦════════════════════════════╦═════════════════════════════╗
+║ Aspect             ║ Conventional purchase      ║ Auction purchase            ║
+╠════════════════════╬════════════════════════════╬═════════════════════════════╣
+║ Negotiation        ║ Direct with the seller     ║ Through bidding at auction  ║
+╠════════════════════╬════════════════════════════╬═════════════════════════════╣
+║ Price              ║ Negotiated with the market ║ Winning bid                 ║
+╠════════════════════╬════════════════════════════╬═════════════════════════════╣
+║ Property condition ║ Free inspection            ║ In the condition it is in   ║
+╠════════════════════╬════════════════════════════╬═════════════════════════════╣
+║ Debts              ║ Seller pays off            ║ May be assumed by the buyer ║
+╠════════════════════╬════════════════════════════╬═════════════════════════════╣
+║ Time               ║ Flexible                   ║ Set by the notice           ║
+╚════════════════════╩════════════════════════════╩═════════════════════════════╝
 
 
 1.3 Why Properties Go to Auction
@@ -132,10 +136,10 @@ Brazilians discovered this possibility and started making bids to buy their own
 homes paying much less. Furthermore, many financial institutions loaded with 
 repossessed properties that needed to be sold facilitated negotiation, spread 
 payments and, in many cases, even financed the winning bid with terms almost as 
-long as a mortgage and reduced rates.
+long as a mortgage and rates that vary by institution.
 
 
-1.4 The History of Auctions in Brazil
+1.4 The Legal Basis of Real Estate Auctions
 
 The real estate auction is based on Law number 9,514, of November 20, 1997, which 
 provides for the Real Estate Financing System, institutes the fiduciary alienation 
@@ -320,7 +324,7 @@ digital.
 
 Where to find:
 
-• Major newspapers, which already have a section with notices
+• Large-circulation newspapers publish auction notices and reports.
 • Auctioneer websites
 • Court websites
 
@@ -329,19 +333,21 @@ Where to find:
 
 Must state the main information about the asset, such as:
 
-╔════════════════════════════════════════════════════════════════╗
-║              ESSENTIAL INFORMATION IN THE NOTICE               ║
-╠════════════════════════════════╦═══════════════════════════════╣
-║ Information                    ║ Why It Matters                ║
-╠════════════════════════════════╬═══════════════════════════════╣
-║ Square Footage                 ║ Defines size and value        ║
-║ Location                       ║ Determines market value       ║
-║ Property Condition             ║ Indicates need for renovation ║
-║ Occupancy                      ║ Occupied or unoccupied?       ║
-║ Pending Debts                  ║ Property taxes, condo, etc.   ║
-║ Minimum Value                  ║ Starting bid                  ║
-║ Payment Conditions             ║ Cash, installment, or financed║
-╚════════════════════════════════╩═══════════════════════════════╝
+Conventional purchase and auction, side by side:
+
+╔════════════════════╦════════════════════════════╦═════════════════════════════╗
+║ Aspect             ║ Conventional purchase      ║ Auction purchase            ║
+╠════════════════════╬════════════════════════════╬═════════════════════════════╣
+║ Negotiation        ║ Direct with the seller     ║ Through bidding at auction  ║
+╠════════════════════╬════════════════════════════╬═════════════════════════════╣
+║ Price              ║ Negotiated with the market ║ Winning bid                 ║
+╠════════════════════╬════════════════════════════╬═════════════════════════════╣
+║ Property condition ║ Free inspection            ║ In the condition it is in   ║
+╠════════════════════╬════════════════════════════╬═════════════════════════════╣
+║ Debts              ║ Seller pays off            ║ May be assumed by the buyer ║
+╠════════════════════╬════════════════════════════╬═════════════════════════════╣
+║ Time               ║ Flexible                   ║ Set by the notice           ║
+╚════════════════════╩════════════════════════════╩═════════════════════════════╝
 
 
 5.3 How to Interpret the Legal Language of the Notice
@@ -360,8 +366,7 @@ Chapter 6: Where to Find Auctions
 
 6.1 Major Newspapers
 
-Newspapers like O Globo, O Estado de São Paulo, Valor Econômico have weekly 
-sections teaching everything about auctions and informing available opportunity 
+Large-circulation newspapers publish auction notices in their classified sections and in dedicated sections.
 purchases.
 
 
@@ -379,8 +384,7 @@ portals.
 
 6.4 Digital Platforms That Bring Together Multiple Auctioneers
 
-A digital platform that brings together properties available in 1,500 auctioneers 
-is beginning to operate, making it easier to search for opportunities.
+Digital platforms bring together properties from several auctioneers. Before using one, check the integrity and registration of the auctioneers listed.
 
 
 6.5 How to Set Up Alerts to Not Miss Opportunities
@@ -520,20 +524,24 @@ few days to several months, depending on the complexity of the case.
 
 Many financial institutions have facilitated negotiation, spread the value of the 
 purchase and, in many cases, even financed the winning bid, with terms almost as 
-long as a mortgage and with reduced rates.
+long as a mortgage and with rates that vary by institution.
 
 
 9.4 Costs Beyond the Bid
 
-╔═══════════════════════════════╦═════════════════════════════════╗
-║ Cost                          ║ Description                     ║
-╠═══════════════════════════════╬═════════════════════════════════╣
-║ ITBI                          ║ Real Estate Transfer Tax (SP: 3%) ║
-║ Registry Fees (Emoluments)    ║ Property registration (0.5-1%)  ║
-║ Auctioneer Fees               ║ Commission on bid (min. 5%)        ║
-║ Retroactive Debts             ║ Property taxes, condo (Variable)║
-║ Registration of Purchase      ║ Registry office (Variable)      ║
-╚═══════════════════════════════╩═════════════════════════════════╝
+╔════════════════════════════╦═══════════════════════════════════╗
+║ Cost                       ║ Description                       ║
+╠════════════════════════════╬═══════════════════════════════════╣
+║ ITBI                       ║ Real Estate Transfer Tax (SP: 3%) ║
+╠════════════════════════════╬═══════════════════════════════════╣
+║ Registry Fees (Emoluments) ║ Property registration (0.5-1%)    ║
+╠════════════════════════════╬═══════════════════════════════════╣
+║ Auctioneer Fees            ║ Commission on bid (min. 5%)       ║
+╠════════════════════════════╬═══════════════════════════════════╣
+║ Retroactive Debts          ║ Property taxes, condo (Variable)  ║
+╠════════════════════════════╬═══════════════════════════════════╣
+║ Registration of Purchase   ║ Registry office (Variable)        ║
+╚════════════════════════════╩═══════════════════════════════════╝
 
 
 9.5 Financing After the Auction
@@ -583,13 +591,15 @@ Warning: the occupant may allege that the procedure was invalid. Read the notice
 
 10.4 Timeframes and Legal Costs
 
-╔═══════════════════════════════╦═════════════════════════════════╗
-║ Aspect                        ║ Estimate                        ║
-╠═══════════════════════════════╬═════════════════════════════════╣
-║ Time for voluntary eviction   ║ 15 to 30 days                   ║
-║ Time for judicial eviction    ║ 6 months to 2 years             ║
-║ Legal costs                   ║ Lawyer, court fees, expertise   ║
-╚═══════════════════════════════╩═════════════════════════════════╝
+╔═════════════════════════════╦═══════════════════════════════╗
+║ Aspect                      ║ Estimate                      ║
+╠═════════════════════════════╬═══════════════════════════════╣
+║ Time for voluntary eviction ║ 15 to 30 days                 ║
+╠═════════════════════════════╬═══════════════════════════════╣
+║ Time for judicial eviction  ║ 6 months to 2 years           ║
+╠═════════════════════════════╬═══════════════════════════════╣
+║ Legal costs                 ║ Lawyer, court fees, expertise ║
+╚═════════════════════════════╩═══════════════════════════════╝
 
 
 10.5 Out-of-Court Settlements with Occupants
@@ -624,16 +634,15 @@ If not possible, be prepared for surprises.
 
 11.2 Essential Renovations vs. Aesthetic Renovations
 
-╔═══════════════════════════════╦═════════════════════════════════╗
-║ Type of Renovation            ║ Description / Priority          ║
-╠═══════════════════════════════╬═════════════════════════════════╣
-║ Essential                     ║ Structure, electrical, plumbing ║
-║                               ║ roof — HIGH PRIORITY            ║
-║ Aesthetic                     ║ Painting, flooring, finishing   ║
-║                               ║ — MEDIUM PRIORITY               ║
-║ Luxury                        ║ Decoration, landscaping         ║
-║                               ║ — LOW PRIORITY                  ║
-╚═══════════════════════════════╩═════════════════════════════════╝
+╔════════════════════╦══════════════════════════════════════════════════════╗
+║ Type of Renovation ║ Description / Priority                               ║
+╠════════════════════╬══════════════════════════════════════════════════════╣
+║ Essential          ║ Structure, electrical, plumbing roof — HIGH PRIORITY ║
+╠════════════════════╬══════════════════════════════════════════════════════╣
+║ Aesthetic          ║ Painting, flooring, finishing — MEDIUM PRIORITY      ║
+╠════════════════════╬══════════════════════════════════════════════════════╣
+║ Luxury             ║ Decoration, landscaping — LOW PRIORITY               ║
+╚════════════════════╩══════════════════════════════════════════════════════╝
 
 
 11.3 Budget: How Not to Go Over Plan
@@ -649,9 +658,9 @@ A well-done renovation can increase the property's value by 20-40%. A poorly-don
 renovation may add no value or even reduce the price.
 
 
-11.5 When It's Worth It to Sell "As Is"
+11.5 When It's Worth It to Sell in the Current Condition
 
-In some cases, it's better to sell the property "as is" (in the condition it is in) 
+In some cases, it's better to sell the property in the condition it is in 
 for investors who prefer to do the renovation themselves.
 
 
@@ -668,23 +677,22 @@ Chapter 12: The Sale — Realized Profit
 
 12.2 Sales Strategies
 
-╔═══════════════════════════════╦═════════════════════════════════╗
-║ Strategy                      ║ Advantage / Disadvantage        ║
-╠═══════════════════════════════╬═════════════════════════════════╣
-║ Traditional Real Estate Agents║ Reach, expertise /              ║
-║                               ║ High commission (negotiable)          ║
-║ Direct Sale (OLX, Zap, Viva)  ║ Save commissions /              ║
-║                               ║ Seller's work                   ║
-║ Sale to Other Investors       ║ Quick sale /                    ║
-║                               ║ Lower price                     ║
-║ Auction Again                 ║ Quick sale /                    ║
-║                               ║ Below market price              ║
-╚═══════════════════════════════╩═════════════════════════════════╝
+╔════════════════════════════════╦═════════════════════════════════════════════════╗
+║ Strategy                       ║ Advantage / Disadvantage                        ║
+╠════════════════════════════════╬═════════════════════════════════════════════════╣
+║ Traditional Real Estate Agents ║ Reach, expertise / High commission (negotiable) ║
+╠════════════════════════════════╬═════════════════════════════════════════════════╣
+║ Direct Sale (OLX, Zap, Viva)   ║ Save commissions / Seller's work                ║
+╠════════════════════════════════╬═════════════════════════════════════════════════╣
+║ Sale to Other Investors        ║ Quick sale / Lower price                        ║
+╠════════════════════════════════╬═════════════════════════════════════════════════╣
+║ Auction Again                  ║ Quick sale / Below market price                 ║
+╚════════════════════════════════╩═════════════════════════════════════════════════╝
 
 
 12.3 Average Sale Time: 12 Months (and How to Reduce It)
 
-The average for sales is 12 months. To reduce this timeframe:
+The average sale takes about 12 months, in the author's experience, and varies by case. To reduce this timeframe:
 
 1. Price competitively
 2. Invest in professional photos
@@ -702,8 +710,8 @@ ROI (Return on Investment) in the long run.
 
 When you sell the property for more than the acquisition cost, the difference is a capital gain, subject to personal income tax at progressive rates: 15% up to R$ 5 million of gain; 17.5% from R$ 5 million to R$ 10 million; 20% from R$ 10 million to R$ 30 million; and 22.5% above R$ 30 million. There are two important exemptions:
 
-1. A single property sold for up to R$ 440,000, with no other sale in the last 5 years (art. 23 of Law 9.250/95).
-2. Sale of a residential property with the full proceeds reinvested in another residential property in Brazil within 180 days (art. 39 of Law 11.196/2005). Partial reinvestment, in construction or land, does not guarantee the exemption.
+1. A single property sold for up to R$ 440,000, with no other sale in the last 5 years (art. 23 of Law 9,250/95; Solução de Consulta Cosit 264/2023).
+2. Sale of a residential property with the full proceeds reinvested in another residential property in Brazil within 180 days (art. 39 of Law 11,196/2005; Solução de Consulta Cosit 99,004/2024 and 108/2026). Partial reinvestment reduces the exemption proportionally. The Federal Revenue accepts purchases of ready, off-plan or under-construction residential property, and repayment of financing on a residential property already owned. It does not accept construction on land the taxpayer already owns.
 
 The taxable gain is calculated in the GCAP system and paid by DARF. Even when exempt, the sale must be reported in the tax return. This text is informational and does not replace the advice of an accountant.
 
@@ -736,7 +744,7 @@ Practical Example:
 ROI = (90,000 / 230,000) × 100 = 39.1%
 
 
-13.2 ROE (Return on Equity): The Definitive Indicator
+13.2 ROE (Return on Equity): A Complementary Indicator
 
 ROE (Return on Equity) measures return on own capital invested.
 
@@ -784,14 +792,23 @@ Chapter 14: Comparison with Other Investments
 
 The figures below come from public sources, with the date of each figure. They measure different things, as explained at the end of this section.
 
-║ Indicator ║ Value ║ Source and date ║
-║ Savings account (rule: 0.5% per month + TR) ║ 8.32% over 12 months ║ Central Bank of Brazil, to May 2026 ║
-║ CDI ║ 14.77% over 12 months ║ Central Bank of Brazil, July 2026 ║
-║ Selic (target) ║ 14.25% per year ║ Copom, August 2026 ║
-║ IFIX (real estate funds) ║ 8.24% over 12 months ║ B3, to August 2026 ║
-║ IFIX dividend yield ║ 12.53% per year ║ BB Análise, August 2026 ║
-║ Ibovespa ║ 25.45% over 12 months ║ B3, via Elos Ayta, to August 2026 ║
-║ Property auction ║ 30% to 60% discount ║ Cases in Chapter 22 ║
+╔═════════════════════════════════════════════╦═══════════════════════╦═════════════════════════════════════╗
+║ Indicator                                   ║ Value                 ║ Source and date                     ║
+╠═════════════════════════════════════════════╬═══════════════════════╬═════════════════════════════════════╣
+║ Savings account (rule: 0.5% per month + TR) ║ 8.32% over 12 months  ║ Central Bank of Brazil, to May 2026 ║
+╠═════════════════════════════════════════════╬═══════════════════════╬═════════════════════════════════════╣
+║ CDI                                         ║ 14.77% over 12 months ║ Central Bank of Brazil, July 2026   ║
+╠═════════════════════════════════════════════╬═══════════════════════╬═════════════════════════════════════╣
+║ Selic (target)                              ║ 14.25% per year       ║ Copom, August 2026                  ║
+╠═════════════════════════════════════════════╬═══════════════════════╬═════════════════════════════════════╣
+║ IFIX (real estate funds)                    ║ 8.24% over 12 months  ║ B3, to August 2026                  ║
+╠═════════════════════════════════════════════╬═══════════════════════╬═════════════════════════════════════╣
+║ IFIX dividend yield                         ║ 12.53% per year       ║ BB Análise, August 2026             ║
+╠═════════════════════════════════════════════╬═══════════════════════╬═════════════════════════════════════╣
+║ Ibovespa                                    ║ 25.45% over 12 months ║ B3, via Elos Ayta, to August 2026   ║
+╠═════════════════════════════════════════════╬═══════════════════════╬═════════════════════════════════════╣
+║ Property auction                            ║ 30% to 60% discount   ║ Cases in Chapter 22                 ║
+╚═════════════════════════════════════════════╩═══════════════════════╩═════════════════════════════════════╝
 
 Why the figures are not directly comparable: savings, the CDI and the Selic are annual rates of fixed-income investments. IFIX measures the change in fund unit prices plus dividends. The auction discount is the difference between the price paid and the market value at the time of purchase, not an annual yield. The real return depends on term, costs, taxes and the time the property sits without income. For this reason, this book does not claim that auctions yield more than other investments. The cases in Chapter 22 show results between 0% and 59%, over periods of up to 2 years.
 
@@ -862,43 +879,41 @@ Chapter 16: The Magic of Compound Interest Applied to Auctions
 
 16.1 One Deal Per Year: Is It Possible?
 
-Considering that the average for sales is 12 months, it is possible to do one 
+Considering that the average sale takes about 12 months, it is possible to do one 
 deal per year. With a little experience and dedication, you can find a property 
 per year.
 
 
-16.2 Projection for 10, 20 and 30 Years
+16.2 Projection for 10 Years
 
-Considering ROE (Return on Equity) of 35% per year:
+Considering, as an illustrative assumption, an annual return of 35%:
 
-╔═════════╦═══════════════════════════════════╗
-║ Period  ║ Wealth (starting from R$ 100k)   ║
-╠═════════╬═══════════════════════════════════╣
-║ 10 years║ R$ 2,000,000                      ║
-╚═════════╩═══════════════════════════════════╝
+╔══════════╦════════════════════════════════╗
+║ Period   ║ Wealth (starting from R$ 100k) ║
+╠══════════╬════════════════════════════════╣
+║ 10 years ║ R$ 2,000,000                   ║
+╚══════════╩════════════════════════════════╝
 
 
 16.3 Warren Buffett's Example (20% a.a.) vs. Auction (35% a.a.)
 
-Warren Buffett, the greatest investor in the American stock market and consequently 
-in the world, achieved throughout his career an average ROE of 20%, considering 
-that all money would be reinvested.
+Warren Buffett, one of the best-known investors in the world, achieved, at Berkshire Hathaway, a compound annual return of 19.8% between 1965 and 2023, according to the company's own data, with earnings reinvested.
 
-With 20% ROE, investing R$ 100,000 today:
+With an annual return of 20%, investing R$ 100,000 today:
 
-╔═════════╦═══════════════════════════════════╗
-║ Period  ║ Wealth (starting from R$ 100k)   ║
-╠═════════╬═══════════════════════════════════╣
-║ 10 years║ R$ 620,000                        ║
-╚═════════╩═══════════════════════════════════╝
+╔══════════╦════════════════════════════════╗
+║ Period   ║ Wealth (starting from R$ 100k) ║
+╠══════════╬════════════════════════════════╣
+║ 10 years ║ R$ 620,000                     ║
+╚══════════╩════════════════════════════════╝
 
 With 35% ROE (real estate auction):
 
-╔═════════╦═══════════════════════════════════╗
-║ Period  ║ Wealth (starting from R$ 100k)   ║
-╠═════════╬═══════════════════════════════════╣
-║ 10 years║ R$ 2,000,000                      ║
-╚═════════╩═══════════════════════════════════╝
+╔══════════╦════════════════════════════════╗
+║ Period   ║ Wealth (starting from R$ 100k) ║
+╠══════════╬════════════════════════════════╣
+║ 10 years ║ R$ 2,000,000                   ║
+╚══════════╩════════════════════════════════╝
 
 
 16.4 The Limits of the Model: When Wealth Becomes Too Large
@@ -943,7 +958,7 @@ As your wealth grows, you will need:
 • Lawyers and accountants
 
 
-17.4 How to Exit Real Estate and Migrate to Other Assets
+17.4 Balancing Real Estate and Other Assets
 
 Diversification should be used in this balance between high and low risk investments. 
 What makes the most sense to me is: diversify.
@@ -1128,16 +1143,21 @@ In August, I purchased an apartment in Vila Madalena, São Paulo, for R$ 180,000
 I spent over R$ 50,000 on other expenses. Time passed, and I resold the property 
 for R$ 320,000. This is a profit of R$ 90,000 in less than 12 months.
 
-╔════════════════╦═════════════════════╗
-║ Item           ║ Value               ║
-╠════════════════╬═════════════════════╣
-║ Purchase       ║ R$ 180,000          ║
-║ Costs          ║ R$ 50,000           ║
-║ Investment     ║ R$ 230,000          ║
-║ Sale           ║ R$ 320,000          ║
-║ Profit         ║ R$ 90,000           ║
-║ ROI            ║ 39.1%               ║
-╚════════════════╩═════════════════════╝
+╔════════════╦════════════╗
+║ Item       ║ Value      ║
+╠════════════╬════════════╣
+║ Purchase   ║ R$ 180,000 ║
+╠════════════╬════════════╣
+║ Costs      ║ R$ 50,000  ║
+╠════════════╬════════════╣
+║ Investment ║ R$ 230,000 ║
+╠════════════╬════════════╣
+║ Sale       ║ R$ 320,000 ║
+╠════════════╬════════════╣
+║ Profit     ║ R$ 90,000  ║
+╠════════════╬════════════╣
+║ ROI        ║ 39.1%      ║
+╚════════════╩════════════╝
 
 
 22.2 Case 2: Occupied Property That Took 2 Years to Evict
@@ -1147,17 +1167,23 @@ An investor bought an occupied property for R$ 150,000. Judicial eviction took
 2 years and cost R$ 40,000 in lawyer fees and court costs. In the end, sold for 
 R$ 250,000.
 
-╔════════════════════════════╦═════════════════════╗
-║ Item                       ║ Value               ║
-╠════════════════════════════╬═════════════════════╣
-║ Purchase                   ║ R$ 150,000          ║
-║ Eviction Costs             ║ R$ 40,000           ║
-║ Renovation                 ║ R$ 20,000           ║
-║ Total Investment           ║ R$ 210,000          ║
-║ Sale                       ║ R$ 250,000          ║
-║ Profit                     ║ R$ 40,000           ║
-║ ROI                        ║ 19% (in 2 years)    ║
-╚════════════════════════════╩═════════════════════╝
+╔══════════════════╦══════════════════╗
+║ Item             ║ Value            ║
+╠══════════════════╬══════════════════╣
+║ Purchase         ║ R$ 150,000       ║
+╠══════════════════╬══════════════════╣
+║ Eviction Costs   ║ R$ 40,000        ║
+╠══════════════════╬══════════════════╣
+║ Renovation       ║ R$ 20,000        ║
+╠══════════════════╬══════════════════╣
+║ Total Investment ║ R$ 210,000       ║
+╠══════════════════╬══════════════════╣
+║ Sale             ║ R$ 250,000       ║
+╠══════════════════╬══════════════════╣
+║ Profit           ║ R$ 40,000        ║
+╠══════════════════╬══════════════════╣
+║ ROI              ║ 19% (in 2 years) ║
+╚══════════════════╩══════════════════╝
 
 
 22.3 Case 3: The Auction with Fierce Competition That Almost Lost Money
@@ -1166,16 +1192,21 @@ R$ 250,000.
 An investor got into fierce bidding and paid R$ 300,000 for a property appraised 
 at R$ 350,000. Costs were R$ 70,000. Fierce competition eroded all profit.
 
-╔════════════════╦═════════════════════╗
-║ Item           ║ Value               ║
-╠════════════════╬═════════════════════╣
-║ Purchase       ║ R$ 300,000          ║
-║ Costs          ║ R$ 70,000           ║
-║ Investment     ║ R$ 370,000          ║
-║ Sale           ║ R$ 370,000          ║
-║ Profit         ║ R$ 0                ║
-║ ROI            ║ 0%                  ║
-╚════════════════╩═════════════════════╝
+╔════════════╦════════════╗
+║ Item       ║ Value      ║
+╠════════════╬════════════╣
+║ Purchase   ║ R$ 300,000 ║
+╠════════════╬════════════╣
+║ Costs      ║ R$ 70,000  ║
+╠════════════╬════════════╣
+║ Investment ║ R$ 370,000 ║
+╠════════════╬════════════╣
+║ Sale       ║ R$ 370,000 ║
+╠════════════╬════════════╣
+║ Profit     ║ R$ 0       ║
+╠════════════╬════════════╣
+║ ROI        ║ 0%         ║
+╚════════════╩════════════╝
 
 
 22.4 Case 4: The Property That Yielded 59% Profit in 6 Months
@@ -1184,16 +1215,21 @@ at R$ 350,000. Costs were R$ 70,000. Fierce competition eroded all profit.
 An investor bought a property at auction for R$ 200,000, a property appraised at 
 R$ 300,000. Spent R$ 20,000 on renovation and sold for R$ 350,000.
 
-╔════════════════╦═════════════════════╗
-║ Item           ║ Value               ║
-╠════════════════╬═════════════════════╣
-║ Purchase       ║ R$ 200,000          ║
-║ Costs          ║ R$ 20,000           ║
-║ Investment     ║ R$ 220,000          ║
-║ Sale           ║ R$ 350,000          ║
-║ Profit         ║ R$ 130,000          ║
-║ ROI            ║ 59.1% (in 6 months) ║
-╚════════════════╩═════════════════════╝
+╔════════════╦═════════════════════╗
+║ Item       ║ Value               ║
+╠════════════╬═════════════════════╣
+║ Purchase   ║ R$ 200,000          ║
+╠════════════╬═════════════════════╣
+║ Costs      ║ R$ 20,000           ║
+╠════════════╬═════════════════════╣
+║ Investment ║ R$ 220,000          ║
+╠════════════╬═════════════════════╣
+║ Sale       ║ R$ 350,000          ║
+╠════════════╬═════════════════════╣
+║ Profit     ║ R$ 130,000          ║
+╠════════════╬═════════════════════╣
+║ ROI        ║ 59.1% (in 6 months) ║
+╚════════════╩═════════════════════╝
 
 
 22.5 Case 5: A Beginner's First Auction (Mistakes and Successes)
@@ -1203,17 +1239,23 @@ A beginner bought a property without doing an inspection. Discovered it needed
 R$ 50,000 in renovations that hadn't been foreseen. However, the property was in 
 a valued neighborhood and sold quickly.
 
-╔════════════════╦═════════════════════╗
-║ Item           ║ Value               ║
-╠════════════════╬═════════════════════╣
-║ Purchase       ║ R$ 160,000          ║
-║ Expected Costs ║ R$ 10,000           ║
-║ Unexpected Costs║ R$ 50,000           ║
-║ Investment     ║ R$ 220,000          ║
-║ Sale           ║ R$ 280,000          ║
-║ Profit         ║ R$ 60,000           ║
-║ ROI            ║ 27.3%               ║
-╚════════════════╩═════════════════════╝
+╔══════════════════╦════════════╗
+║ Item             ║ Value      ║
+╠══════════════════╬════════════╣
+║ Purchase         ║ R$ 160,000 ║
+╠══════════════════╬════════════╣
+║ Expected Costs   ║ R$ 10,000  ║
+╠══════════════════╬════════════╣
+║ Unexpected Costs ║ R$ 50,000  ║
+╠══════════════════╬════════════╣
+║ Investment       ║ R$ 220,000 ║
+╠══════════════════╬════════════╣
+║ Sale             ║ R$ 280,000 ║
+╠══════════════════╬════════════╣
+║ Profit           ║ R$ 60,000  ║
+╠══════════════════╬════════════╣
+║ ROI              ║ 27.3%      ║
+╚══════════════════╩════════════╝
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -1276,17 +1318,13 @@ repossessed properties that needed to be sold facilitated negotiation.
 
 24.2 The Role of Technology and Online Auctions
 
-A digital platform that brings together properties available in 1,500 auctioneers 
-is beginning to operate. The vast majority of auctions today occur online, making 
+Digital platforms bring together properties from several auctioneers. The vast majority of auctions today occur online, making 
 it easier for investors from across the country to participate.
 
 
 24.3 What to Expect for the Next 10 Years
 
-Newspapers like O Globo, O Estado de São Paulo, Valor Econômico have weekly 
-sections teaching everything about auctions and informing available purchase 
-opportunities. Economic commentators on radio stations CBN and Bandeirantes have 
-already spoken much about the subject.
+Large-circulation newspapers publish auction notices in their classified sections and in dedicated sections.
 
 
 24.4 The Impact of Artificial Intelligence on Opportunity Analysis
@@ -1402,8 +1440,8 @@ Security deposit: Many auctions require the deposit of a security amount (usuall
 
 26.4 The Notice and Due Diligence (Critical Analysis)
 
-"Due diligence" is the most critical stage and cannot be neglected. Unlike 
-traditional purchases, the property at auction is sold "as is".
+Prior analysis of the property (due diligence) is the most critical stage and cannot be neglected. Unlike 
+traditional purchases, the property at auction is sold in the condition it is in.
 
 The Notice: It is the document that governs the auction. Must be read carefully. 
 It contains all information about the property, debts, occupancy and payment 
@@ -1426,7 +1464,9 @@ Rural Properties:
 • Acquisition by foreign natural persons is limited to 50 indefinite exploitation 
   modules
 
-• For areas between 3 and 50 modules, INCRA authorization is required
+• Property of up to 3 modules is free of authorization, but buying more than one such property also requires authorization
+
+• For areas between 3 and 50 modules, INCRA authorization is required; above 20 modules, approval of the exploration project is also required (art. 7 of Law 5,709/71)
 • Brazilian companies with a majority of foreign capital are treated as foreign 
   for these purposes
 
@@ -1462,7 +1502,7 @@ A foreign investor should not act alone. Legal and bureaucratic complexity makes
 specialized legal advice support not just recommended, but essential.
 
 Process Coordinator: A local law firm can act as a "command center", coordinating 
-legal, exchange, due diligence and property registration aspects of the deal.
+legal, exchange, property-analysis and registry aspects of the deal.
 
 Prior Preparation: Legal advice can prepare the investor before even defining 
 the asset, ensuring that the investment structure, documents and banking channels 
@@ -1474,7 +1514,7 @@ are ready for execution.
 1. Obtain CPF
 2. Open a bank account in Brazil (or plan foreign exchange transfer)
 3. Select an urban property to avoid complex restrictions
-4. Perform complete due diligence: analyze the notice, property registration, 
+4. Perform a complete prior analysis: analyze the notice, property registration, 
    debts and occupancy situation
 
 5. If necessary, seek authorizations (INCRA, CDN) in advance
@@ -1541,15 +1581,13 @@ here is to plant a seed on the subject in your head so that later you seek
 knowledge and make it grow, and who knows if it transforms into the realization 
 of your goals.
 
-I have no doubt that whoever starts investing in judicial real estate auctions 
-will not regret it.
+I hope this book helps you start with caution and knowledge.
 
 Invitation to the Investor Community
 
 I thank you for coming this far and having read all of this work.
 
-I invite you to be part of the community of investors who are transforming their 
-lives through real estate auctions.
+I invite you to be part of the community of investors who invest in real estate auctions with knowledge and discipline.
 
 How to Get in Touch with the Author
 
@@ -1567,7 +1605,7 @@ I wish you great deals.
 APPENDICES
 ════════════════════════════════════════════════════════════════════════════════
 
-Appendix A: Full Text of Law 9,514/97 (Most Relevant Provisions)
+Appendix A: Main Provisions of Law 9,514/97
 ═══════════════════════════════════════════════════════════════════════════════
 
 Law No. 9,514, of November 20, 1997
@@ -1595,57 +1633,43 @@ provide services compatible with their activities.
 Appendix B: Glossary of Technical Terms (Common Law vs. Civil Law)
 ═══════════════════════════════════════════════════════════════════════════════
 
-╔════════════════════╦═════════════════════╦══════════════════════════════════╗
-║ Term               ║ Definition          ║ Application in Context          ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Purchase           ║ The act by which the║ Real estate auction purchase    ║
-║                    ║ buyer acquires the  ║ process                         ║
-║                    ║ property at auction ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Fiduciary          ║ Transfer of         ║ Debt security                   ║
-║ Alienation         ║ ownership as        ║                                  ║
-║                    ║ guarantee           ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ CRI                ║ Certificate of Real ║ Real estate credit security     ║
-║                    ║ Estate Receivables  ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Common Law         ║ Legal system based  ║ Basis for international        ║
-║                    ║ on precedents       ║ financial contracts (~80% of    ║
-║                    ║                     ║ cross-border contracts)         ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Civil Law          ║ Legal system based  ║ Brazilian legal system          ║
-║                    ║ on written codes    ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Notice             ║ Document that       ║ Auction "bible"                 ║
-║                    ║ governs the auction ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Homologation       ║ Court approval of   ║ Formalization of purchase       ║
-║                    ║ the purchase        ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Taking Possession  ║ Court action to     ║ Take possession of purchased    ║
-║                    ║ take possession     ║ property                        ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ ITBI               ║ Real Estate         ║ Purchase cost (SP: 3%)            ║
-║                    ║ Transfer Tax        ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Extrajudicial      ║ Auction outside     ║ Non-payment of 3+ installments  ║
-║ Auction            ║ judicial process    ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Judicial Auction   ║ Auction within      ║ Real estate debt collection     ║
-║                    ║ judicial process    ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Registration       ║ Document from       ║ Property history                ║
-║                    ║ registry with       ║                                  ║
-║                    ║ history             ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ ROI                ║ Return on           ║ Profit / Investment (in %)      ║
-║                    ║ Investment          ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ ROE                ║ Return on Equity    ║ Profit / Own Capital (in %)     ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ SFI                ║ Real Estate         ║ Regulatory framework for        ║
-║                    ║ Financing System    ║ auctions                        ║
-╚════════════════════╩═════════════════════╩══════════════════════════════════╝
+╔═══════════════════╦═════════════════════════════════════════════════════════════╦═════════════════════════════════════════════╗
+║ Term              ║ Definition                                                  ║ Application in Context                      ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ Purchase          ║ The act by which the buyer acquires the property at auction ║ Real estate auction purchase process        ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ Fiduciary         ║ Transfer of                                                 ║ Debt security                               ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ Alienation        ║ ownership as guarantee                                      ║                                             ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ CRI               ║ Certificate of Real Estate Receivables                      ║ Real estate credit security                 ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ Common Law        ║ Legal system based on precedents                            ║ Basis for international financial contracts ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ Civil Law         ║ Legal system based on written codes                         ║ Brazilian legal system                      ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ Notice            ║ Document that governs the auction                           ║ Auction "bible"                             ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ Homologation      ║ Court approval of the purchase                              ║ Formalization of purchase                   ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ Taking Possession ║ Court action to take possession                             ║ Take possession of purchased property       ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ ITBI              ║ Real Estate Transfer Tax                                    ║ Purchase cost (SP: 3%)                      ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ Extrajudicial     ║ Auction outside                                             ║ Non-payment of 3+ installments              ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ Auction           ║ judicial process                                            ║                                             ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ Judicial Auction  ║ Auction within judicial process                             ║ Real estate debt collection                 ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ Registration      ║ Document from registry with history                         ║ Property history                            ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ ROI               ║ Return on Investment                                        ║ Profit / Investment (in %)                  ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ ROE               ║ Return on Equity                                            ║ Profit / Own Capital (in %)                 ║
+╠═══════════════════╬═════════════════════════════════════════════════════════════╬═════════════════════════════════════════════╣
+║ SFI               ║ Real Estate Financing System                                ║ Regulatory framework for auctions           ║
+╚═══════════════════╩═════════════════════════════════════════════════════════════╩═════════════════════════════════════════════╝
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -1740,7 +1764,7 @@ Discounts vary by property, auction stage and notice. In practice, they usually 
 
 Many financial institutions have facilitated negotiation, spread the purchase 
 value and, in many cases, even financed the winning bid, with terms almost as 
-long as a mortgage and with reduced rates.
+long as a mortgage and with rates that vary by institution.
 
 
 4. What Happens If the Property Is Occupied?
@@ -1751,13 +1775,12 @@ possession may take some time, in addition to more legal costs.
 
 5. How Long Does It Take to Sell?
 
-The average for sales is 12 months.
+The average sale takes about 12 months, in the author's experience, and varies by case.
 
 
 6. What Is the Average ROI?
 
-Considering all costs involved in acquiring a property and sale expenses, it is 
-possible to achieve, in a single deal, an ROI between 50% and 60%.
+The cases in Chapter 22 show ROI between 0% and 59%, after purchase, renovation and sale costs. The result of each deal depends on the case.
 
 
 7. Can Foreigners Participate in Auctions in Brazil?
@@ -1802,40 +1825,18 @@ References verified on October 23, 2026.
 
 12. INSTITUTE OF ADVANCED LEGAL STUDIES (IALS), UNIVERSITY OF LONDON. Book Launch of Contemporary Law in Common Law and Civil Law. News item published in 2025. Available at: ials.sas.ac.uk.
 
-13. FEDERAL REVENUE OF BRAZIL. Tax ruling (Solução de Consulta) on capital gains exemption on the sale of a residential property (individual income tax). [ruling number to be completed before publication]
+13. FEDERAL REVENUE OF BRAZIL. Solução de Consulta Cosit nº 264, of October 30, 2023 (exemption of R$ 440,000).
+
+14. FEDERAL REVENUE OF BRAZIL. Solução de Consulta Cosit nº 99,004, of March 14, 2024 (repayment of financing on a residential property).
+
+15. FEDERAL REVENUE OF BRAZIL. Solução de Consulta Cosit nº 108, of July 1, 2026 (reinvestment in residential property).
 
 
 ════════════════════════════════════════════════════════════════════════════════
 ABOUT THE AUTHOR
 ════════════════════════════════════════════════════════════════════════════════
 
-Solomon Von Herclestein is a financial strategist and economist trained at Estácio 
-University, with complementary courses at Bocconi University (Italy), Harvard 
-University and Yale University (USA). He holds 141 global certifications, including 
-credentials from the United Nations (UN) and Interpol, with focus on fraud 
-prevention, international compliance and financial crimes.
-
-He has been a contributor to Investing.com since 2018, where he developed and uses 
-the proprietary HUE (Unique Effective Heritage) metric, an indicator of return 
-adjusted for risk and costs. He is the author of the Substack "Solomon Von 
-Herclestein" and host of the AVVISI podcast — whose tagline is "Just signal. Just 
-Avvisi" — dedicated to discreet financial intelligence for high-income investors.
-
-He acts as a Private Architect for ultra-high net worth (UHNW) individuals and 
-families, with expertise in treasury management, derivatives, structured credit 
-and real estate auctions. His Warrior-Scholar method — a synthesis of Kenjutsu 
-(samurai discipline), Chess (strategy) and Poker (risk management under 
-uncertainty) — guides his approach to wealth protection and intergenerational 
-asset expansion.
-
-He has complementary training in Common Law from the University of London, through 
-the Institute of Advanced Legal Studies (IALS), participating in the international 
-seminar "New Trends in the Common Law" since 2018, consolidating expertise in 
-structuring cross-border transactions.
-
-His motto is: "Until now, the Lord has helped me" — a declaration of gratitude, 
-purpose and integrity that frames all of his work.
-
+Solomon Von Herclestein is a financial strategist and economist. He has contributed market analysis to Investing.com since 2018, and presents the AVVISI podcast. He publishes on Substack as "Solomon Von Herclestein".
 
 ════════════════════════════════════════════════════════════════════════════════
 CONTACT

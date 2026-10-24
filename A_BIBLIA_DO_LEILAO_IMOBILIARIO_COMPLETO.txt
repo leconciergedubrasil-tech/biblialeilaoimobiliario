@@ -32,8 +32,7 @@ Minha história: do primeiro leilão à carteira milionária
 Em agosto de 2022, arrematei um apartamento na Vila Madalena, em São Paulo capital, 
 por R$ 180 mil. Gastei mais de R$ 50 mil com outras despesas. Passou-se um tempo, 
 revendi o bem por R$ 320 mil. É um lucro, portanto, de R$ 90 mil em menos de 
-12 meses — o que, comparado com, por exemplo, alguns títulos de renda fixa que 
-giram por volta de 12% ao ano, representa três anos de retorno em apenas um ano.
+12 meses — o que, comparado com alguns títulos de renda fixa que rendem por volta de 12% ao ano, equivale a cerca de três anos de rendimento em um único ano.
 
 Este não foi um caso isolado. Foi o primeiro de muitos. E acredito que, se você 
 está lendo este livro, também pode alcançar resultados semelhantes — ou melhores.
@@ -111,18 +110,21 @@ disputa, na qual será homologada a melhor oferta.
 
 1.2 A diferença entre compra convencional e arrematação
 
-╔════════════════════════════════════════════════════════════════╗
-║                  COMPRA CONVENCIONAL vs. ARREMATAÇÃO           ║
-╠═════════════════════╦══════════════════╦═══════════════════════╣
-║ Aspecto             ║ Compra Conven.   ║ Arrematação Leilão    ║
-╠═════════════════════╬══════════════════╬═══════════════════════╣
-║ Negociação          ║ Direta vendedor  ║ Via leilão, lances    ║
-║ Preço               ║ Mercado (negoc.) ║ Lance vencedor        ║
-║ Condição do imóvel  ║ Vistoria livre   ║ "No estado em que se  ║
-║                     ║                  ║  encontra" (as is)    ║
-║ Dívidas             ║ Vendedor quita   ║ Podem ser assumidas   ║
-║ Tempo               ║ Flexível         ║ Definido pelo edital  ║
-╚═════════════════════╩══════════════════╩═══════════════════════╝
+Compra convencional e arrematação, lado a lado:
+
+╔════════════════════╦═════════════════════════╦══════════════════════════════╗
+║ Aspecto            ║ Compra convencional     ║ Arrematação em leilão        ║
+╠════════════════════╬═════════════════════════╬══════════════════════════════╣
+║ Negociação         ║ Direta com o vendedor   ║ Por lances, no leilão        ║
+╠════════════════════╬═════════════════════════╬══════════════════════════════╣
+║ Preço              ║ Negociado com o mercado ║ Lance vencedor               ║
+╠════════════════════╬═════════════════════════╬══════════════════════════════╣
+║ Condição do imóvel ║ Vistoria livre          ║ No estado em que se encontra ║
+╠════════════════════╬═════════════════════════╬══════════════════════════════╣
+║ Dívidas            ║ Vendedor quita          ║ Podem ser assumidas          ║
+╠════════════════════╬═════════════════════════╬══════════════════════════════╣
+║ Tempo              ║ Flexível                ║ Definido pelo edital         ║
+╚════════════════════╩═════════════════════════╩══════════════════════════════╝
 
 
 1.3 Por que os imóveis vão a leilão?
@@ -134,16 +136,16 @@ Quem tinha dinheiro passou a procurar imóveis usados e com melhores condições
 de pagamento. Foi o ponto de partida para o crescimento do mercado de leilões.
 
 Os brasileiros descobriram essa possibilidade e foram dar lances para comprar a 
-casa própria pagando bem menos. Além disso, muitas instituições bancárias lotadas 
-de imóveis retomados, que precisavam ser vendidos, facilitaram a negociação, 
-parcelaram o valor do arremate e, em muitas vezes, até financiaram o lance 
-vencedor, com prazo quase tão extenso quanto de um empréstimo imobiliário e com 
+casa própria pagando bem menos. Além disso, muitas instituições bancárias com 
+muitos imóveis retomados, que precisavam ser vendidos, facilitaram a negociação, 
+parcelaram o valor do arremate e, em muitos casos, até financiaram o lance 
+vencedor, com prazo quase tão longo quanto o de um empréstimo imobiliário e com 
 taxas reduzidas.
 
 
-1.4 A história dos leilões no Brasil
+1.4 A base legal do leilão imobiliário
 
-O leilão imobiliário é embasado na Lei de número 9.514, de 20 de novembro de 
+O leilão imobiliário é embasado na Lei nº 9.514, de 20 de novembro de 
 1997, que dispõe sobre o Sistema de Financiamento Imobiliário, institui a alienação 
 fiduciária de coisa imóvel e dá outras providências.
 
@@ -162,7 +164,7 @@ A Lei 9.514/97 é o alicerce do mercado de leilões imobiliários no Brasil.
 
 Artigo 1º: O Sistema de Financiamento Imobiliário (SFI) tem por finalidade 
 promover o financiamento imobiliário em geral, segundo condições compatíveis 
-com a da formação dos fundos respectivos.
+com a formação dos fundos respectivos.
 
 Artigo 2º: Poderão operar no SFI as Caixas Econômicas, os bancos comerciais, 
 os bancos de investimentos, os bancos com carteira de crédito imobiliário, a 
@@ -206,7 +208,7 @@ no mercado financeiro, aumentando a liquidez do setor.
 
 O leilão imobiliário, embora seja uma forma de execução forçada, respeita o 
 direito à propriedade previsto na Constituição Federal, pois ocorre dentro de um 
-processo legal que garante o devido processo legal e a ampla defesa ao devedor.
+processo legal que assegura o contraditório e a ampla defesa ao devedor.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -217,9 +219,8 @@ O leilão pode ser realizado de forma judicial ou extrajudicial.
 
 3.1 Leilão Extrajudicial
 
-No leilão extrajudicial, regido pelas Leis 9.514/97 e 13.465/2017, o leilão 
-extrajudicial de imóveis é executado nos casos de inadimplência de no mínimo 
-três parcelas de um bem alienado fiduciariamente com a instituição financeira.
+No leilão extrajudicial, regido pelas Leis 9.514/97 e 13.465/2017, o imóvel é 
+levado a leilão após a inadimplência de no mínimo três parcelas de um bem alienado fiduciariamente com a instituição financeira.
 
 Como funciona:
 
@@ -232,34 +233,35 @@ O processo:
 O banco irá enviar para o devedor, via cartório de registro de imóveis, 
 notificação por escrito para que pague as parcelas atrasadas e corrigidas, 
 conforme uma planilha que seguirá junto à notificação. O devedor normalmente 
-terá 15 dias para pagar o débito à vista e em cartório.
+terá 15 dias para pagar o débito, com os encargos, no cartório.
 
 Caso contrário, a instituição financeira poderá quitar o ITBI (Imposto de 
 Transmissão de Bens Imóveis) e firmar a propriedade em seu favor. No prazo de 
-30 dias após a consolidação, o imóvel poderá ser levado a leilão e é arrematado.
+30 dias após a consolidação, o imóvel é levado a leilão.
 
 Como impedir o leilão:
 
-A única maneira de impedir que o imóvel seja leiloado será por meio de uma ação 
-judicial informando ao judiciário os motivos da inadimplência, bem como propondo 
-o pagamento à vista do débito, depositando os valores em conta judicial vinculada 
-aos autos, ou no caso de o credor aceitar um acordo no parcelamento do débito.
+Para impedir o leilão, o devedor deve pagar as parcelas em atraso, com os encargos, 
+dentro do prazo da notificação. Depois da consolidação da propriedade, a reversão 
+é restrita (ver a seção 10.3). Nesse caso, a via judicial exige advogado, e o devedor 
+pode depositar os valores em conta judicial vinculada aos autos, ou propor um 
+acordo de parcelamento que o credor aceite.
 
 
 3.2 Leilão Judicial
 
-Ocorre por meio de uma ação judicial de cobrança de dívida do próprio imóvel, 
-podendo variar entre taxa de condomínio ou IPTU não pago.
+Ocorre por meio de uma ação judicial de cobrança de dívida ligada ao próprio imóvel, 
+como taxa de condomínio ou IPTU não pago.
 
 Como suspender um leilão judicial:
 
-Nesse caso, a suspensão do leilão somente se dará com o pagamento integral da 
+Nesse caso, a suspensão do leilão somente se dá com o pagamento integral da 
 dívida ou se o credor aceitar um acordo no parcelamento do débito.
 
 
 3.3 A diferença entre 1ª e 2ª praça
 
-No leilão judicial, há duas praças (ou chamadas):
+No leilão judicial, há duas praças (também chamadas de fases):
 
 1ª praça: O imóvel é oferecido pelo valor da avaliação. Se não houver lances, 
 segue para a 2ª praça.
@@ -275,7 +277,7 @@ Capítulo 4: Quem Pode e Quem Não Pode Participar
 
 4.1 Pessoas físicas e jurídicas: requisitos básicos
 
-Qualquer pessoa maior de 18 anos, física ou jurídica, pode participar do leilão.
+Pode participar do leilão qualquer pessoa física maior de 18 anos, ou pessoa jurídica regularmente constituída, respeitadas as restrições do item 4.2.
 
 Para participar, é necessário:
 
@@ -302,8 +304,8 @@ Não podem oferecer lance, em relação aos bens e às situações indicadas no 
 
 4.3 Menores de 18 anos: é possível?
 
-Não. A participação em leilão exige capacidade civil plena, ou seja, maioridade 
-(18 anos).
+Em regra, não. Menores de 18 anos precisam ser representados ou assistidos por 
+responsáveis legais, e a arrematação exige capacidade civil plena.
 
 
 4.4 Estrangeiros: regras especiais
@@ -321,9 +323,8 @@ Capítulo 5: O Edital — A Bíblia do Negócio
 
 5.1 O que é e onde encontrar
 
-Por se tratar de uma licitação, todos os leilões possuem um edital, que deve ser 
-anunciado com antecedência, havendo ampla publicidade e circulação, seja impresso 
-ou digital.
+Todo leilão possui um edital, que deve ser publicado com antecedência e com ampla 
+divulgação, em meio impresso ou digital.
 
 Onde encontrar:
 
@@ -334,21 +335,23 @@ Onde encontrar:
 
 5.2 Informações essenciais no edital
 
-Deve constar as principais informações sobre o bem, tais como:
+O edital deve trazer as principais informações sobre o bem, tais como:
 
-╔════════════════════════════════════════════════════════════════╗
-║              INFORMAÇÕES ESSENCIAIS NO EDITAL                  ║
-╠════════════════════════════════╦═══════════════════════════════╣
-║ Informação                     ║ Por que é importante          ║
-╠════════════════════════════════╬═══════════════════════════════╣
-║ Metragem                       ║ Define o tamanho e o valor    ║
-║ Localização                    ║ Determina valor de mercado    ║
-║ Estado do imóvel               ║ Indica necessidade de reforma ║
-║ Ocupação                       ║ Ocupado ou desocupado?        ║
-║ Dívidas pendentes              ║ IPTU, condomínio, etc.        ║
-║ Valor mínimo                   ║ Lance inicial                 ║
-║ Condições de pagamento         ║ À vista, parcelado ou finan.  ║
-╚════════════════════════════════╩═══════════════════════════════╝
+Compra convencional e arrematação, lado a lado:
+
+╔════════════════════╦═════════════════════════╦══════════════════════════════╗
+║ Aspecto            ║ Compra convencional     ║ Arrematação em leilão        ║
+╠════════════════════╬═════════════════════════╬══════════════════════════════╣
+║ Negociação         ║ Direta com o vendedor   ║ Por lances, no leilão        ║
+╠════════════════════╬═════════════════════════╬══════════════════════════════╣
+║ Preço              ║ Negociado com o mercado ║ Lance vencedor               ║
+╠════════════════════╬═════════════════════════╬══════════════════════════════╣
+║ Condição do imóvel ║ Vistoria livre          ║ No estado em que se encontra ║
+╠════════════════════╬═════════════════════════╬══════════════════════════════╣
+║ Dívidas            ║ Vendedor quita          ║ Podem ser assumidas          ║
+╠════════════════════╬═════════════════════════╬══════════════════════════════╣
+║ Tempo              ║ Flexível                ║ Definido pelo edital         ║
+╚════════════════════╩═════════════════════════╩══════════════════════════════╝
 
 
 5.3 Como interpretar a linguagem jurídica do edital
@@ -367,8 +370,7 @@ Capítulo 6: Onde Encontrar Leilões
 
 6.1 Jornais de grande circulação
 
-Jornais como O Globo, O Estado de São Paulo, Valor Econômico têm sessões semanais 
-ensinando tudo sobre leilões e informando as oportunidades de arremate disponíveis.
+Jornais de grande circulação, como O Globo, O Estado de São Paulo e Valor Econômico, publicam editais de leilão em seus cadernos e seções próprias.
 
 
 6.2 Sites de leiloeiros oficiais
@@ -384,8 +386,8 @@ portais.
 
 6.4 Plataformas digitais que reúnem múltiplos leiloeiros
 
-Uma plataforma digital que reúne imóveis disponíveis em 1.500 leiloeiros está 
-começando a operar, facilitando a busca por oportunidades.
+Existem plataformas digitais que reúnem imóveis de vários leiloeiros. Antes de usar 
+uma delas, verifique a idoneidade e o registro dos leiloeiros anunciados.
 
 
 6.5 Como configurar alertas para não perder oportunidades
@@ -434,7 +436,7 @@ todos os dias. Analise o que deu errado e se prepare para o próximo.
 
 7.5 Psicologia do leilão: como não se deixar levar pela emoção
 
-O leilão é um ambiente emocional. O leiloeiro é treinado para criar senso de 
+O leilão é um ambiente emocional. O ambiente de leilão costuma gerar senso de 
 urgência e competição. Para não cair nessa armadilha:
 
 • Tenha seu lance máximo definido e não o mude durante o leilão
@@ -454,8 +456,8 @@ e declarar o vencedor.
 
 8.2 Requisitos para ser leiloeiro
 
-A profissão de leiloeiro será exercida mediante matrícula concedida pelas juntas 
-comerciais do Distrito Federal, dos estados e território do Acre.
+A profissão de leiloeiro público oficial exige matrícula na junta comercial do estado 
+em que atua, conforme o Decreto 21.981/1932.
 
 Para ser leiloeiro, é necessário:
 
@@ -519,21 +521,25 @@ alguns meses, dependendo da complexidade do processo.
 9.3 O pagamento: à vista, parcelado ou financiado?
 
 Muitas instituições bancárias facilitaram a negociação, parcelaram o valor do 
-arremate e, em muitas vezes, até financiaram o lance vencedor, com prazo quase 
-tão extenso quanto de um empréstimo imobiliário e com taxas reduzidas.
+arremate e, em muitos casos, até financiaram o lance vencedor, com prazo quase 
+tão longo quanto o de um empréstimo imobiliário e com taxas que variam conforme a instituição.
 
 
 9.4 Custos além do lance
 
-╔═══════════════════════════════╦═════════════════════════════════╗
-║ Custo                         ║ Descrição                       ║
-╠═══════════════════════════════╬═════════════════════════════════╣
-║ ITBI                          ║ Imposto de Transmissão (SP: 3%)   ║
-║ Taxas cartorárias (emolumentos)║ Registro da arrematação (0,5-1%)║
-║ Honorários do leiloeiro       ║ Comissão sobre o lance (mín. 5%)   ║
-║ Dívidas retroativas           ║ IPTU, condomínio (Variável)     ║
-║ Registro da arrematação       ║ Cartório de imóveis (Variável)  ║
-╚═══════════════════════════════╩═════════════════════════════════╝
+╔═════════════════════════════════╦═══════════════════════════════════════════╗
+║ Custo                           ║ Descrição                                 ║
+╠═════════════════════════════════╬═══════════════════════════════════════════╣
+║ ITBI                            ║ Imposto de Transmissão (SP: 3%)           ║
+╠═════════════════════════════════╬═══════════════════════════════════════════╣
+║ Taxas cartorárias (emolumentos) ║ Registro da arrematação (tabela estadual) ║
+╠═════════════════════════════════╬═══════════════════════════════════════════╣
+║ Honorários do leiloeiro         ║ Comissão sobre o lance (mín. 5%)          ║
+╠═════════════════════════════════╬═══════════════════════════════════════════╣
+║ Dívidas retroativas             ║ IPTU, condomínio (Variável)               ║
+╠═════════════════════════════════╬═══════════════════════════════════════════╣
+║ Registro da arrematação         ║ Cartório de imóveis (Variável)            ║
+╚═════════════════════════════════╩═══════════════════════════════════════════╝
 
 
 9.5 Financiamento depois da arrematação
@@ -557,9 +563,9 @@ Capítulo 10: Imissão na Posse — Como Tomar o Imóvel
 
 10.1 Imóvel desocupado: o caminho mais rápido
 
-Se o imóvel estiver desocupado, a imissão na posse é imediata. O arrematante 
-pode tomar posse assim que o pagamento for efetuado e a arrematação for 
-homologada.
+Se o imóvel estiver desocupado, a imissão na posse costuma ser mais rápida. O 
+arrematante pode tomar posse depois que o pagamento for efetuado e a arrematação 
+for homologada.
 
 
 10.2 Imóvel ocupado: como proceder
@@ -584,13 +590,15 @@ Atenção: o ocupante pode alegar nulidade do procedimento. Por isso, leia o edi
 
 10.4 Prazos e custos judiciais
 
-╔═══════════════════════════════╦═════════════════════════════════╗
-║ Aspecto                       ║ Estimativa                      ║
-╠═══════════════════════════════╬═════════════════════════════════╣
-║ Prazo desocupação voluntária  ║ 15 a 30 dias                    ║
-║ Prazo desocupação judicial    ║ 6 meses a 2 anos                ║
-║ Custos judiciais              ║ Advogado, custas, perícia       ║
-╚═══════════════════════════════╩═════════════════════════════════╝
+╔══════════════════════════════╦═════════════════════════════╗
+║ Aspecto                      ║ Referência (varia por caso) ║
+╠══════════════════════════════╬═════════════════════════════╣
+║ Prazo desocupação voluntária ║ 15 a 30 dias                ║
+╠══════════════════════════════╬═════════════════════════════╣
+║ Prazo desocupação judicial   ║ 6 meses a 2 anos            ║
+╠══════════════════════════════╬═════════════════════════════╣
+║ Custos judiciais             ║ Advogado, custas, perícia   ║
+╚══════════════════════════════╩═════════════════════════════╝
 
 
 10.5 Acordos extrajudiciais com ocupantes
@@ -609,7 +617,7 @@ desgastante.
 10.7 O que fazer se o ocupante for idoso, criança ou pessoa com deficiência
 
 A desocupação de imóveis ocupados por idosos, crianças ou pessoas com deficiência 
-é mais difícil e demorada, pois a justiça tende a ser mais protetiva com esses 
+é mais difícil e demorada, pois a Justiça costuma ser mais protetiva com esses 
 grupos.
 
 
@@ -625,29 +633,29 @@ Se não for possível, esteja preparado para surpresas.
 
 11.2 Reformas essenciais vs. reformas estéticas
 
-╔═══════════════════════════════╦═════════════════════════════════╗
-║ Tipo de Reforma               ║ Descrição / Prioridade          ║
-╠═══════════════════════════════╬═════════════════════════════════╣
-║ Essenciais                    ║ Estrutura, elétrica, hidráulica ║
-║                               ║ telhado — ALTA PRIORIDADE       ║
-║ Estéticas                     ║ Pintura, piso, acabamentos      ║
-║                               ║ — PRIORIDADE MÉDIA              ║
-║ Luxo                          ║ Decoração, paisagismo           ║
-║                               ║ — PRIORIDADE BAIXA              ║
-╚═══════════════════════════════╩═════════════════════════════════╝
+╔═════════════════╦═══════════════════════════════════════════════════════════╗
+║ Tipo de Reforma ║ Descrição / Prioridade                                    ║
+╠═════════════════╬═══════════════════════════════════════════════════════════╣
+║ Essenciais      ║ Estrutura, elétrica, hidráulica telhado — ALTA PRIORIDADE ║
+╠═════════════════╬═══════════════════════════════════════════════════════════╣
+║ Estéticas       ║ Pintura, piso, acabamentos — PRIORIDADE MÉDIA             ║
+╠═════════════════╬═══════════════════════════════════════════════════════════╣
+║ Luxo            ║ Decoração, paisagismo — PRIORIDADE BAIXA                  ║
+╚═════════════════╩═══════════════════════════════════════════════════════════╝
 
 
 11.3 Orçamento: como não estourar o planejado
 
 1. Faça um orçamento detalhado antes da reforma
-2. Adicione uma reserva de 30% para imprevistos
+2. Reserve uma margem para imprevistos (o livro sugere 30%, como premissa do autor)
 3. Pesquise fornecedores antes de contratar
 
 
 11.4 O impacto da reforma no preço de venda
 
-Uma reforma bem-feita pode valorizar o imóvel em 20-40%. Uma reforma mal-feita 
-pode não agregar valor ou até reduzir o preço.
+Uma reforma bem-feita pode valorizar o imóvel. O ganho depende do bairro, do estado 
+do imóvel e da qualidade da obra. Uma reforma mal-feita pode não agregar valor ou 
+até reduzir o preço.
 
 
 11.5 Quando vale a pena não reformar e vender "como está"
@@ -669,23 +677,27 @@ Capítulo 12: A Venda — Lucro Realizado
 
 12.2 Estratégias de venda
 
-╔═══════════════════════════════╦═════════════════════════════════╗
-║ Estratégia                    ║ Vantagem / Desvantagem          ║
-╠═══════════════════════════════╬═════════════════════════════════╣
-║ Imobiliárias tradicionais     ║ Alcance, expertise /            ║
-║                               ║ Comissão alta (a negociar)            ║
-║ Venda direta (OLX, Zap,       ║ Economia de comissão /          ║
-║ VivaReal)                     ║ Trabalho do vendedor            ║
-║ Venda para outros             ║ Venda rápida /                  ║
-║ investidores                  ║ Preço mais baixo                ║
-║ Leilão novamente              ║ Venda rápida /                  ║
-║                               ║ Preço abaixo do mercado         ║
-╚═══════════════════════════════╩═════════════════════════════════╝
+╔═══════════════════════════╦═════════════════════════════════════════════════╗
+║ Estratégia                ║ Vantagem / Desvantagem                          ║
+╠═══════════════════════════╬═════════════════════════════════════════════════╣
+║ Imobiliárias tradicionais ║ Alcance, expertise / Comissão alta (a negociar) ║
+╠═══════════════════════════╬═════════════════════════════════════════════════╣
+║ Venda direta (OLX, Zap,   ║ Economia de comissão /                          ║
+╠═══════════════════════════╬═════════════════════════════════════════════════╣
+║ VivaReal)                 ║ Trabalho do vendedor                            ║
+╠═══════════════════════════╬═════════════════════════════════════════════════╣
+║ Venda para outros         ║ Venda rápida /                                  ║
+╠═══════════════════════════╬═════════════════════════════════════════════════╣
+║ investidores              ║ Preço mais baixo                                ║
+╠═══════════════════════════╬═════════════════════════════════════════════════╣
+║ Leilão novamente          ║ Venda rápida / Preço abaixo do mercado          ║
+╚═══════════════════════════╩═════════════════════════════════════════════════╝
 
 
 12.3 O prazo médio de venda: 12 meses (e como reduzir)
 
-A média de vendas são 12 meses. Para reduzir este prazo:
+O prazo médio de venda costuma ser de cerca de 12 meses, na experiência do autor, e varia 
+conforme o caso. Para reduzir este prazo:
 
 1. Precifique de forma competitiva
 2. Invista em fotos profissionais
@@ -695,16 +707,17 @@ A média de vendas são 12 meses. Para reduzir este prazo:
 
 12.4 A negociação: dar desconto para vender rápido
 
-Às vezes, dar um pequeno desconto de 3-4% pode acelerar a venda e aumentar seu 
-ROI (Retorno sobre Investimento) no longo prazo.
+Às vezes, um pequeno desconto, de 3% a 4%, pode acelerar a venda e reduzir o custo de manter 
+o imóvel parado. O efeito depende do caso, e o desconto reduz o ROI (Retorno sobre Investimento) 
+da operação.
 
 
 12.5 Tributação da venda: quando há imposto sobre o ganho
 
 Ao vender o imóvel por mais do que o custo de aquisição, a diferença é ganho de capital, sujeito ao Imposto de Renda da pessoa física, com alíquotas progressivas: 15% até R$ 5 milhões de ganho; 17,5% de R$ 5 milhões a R$ 10 milhões; 20% de R$ 10 milhões a R$ 30 milhões; e 22,5% acima de R$ 30 milhões. Há duas isenções importantes:
 
-1. Imóvel único de até R$ 440 mil, sem outra venda nos últimos 5 anos (art. 23 da Lei 9.250/95).
-2. Venda de imóvel residencial com reaplicação integral do valor em outro imóvel residencial no país, em até 180 dias (art. 39 da Lei 11.196/2005). A reaplicação parcial, em obra ou em terreno, não garante a isenção.
+1. Imóvel único de até R$ 440 mil, sem outra venda nos últimos 5 anos (art. 23 da Lei 9.250/95; Solução de Consulta Cosit nº 264/2023).
+2. Venda de imóvel residencial com reaplicação integral do valor em outro imóvel residencial no país, em até 180 dias (art. 39 da Lei 11.196/2005). A reaplicação parcial reduz a isenção proporcionalmente. A Receita aceita a compra de imóvel residencial pronto, na planta ou em construção, e a quitação de financiamento de imóvel residencial já possuído (Solução de Consulta Cosit nº 99.004/2024). Não há isenção quando o valor é usado na construção em terreno próprio (Solução de Consulta Cosit nº 108/2026).
 
 O ganho tributável é apurado no GCAP e recolhido por DARF. Mesmo quando há isenção, a venda deve ser informada na declaração. Este texto é informativo e não substitui a orientação de um contador.
 
@@ -737,7 +750,7 @@ Exemplo prático:
 ROI = (90.000 / 230.000) × 100 = 39,1%
 
 
-13.2 ROE (Retorno sobre o Patrimônio): o indicador definitivo
+13.2 ROE (Retorno sobre o Patrimônio): um indicador complementar
 
 O ROE (Return on Equity) mede o retorno sobre o capital próprio investido.
 
@@ -785,14 +798,23 @@ Capítulo 14: Comparação com Outros Investimentos
 
 Os valores abaixo vêm de fontes públicas, com a data de cada dado. Eles medem coisas diferentes, como explicado ao final desta seção.
 
-║ Indicador ║ Valor ║ Fonte e data ║
-║ Poupança (regra: 0,5% ao mês + TR) ║ 8,32% em 12 meses ║ Banco Central, até maio/2026 ║
-║ CDI ║ 14,77% em 12 meses ║ Banco Central, julho/2026 ║
-║ Selic (meta) ║ 14,25% ao ano ║ Copom, agosto/2026 ║
-║ IFIX (fundos imobiliários) ║ 8,24% em 12 meses ║ B3, até agosto/2026 ║
-║ Dividend yield do IFIX ║ 12,53% ao ano ║ BB Análise, agosto/2026 ║
-║ Ibovespa ║ 25,45% em 12 meses ║ B3, via Elos Ayta, até agosto/2026 ║
-║ Leilão imobiliário ║ Desconto de 30% a 60% ║ Casos do Capítulo 22 ║
+╔════════════════════════════════════╦═══════════════════════╦════════════════════════════════════╗
+║ Indicador                          ║ Valor                 ║ Fonte e data                       ║
+╠════════════════════════════════════╬═══════════════════════╬════════════════════════════════════╣
+║ Poupança (regra: 0,5% ao mês + TR) ║ 8,32% em 12 meses     ║ Banco Central, até maio/2026       ║
+╠════════════════════════════════════╬═══════════════════════╬════════════════════════════════════╣
+║ CDI                                ║ 14,77% em 12 meses    ║ Banco Central, julho/2026          ║
+╠════════════════════════════════════╬═══════════════════════╬════════════════════════════════════╣
+║ Selic (meta)                       ║ 14,25% ao ano         ║ Copom, agosto/2026                 ║
+╠════════════════════════════════════╬═══════════════════════╬════════════════════════════════════╣
+║ IFIX (fundos imobiliários)         ║ 8,24% em 12 meses     ║ B3, até agosto/2026                ║
+╠════════════════════════════════════╬═══════════════════════╬════════════════════════════════════╣
+║ Dividend yield do IFIX             ║ 12,53% ao ano         ║ BB Análise, agosto/2026            ║
+╠════════════════════════════════════╬═══════════════════════╬════════════════════════════════════╣
+║ Ibovespa                           ║ 25,45% em 12 meses    ║ B3, via Elos Ayta, até agosto/2026 ║
+╠════════════════════════════════════╬═══════════════════════╬════════════════════════════════════╣
+║ Leilão imobiliário                 ║ Desconto de 30% a 60% ║ Casos do Capítulo 22               ║
+╚════════════════════════════════════╩═══════════════════════╩════════════════════════════════════╝
 
 Por que os números não são diretamente comparáveis: a poupança, o CDI e a Selic são taxas anuais de aplicações de renda fixa. O IFIX mede a variação das cotas somada aos dividendos. O desconto do leilão é a diferença entre o preço pago e o valor de mercado no momento da compra, e não um rendimento anual. O retorno real depende do prazo, dos custos, dos impostos e do tempo em que o imóvel fica sem renda. Por isso, este livro não afirma que o leilão rende mais que os demais investimentos. Os casos do Capítulo 22 mostram resultados entre 0% e 59%, em prazos de até 2 anos.
 
@@ -812,13 +834,12 @@ O IFIX acumulou 8,24% em 12 meses até agosto de 2026 e teve dividend yield anua
 
 Este item saiu desta edição, porque não há dado verificado para compará-lo com os demais.
 
-14.6 Por que o leilão imobiliário é mais previsível
+14.6 Por que o imóvel tende a oscilar menos que ações
 
-Diferentemente de ações ou criptomoedas, o valor de um imóvel é relativamente 
-estável no curto prazo. Hoje em dia os preços dos imóveis são de fácil consulta 
-por qualquer pessoa usando os recursos digitais disponíveis na internet. Além 
-disso, os preços desses imóveis não variam muito no curto prazo. Caso você 
-compre um imóvel hoje, daqui um ano seu valor não será muito diferente.
+Diferentemente de ações ou criptomoedas, o valor de um imóvel tende a variar menos 
+no curto prazo. Isso não é garantido: o preço depende do mercado local, dos juros e 
+da economia. Os preços de referência podem ser consultados em portais e em índices 
+de preço de imóveis, como o FipeZap.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -831,7 +852,7 @@ cumpridas:
 
 15.1 Primeiro Pilar: Evitar Disputa
 
-Procure leilões onde haverão menos disputas.
+Procure leilões onde haverá menos disputas.
 
 Estratégias:
 
@@ -864,19 +885,20 @@ Capítulo 16: A Mágica dos Juros Compostos Aplicada aos Leilões
 
 16.1 Um negócio por ano: é possível?
 
-Considerando que a média de venda são 12 meses, é possível fazer um negócio por 
-ano. Com um pouco de experiência e dedicação, dá para encontrar uma casa por ano.
+Considerando que o prazo médio de venda é de cerca de 12 meses, é possível, em tese, 
+fazer um negócio por ano. Com experiência e dedicação, o investidor pode encontrar 
+uma oportunidade por ano.
 
 
-16.2 Projeção de 10, 20 e 30 anos
+16.2 Projeção de 10 anos
 
-Considerando um ROE (Retorno sobre o Patrimônio) de 35% ao ano:
+Considerando, como premissa ilustrativa, um retorno anual de 35%:
 
-╔═════════╦═══════════════════════════════════╗
+╔═════════╦══════════════════════════════════╗
 ║ Período ║ Patrimônio (partindo de R$ 100k) ║
-╠═════════╬═══════════════════════════════════╣
-║ 10 anos ║ R$ 2.000.000                      ║
-╚═════════╩═══════════════════════════════════╝
+╠═════════╬══════════════════════════════════╣
+║ 10 anos ║ R$ 2.000.000                     ║
+╚═════════╩══════════════════════════════════╝
 
 
 Nota: as projeções acima assumem retorno constante, sem descontar inflação, impostos, vacância ou custos de transação. Trate-as como ilustração matemática, não como expectativa de resultado.
@@ -884,38 +906,36 @@ Nota: as projeções acima assumem retorno constante, sem descontar inflação, 
 
 16.3 O exemplo de Warren Buffett (20% a.a.) vs. o Leilão (35% a.a.)
 
-Warren Buffett, o maior investidor da bolsa americana e consequentemente do 
-mundo, conseguiu ao longo de sua carreira um ROE médio de 20%, considerando que 
-todo dinheiro seria reinvestido.
+Warren Buffett, um dos investidores mais conhecidos do mundo, obteve, na Berkshire 
+Hathaway, retorno composto anual de 19,8% entre 1965 e 2023, segundo dados da própria 
+companhia, com os ganhos reinvestidos.
 
-Com um ROE de 20%, investindo R$ 100 mil hoje:
+Com retorno anual de 20%, investindo R$ 100 mil hoje:
 
-╔═════════╦═══════════════════════════════════╗
+╔═════════╦══════════════════════════════════╗
 ║ Período ║ Patrimônio (partindo de R$ 100k) ║
-╠═════════╬═══════════════════════════════════╣
-║ 10 anos ║ R$ 620.000                        ║
-╚═════════╩═══════════════════════════════════╝
+╠═════════╬══════════════════════════════════╣
+║ 10 anos ║ R$ 620.000                       ║
+╚═════════╩══════════════════════════════════╝
 
-Com um ROE de 35% (leilão imobiliário):
+Com retorno anual de 35% (premissa ilustrativa):
 
-╔═════════╦═══════════════════════════════════╗
+╔═════════╦══════════════════════════════════╗
 ║ Período ║ Patrimônio (partindo de R$ 100k) ║
-╠═════════╬═══════════════════════════════════╣
-║ 10 anos ║ R$ 2.000.000                      ║
-╚═════════╩═══════════════════════════════════╝
+╠═════════╬══════════════════════════════════╣
+║ 10 anos ║ R$ 2.000.000                     ║
+╚═════════╩══════════════════════════════════╝
 
 
 16.4 O limite do modelo: quando o patrimônio cresce demais
 
 Obviamente, quanto maior ficar o seu patrimônio, mais difícil será encontrar 
-imóveis de grandes valores para continuar fazendo essa multiplicação. Mas somente 
-com esse exemplo, dá para ver que é possível alcançar grandes retornos com imóveis 
-em leilão.
+imóveis de grandes valores para continuar fazendo essa multiplicação. Mesmo 
+assim, o exemplo mostra, em tese, como ganhos reinvestidos podem crescer ao longo do tempo.
 
-Quando você tiver 40 milhões, você não vai mais comprar imóveis de 100 mil. Você 
-vai ter que comprar imóveis maiores. 40 milhões será uma carteira de imóveis, aí 
-você já vai precisar de um auxílio técnico, às vezes um escritório especializado 
-de vendas imobiliárias. Quer dizer, você vai crescer junto.
+Quando o patrimônio chegar a R$ 40 milhões, não será mais possível comprar imóveis 
+de R$ 100 mil. Será preciso comprar imóveis maiores e, provavelmente, contar com 
+assessoria especializada. O crescimento acontece em etapas.
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -924,19 +944,16 @@ Capítulo 17: Diversificação e Gestão de Risco
 
 17.1 Por que não colocar todo o dinheiro em um único imóvel
 
-A diversificação é a estratégia válida para diminuirmos os riscos e não ficarmos 
-dependentes de um ou dois investimentos.
+A diversificação é uma estratégia para reduzir riscos e evitar a dependência de um ou dois investimentos.
 
 
 17.2 Combinando leilões com renda fixa e ações
 
-Se você é jovem, com poucos compromissos e muito tempo pela frente, você tem 
-mais espaço para tomada de risco, considerando que as consequências serão melhores 
-e você terá tempo de sobra para correr atrás de um eventual prejuízo.
+Se você é jovem, com poucos compromissos e muito tempo pela frente, tem mais espaço 
+para assumir risco, porque um eventual prejuízo pesa menos e há tempo para recuperá-lo.
 
-Agora, se você já é um cara mais velho, com mais compromissos, responsabilidades, 
-com menos tempo de vida, o que gostaria de fazer são ativos mais seguros e menos 
-voláteis.
+Se você já é mais velho, com mais compromissos e responsabilidades e menos tempo 
+pela frente, tende a preferir ativos mais seguros e menos voláteis.
 
 
 17.3 A carteira de imóveis: quando o patrimônio cresce, o negócio muda
@@ -948,10 +965,10 @@ voláteis.
 • Advogados e contadores
 
 
-17.4 Como sair do mercado imobiliário e migrar para outros ativos
+17.4 Equilíbrio entre imóveis e outros ativos
 
 A diversificação deve ser utilizada neste balanço entre investimentos de alto e 
-baixo risco. O que para mim faz mais sentido é: diversifique.
+baixo risco. Essa é a abordagem que o autor considera mais adequada.
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -963,9 +980,8 @@ Capítulo 18: Os Riscos Reais (Que Ninguém Te Conta)
 
 18.1 Risco de ocupação: o custo oculto
 
-O imóvel pode estar ocupado. Se estiver sendo ocupado, a possibilidade de 
-requerer judicialmente a imissão na posse pode levar algum tempo, além de mais 
-custos judiciais. A desocupação pode levar de 6 meses a 2 anos.
+O imóvel pode estar ocupado. Nesse caso, a ação de imissão na posse pode levar 
+algum tempo e gerar custos judiciais adicionais. A desocupação pode levar de 6 meses a 2 anos.
 
 
 18.2 Risco jurídico: dívidas e documentação incompleta
@@ -978,7 +994,7 @@ do imóvel no cartório de registro de imóveis.
 18.3 Risco de reforma: orçamento estourado
 
 O imóvel pode estar em condições precárias, exigindo reformas que ultrapassem o 
-orçamento previsto. Sempre adicione uma reserva de 30% para imprevistos.
+orçamento previsto. Reserve uma margem para imprevistos, como 20% a 30% do orçamento de reforma (premissa do autor).
 
 
 18.4 Risco de liquidez: imóvel encalhado
@@ -1010,8 +1026,8 @@ entre 30% e 60% do valor de mercado, não 94%.
 
 19.2 Desconfie de vendedores de "curso milagroso"
 
-Muitos vendedores de cursos prometem ficar rico com leilões, mas nunca 
-participaram de um leilão na vida.
+Muitos vendedores de cursos prometem enriquecer com leilões, mas nunca 
+participaram de um leilão.
 
 
 19.3 Como verificar a idoneidade do leiloeiro
@@ -1069,8 +1085,8 @@ A desocupação de imóveis ocupados por esses grupos é mais difícil e demorad
 
 20.5 Imóveis em área rural ou de fronteira (para estrangeiros)
 
-Para estrangeiros, a compra de imóveis rurais ou em área de fronteira exige 
-autorização do INCRA ou do Conselho de Defesa Nacional.
+Para estrangeiros, a compra de imóveis rurais exige autorização do INCRA e, em área 
+de fronteira, aprovação do Conselho de Defesa Nacional.
 
 
 20.6 Quando o desconto não compensa o risco
@@ -1089,13 +1105,13 @@ Capítulo 21: Seu Primeiro Leilão — Checklist Completo
 21.1 Mês 1: Estudo e preparação
 
 □ Leia este livro duas vezes
-□ Separe o capital (no mínimo R$ 50 mil para começar)
+□ Separe o capital para o primeiro leilão (o valor depende do seu perfil)
 □ Abra conta em banco e tenha o CPF em dia
 
 
 21.2 Mês 2: Seleção de imóveis e análise de editais
 
-□ Analise 10 editais por dia
+□ Analise editais com regularidade
 □ Faça uma planilha de oportunidades
 □ Visite os imóveis (se possível)
 
@@ -1127,25 +1143,30 @@ Capítulo 22: Estudos de Caso Reais
 Como ler os números deste capítulo: o ROI é o lucro dividido pelo investimento total, que soma compra, custos e reforma. Os valores são arredondados. A origem de cada caso está indicada no rótulo que o acompanha.
 ═══════════════════════════════════════════════════════════════════════════════
 
-22.1 Caso 1: O apartamento da Vila Madalena (o case do autor)
+22.1 Caso 1: O apartamento da Vila Madalena (o caso do autor)
 [RÓTULO: RELATO DO AUTOR, sem documentação anexa]
 
 
-Em agosto, arrematei um apartamento na Vila Madalena, em São Paulo capital, por 
-R$ 180 mil reais. Gastei mais de R$ 50 mil com outras despesas. Passou-se um 
-tempo, revendi o bem por R$ 320 mil reais. É um lucro, portanto, de R$ 90 mil 
+Em agosto de 2022, arrematei um apartamento na Vila Madalena, em São Paulo capital, 
+por R$ 180 mil. Gastei mais de R$ 50 mil com outras despesas. Passado algum tempo, 
+revendi o bem por R$ 320 mil. É um lucro, portanto, de R$ 90 mil 
 em menos de 12 meses.
 
-╔════════════════╦═════════════════════╗
-║ Item           ║ Valor               ║
-╠════════════════╬═════════════════════╣
-║ Compra         ║ R$ 180.000          ║
-║ Custos         ║ R$ 50.000           ║
-║ Investimento   ║ R$ 230.000          ║
-║ Venda          ║ R$ 320.000          ║
-║ Lucro          ║ R$ 90.000           ║
-║ ROI            ║ 39,1%               ║
-╚════════════════╩═════════════════════╝
+╔══════════════╦════════════╗
+║ Item         ║ Valor      ║
+╠══════════════╬════════════╣
+║ Compra       ║ R$ 180.000 ║
+╠══════════════╬════════════╣
+║ Custos       ║ R$ 50.000  ║
+╠══════════════╬════════════╣
+║ Investimento ║ R$ 230.000 ║
+╠══════════════╬════════════╣
+║ Venda        ║ R$ 320.000 ║
+╠══════════════╬════════════╣
+║ Lucro        ║ R$ 90.000  ║
+╠══════════════╬════════════╣
+║ ROI          ║ 39,1%      ║
+╚══════════════╩════════════╝
 
 
 22.2 Caso 2: Imóvel ocupado que demorou 2 anos para desocupar
@@ -1155,17 +1176,23 @@ Um investidor comprou um imóvel ocupado por R$ 150.000. A desocupação judicia
 levou 2 anos e custou R$ 40.000 em advogados e custas. Ao final, vendeu por 
 R$ 250.000.
 
-╔════════════════════════════╦═════════════════════╗
-║ Item                       ║ Valor               ║
-╠════════════════════════════╬═════════════════════╣
-║ Compra                     ║ R$ 150.000          ║
-║ Custos de desocupação      ║ R$ 40.000           ║
-║ Reforma                    ║ R$ 20.000           ║
-║ Investimento total         ║ R$ 210.000          ║
-║ Venda                      ║ R$ 250.000          ║
-║ Lucro                      ║ R$ 40.000           ║
-║ ROI                        ║ 19% (em 2 anos)     ║
-╚════════════════════════════╩═════════════════════╝
+╔═══════════════════════╦═════════════════╗
+║ Item                  ║ Valor           ║
+╠═══════════════════════╬═════════════════╣
+║ Compra                ║ R$ 150.000      ║
+╠═══════════════════════╬═════════════════╣
+║ Custos de desocupação ║ R$ 40.000       ║
+╠═══════════════════════╬═════════════════╣
+║ Reforma               ║ R$ 20.000       ║
+╠═══════════════════════╬═════════════════╣
+║ Investimento total    ║ R$ 210.000      ║
+╠═══════════════════════╬═════════════════╣
+║ Venda                 ║ R$ 250.000      ║
+╠═══════════════════════╬═════════════════╣
+║ Lucro                 ║ R$ 40.000       ║
+╠═══════════════════════╬═════════════════╣
+║ ROI                   ║ 19% (em 2 anos) ║
+╚═══════════════════════╩═════════════════╝
 
 
 22.3 Caso 3: O leilão com disputa acirrada que quase deu prejuízo
@@ -1175,34 +1202,44 @@ Um investidor entrou em uma disputa acirrada e pagou R$ 300.000 por um imóvel
 avaliado em R$ 350.000. Os custos foram R$ 70.000. A disputa acirrada corroeu 
 todo o lucro.
 
-╔════════════════╦═════════════════════╗
-║ Item           ║ Valor               ║
-╠════════════════╬═════════════════════╣
-║ Compra         ║ R$ 300.000          ║
-║ Custos         ║ R$ 70.000           ║
-║ Investimento   ║ R$ 370.000          ║
-║ Venda          ║ R$ 370.000          ║
-║ Lucro          ║ R$ 0                ║
-║ ROI            ║ 0%                  ║
-╚════════════════╩═════════════════════╝
+╔══════════════╦════════════╗
+║ Item         ║ Valor      ║
+╠══════════════╬════════════╣
+║ Compra       ║ R$ 300.000 ║
+╠══════════════╬════════════╣
+║ Custos       ║ R$ 70.000  ║
+╠══════════════╬════════════╣
+║ Investimento ║ R$ 370.000 ║
+╠══════════════╬════════════╣
+║ Venda        ║ R$ 370.000 ║
+╠══════════════╬════════════╣
+║ Lucro        ║ R$ 0       ║
+╠══════════════╬════════════╣
+║ ROI          ║ 0%         ║
+╚══════════════╩════════════╝
 
 
 22.4 Caso 4: O imóvel que rendeu 59% de lucro em 6 meses
 [RÓTULO: ILUSTRATIVO, sem documentação anexa]
 
-Um investidor comprou um imóvel em leilão por R$ 200.000, um imóvel avaliado 
-em R$ 300.000. Gastou R$ 20.000 em reforma e vendeu por R$ 350.000.
+Um investidor comprou em leilão, por R$ 200.000, um imóvel avaliado em R$ 300.000. 
+Gastou R$ 20.000 em reforma e vendeu por R$ 350.000.
 
-╔════════════════╦═════════════════════╗
-║ Item           ║ Valor               ║
-╠════════════════╬═════════════════════╣
-║ Compra         ║ R$ 200.000          ║
-║ Custos         ║ R$ 20.000           ║
-║ Investimento   ║ R$ 220.000          ║
-║ Venda          ║ R$ 350.000          ║
-║ Lucro          ║ R$ 130.000          ║
-║ ROI            ║ 59,1% (em 6 meses)  ║
-╚════════════════╩═════════════════════╝
+╔══════════════╦════════════════════╗
+║ Item         ║ Valor              ║
+╠══════════════╬════════════════════╣
+║ Compra       ║ R$ 200.000         ║
+╠══════════════╬════════════════════╣
+║ Custos       ║ R$ 20.000          ║
+╠══════════════╬════════════════════╣
+║ Investimento ║ R$ 220.000         ║
+╠══════════════╬════════════════════╣
+║ Venda        ║ R$ 350.000         ║
+╠══════════════╬════════════════════╣
+║ Lucro        ║ R$ 130.000         ║
+╠══════════════╬════════════════════╣
+║ ROI          ║ 59,1% (em 6 meses) ║
+╚══════════════╩════════════════════╝
 
 
 22.5 Caso 5: O primeiro leilão de um iniciante (erros e acertos)
@@ -1212,17 +1249,23 @@ Um iniciante comprou um imóvel sem fazer vistoria. Descobriu que precisava de
 R$ 50.000 em reformas que não havia previsto. No entanto, o imóvel estava em 
 um bairro valorizado e foi vendido rapidamente.
 
-╔════════════════╦═════════════════════╗
-║ Item           ║ Valor               ║
-╠════════════════╬═════════════════════╣
-║ Compra         ║ R$ 160.000          ║
-║ Custos prev.   ║ R$ 10.000           ║
-║ Custos imprev. ║ R$ 50.000           ║
-║ Investimento   ║ R$ 220.000          ║
-║ Venda          ║ R$ 280.000          ║
-║ Lucro          ║ R$ 60.000           ║
-║ ROI            ║ 27,3%               ║
-╚════════════════╩═════════════════════╝
+╔════════════════╦════════════╗
+║ Item           ║ Valor      ║
+╠════════════════╬════════════╣
+║ Compra         ║ R$ 160.000 ║
+╠════════════════╬════════════╣
+║ Custos prev.   ║ R$ 10.000  ║
+╠════════════════╬════════════╣
+║ Custos imprev. ║ R$ 50.000  ║
+╠════════════════╬════════════╣
+║ Investimento   ║ R$ 220.000 ║
+╠════════════════╬════════════╣
+║ Venda          ║ R$ 280.000 ║
+╠════════════════╬════════════╣
+║ Lucro          ║ R$ 60.000  ║
+╠════════════════╬════════════╣
+║ ROI            ║ 27,3%      ║
+╚════════════════╩════════════╝
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -1248,11 +1291,9 @@ Capítulo 23: Ferramentas e Recursos Úteis
 Incluímos uma planilha de cálculo de ROI no Apêndice C.
 
 
-23.4 Modelos de contrato e documentos necessários
+23.4 Modelos de contrato e documentos
 
-• Modelo de contrato de compra e venda
-• Modelo de procuração para representação
-• Modelo de acordo extrajudicial para desocupação
+Modelos de contrato, procuração e acordo de desocupação devem ser elaborados ou revisados por advogado. Esta edição não inclui esses modelos.
 
 
 23.5 Aplicativos para monitoramento de leilões
@@ -1278,24 +1319,21 @@ Capítulo 24: O Mercado de Leilões no Brasil
 
 24.1 Crescimento do setor nos últimos anos
 
-Os brasileiros descobriram essa possibilidade, foram dar lances para comprar a 
-casa própria pagando bem menos. Além disso, muitas instituições bancárias lotadas 
-de imóveis retomados, que precisavam ser vendidos, facilitaram a negociação.
+Os brasileiros descobriram essa possibilidade e passaram a dar lances para comprar a 
+casa própria pagando bem menos. Além disso, muitas instituições bancárias com 
+imóveis retomados, que precisavam ser vendidos, facilitaram a negociação.
 
 
 24.2 O papel da tecnologia e dos leilões online
 
-Uma plataforma digital que reúne imóveis disponíveis em 1.500 leiloeiros está 
-começando a operar. A grande maioria dos leilões hoje ocorre online, facilitando 
-a participação de investidores de todo o país.
+Há plataformas digitais que reúnem imóveis de vários leiloeiros. Muitos leilões hoje 
+ocorrem online, o que facilita a participação de investidores de todo o país.
 
 
 24.3 O que esperar para os próximos 10 anos
 
-Jornais como O Globo, O Estado de São Paulo, Valor Econômico têm sessões semanais 
-ensinando tudo sobre leilões e informando as oportunidades de arremate disponíveis. 
-Os comentaristas econômicos das rádios CBN e Bandeirantes já falaram muito sobre 
-o assunto.
+Jornais de grande circulação publicam editais e reportagens sobre leilões, o que ajuda 
+a aumentar a familiaridade do público com o tema.
 
 
 24.4 O impacto da inteligência artificial na análise de oportunidades
@@ -1320,8 +1358,7 @@ Capítulo 25: O Leão e a Gazela — Mentalidade do Investidor
 
 25.1 A importância da paciência
 
-O investidor de verdade espera. Não há atalhos. Ninguém fica milionário em três anos andando de Ferrari ou Lamborghini: essa imagem que circula nas redes não representa a maioria dos investidores. Pode existir para alguém, mas, em geral, não existe no mercado financeiro. Pode existir para alguém, mas em geral no mercado 
-financeiro não existe.
+O investidor de verdade espera. Não há atalhos. Ninguém fica milionário em três anos andando de Ferrari ou Lamborghini: essa imagem que circula nas redes não representa a maioria dos investidores. Pode existir para alguém, mas, em geral, não existe no mercado financeiro.
 
 
 25.2 Não se apaixonar pelo imóvel (apenas pelos números)
@@ -1367,8 +1404,7 @@ imobiliária no país.
 Como obter:
 
 O processo pode ser realizado através da rede consular brasileira no país de 
-residência do investidor. A inscrição normalmente leva de 2 a 3 semanas para ser 
-concluída.
+residência do investidor. A inscrição pode levar algumas semanas para ser concluída.
 
 Documentação básica necessária:
 
@@ -1410,11 +1446,10 @@ Caução: Muitos leilões exigem o depósito de um valor de caução (em alguns 
 do lance mínimo) para credenciar o participante.
 
 
-26.4 O edital e a due diligence (análise crítica)
+26.4 O edital e a análise prévia do imóvel
 
-A "due diligence" é a etapa mais crítica e não pode ser negligenciada. Ao 
-contrário das compras tradicionais, o imóvel em leilão é vendido "no estado 
-em que se encontra" ("as is").
+A análise prévia do imóvel (diligência) é a etapa mais crítica e não pode ser negligenciada. 
+Ao contrário das compras tradicionais, o imóvel em leilão é vendido no estado em que se encontra.
 
 O Edital: É o documento que rege o leilão. Deve ser lido atentamente. Ele 
 contém todas as informações sobre o imóvel, dívidas, ocupação e condições de 
@@ -1437,7 +1472,9 @@ Imóveis Rurais:
 • A aquisição por pessoas físicas estrangeiras é limitada a 50 módulos de 
   exploração indefinida
 
-• Para áreas entre 3 e 50 módulos, é necessária autorização do INCRA
+• Imóvel de até 3 módulos é livre de autorização, mas a compra de mais de um imóvel desse porte por pessoa física também depende de autorização
+
+• Para áreas entre 3 e 50 módulos, é necessária autorização do INCRA; acima de 20 módulos, também a aprovação do projeto de exploração (art. 7º da Lei 5.709/71)
 • Empresas brasileiras com maioria de capital estrangeiro são equiparadas a 
   estrangeiras para esses fins
 
@@ -1490,7 +1527,7 @@ canais bancários estejam prontos para a execução.
 1. Obter CPF
 2. Abrir uma conta bancária no Brasil (ou planejar a transferência cambial)
 3. Selecionar um imóvel urbano para evitar restrições complexas
-4. Realizar uma due diligence completa: analisar o edital, a matrícula do imóvel, 
+4. Realizar uma análise prévia completa: analisar o edital, a matrícula do imóvel, 
    dívidas e situação de ocupação
 
 5. Caso necessário, buscar autorizações (INCRA, CDN) com antecedência
@@ -1509,7 +1546,7 @@ Capítulo 27 (Bônus): Leilões de Alto Valor — Como Investir Acima de R$ 1 Mi
 27.1 O mercado de imóveis de luxo em leilão
 
 Imóveis de luxo (acima de R$ 1 milhão) também vão a leilão. O desconto pode ser 
-menor (30-40%), mas o lucro absoluto é maior.
+menor, conforme o caso, mas o lucro absoluto tende a ser maior.
 
 
 27.2 Captação de recursos: como levantar capital
@@ -1536,8 +1573,8 @@ Além de imóveis residenciais, é possível investir em imóveis comerciais
 
 27.5 A saída estratégica: venda para fundos de investimento
 
-Imóveis de alto valor podem ser vendidos para fundos de investimento imobiliário 
-(FIIs), que pagam um prêmio pela estabilidade e escala.
+Imóveis de alto valor podem interessar a fundos de investimento imobiliário (FIIs), 
+dependendo do perfil do imóvel e do mercado.
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -1559,15 +1596,14 @@ ideia aqui é colocar uma semente sobre o tema na sua cabeça para que posterior
 você busque conhecimentos e faça com que ela cresça, e quem sabe se transforme na 
 realização dos seus objetivos.
 
-Não tenho dúvida de que quem começar a investir em leilões judiciais de imóveis não 
-irá se arrepender.
+Espero que este livro ajude você a começar com cautela e conhecimento.
 
 O convite para a comunidade de investidores
 
 Agradeço você ter vindo até aqui e ter lido toda esta obra.
 
-Convido você a fazer parte da comunidade de investidores que estão transformando 
-suas vidas através dos leilões imobiliários.
+Convido você a fazer parte da comunidade de investidores que investem em leilões 
+imobiliários com conhecimento e disciplina.
 
 Como entrar em contato com o autor
 
@@ -1585,7 +1621,7 @@ Desejo grandes negócios para você.
 APÊNDICES
 ════════════════════════════════════════════════════════════════════════════════
 
-Apêndice A: Íntegra da Lei 9.514/97 (dispositivos mais relevantes)
+Apêndice A: Dispositivos principais da Lei 9.514/97
 ═══════════════════════════════════════════════════════════════════════════════
 
 Lei nº 9.514, de 20 de novembro de 1997
@@ -1595,7 +1631,7 @@ fiduciária de coisa imóvel e dá outras providências.
 
 Artigo 1º: O Sistema de Financiamento Imobiliário (SFI) tem por finalidade 
 promover o financiamento imobiliário em geral, segundo condições compatíveis 
-com a da formação dos fundos respectivos.
+com a formação dos fundos respectivos.
 
 Artigo 2º: Poderão operar no SFI as Caixas Econômicas, os bancos comerciais, 
 os bancos de investimentos, os bancos com carteira de crédito imobiliário, a 
@@ -1615,63 +1651,41 @@ compatíveis com as suas atividades.
 Apêndice B: Glossário de Termos Técnicos (Common Law vs. Civil Law)
 ═══════════════════════════════════════════════════════════════════════════════
 
-╔════════════════════╦═════════════════════╦══════════════════════════════════╗
-║ Termo              ║ Definição           ║ Aplicação no Contexto           ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Arrematação        ║ Ato pelo qual o     ║ Processo de compra em leilão    ║
-║                    ║ comprador adquire   ║                                  ║
-║                    ║ o imóvel em leilão  ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Alienação Fiduciária║Transferência da     ║ Garantia de dívida              ║
-║                    ║ propriedade como    ║                                  ║
-║                    ║ garantia            ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ CRI                ║ Certificado de      ║ Título de crédito imobiliário   ║
-║                    ║ Recebíveis          ║                                  ║
-║                    ║ Imobiliários        ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Common Law         ║ Sistema jurídico    ║ Base para contratos financeiros ║
-║                    ║ baseado em          ║ internacionais (~80% dos        ║
-║                    ║ precedentes         ║ contratos transfronteiriços)    ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Civil Law          ║ Sistema jurídico    ║ Sistema jurídico brasileiro     ║
-║                    ║ baseado em códigos  ║                                  ║
-║                    ║ escritos            ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Edital             ║ Documento que rege  ║ "A bíblia" do leilão            ║
-║                    ║ o leilão            ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Homologação        ║ Aprovação judicial  ║ Formalização da arrematação     ║
-║                    ║ da arrematação      ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Imissão na Posse   ║ Ação judicial para  ║ Tomar posse do imóvel arremat.  ║
-║                    ║ tomar posse         ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ ITBI               ║ Imposto de Transm.  ║ Custo de compra (SP: 3%)           ║
-║                    ║ de Bens Imóveis     ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Leilão Extrajudicial║ Leilão fora do proc.║ Inadimplência de 3+ parcelas    ║
-║                    ║ judicial            ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Leilão Judicial    ║ Leilão dentro de    ║ Cobrança de dívida imobiliária  ║
-║                    ║ processo judicial   ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Matrícula          ║ Doc. do cartório    ║ Histórico do imóvel             ║
-║                    ║ com histórico       ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ ROI                ║ Retorno sobre       ║ Lucro / Investimento (em %)     ║
-║                    ║ Investimento        ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ ROE                ║ Retorno sobre       ║ Lucro / Capital Próprio (em %)  ║
-║                    ║ Patrimônio          ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ SFI                ║ Sistema de          ║ Marco regulatório dos leilões   ║
-║                    ║ Financiamento       ║                                  ║
-║                    ║ Imobiliário         ║                                  ║
-╠════════════════════╬═════════════════════╬══════════════════════════════════╣
-║ Stare Decisis      ║ Princípio da Common ║ Vinculação a precedentes        ║
-║                    ║ Law                 ║                                  ║
-╚════════════════════╩═════════════════════╩══════════════════════════════════╝
+╔══════════════════════╦══════════════════════════════════════════════════════╦═════════════════════════════════════════════════════════════════════════╗
+║ Termo                ║ Definição                                            ║ Aplicação no Contexto                                                   ║
+╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
+║ Arrematação          ║ Ato pelo qual o comprador adquire o imóvel em leilão ║ Processo de compra em leilão                                            ║
+╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
+║ Alienação Fiduciária ║ Transferência da propriedade como garantia           ║ Garantia de dívida                                                      ║
+╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
+║ CRI                  ║ Certificado de Recebíveis Imobiliários               ║ Título de crédito imobiliário                                           ║
+╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
+║ Common Law           ║ Sistema jurídico baseado em precedentes              ║ Base para contratos financeiros internacionais contratos internacionais ║
+╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
+║ Civil Law            ║ Sistema jurídico baseado em códigos escritos         ║ Sistema jurídico brasileiro                                             ║
+╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
+║ Edital               ║ Documento que rege o leilão                          ║ Documento central do leilão                                             ║
+╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
+║ Homologação          ║ Aprovação judicial da arrematação                    ║ Formalização da arrematação                                             ║
+╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
+║ Imissão na Posse     ║ Ação judicial para tomar posse                       ║ Tomar posse do imóvel arrematado                                        ║
+╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
+║ ITBI                 ║ Imposto de Transm. de Bens Imóveis                   ║ Custo de compra (SP: 3%)                                                ║
+╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
+║ Leilão Extrajudicial ║ Leilão fora do processo judicial                     ║ Inadimplência de 3 ou mais parcelas                                     ║
+╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
+║ Leilão Judicial      ║ Leilão dentro de processo judicial                   ║ Cobrança de dívida imobiliária                                          ║
+╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
+║ Matrícula            ║ Doc. do cartório com histórico                       ║ Histórico do imóvel                                                     ║
+╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
+║ ROI                  ║ Retorno sobre Investimento                           ║ Lucro / Investimento (em %)                                             ║
+╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
+║ ROE                  ║ Retorno sobre Patrimônio                             ║ Lucro / Capital Próprio (em %)                                          ║
+╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
+║ SFI                  ║ Sistema de Financiamento Imobiliário                 ║ Marco regulatório dos leilões                                           ║
+╠══════════════════════╬══════════════════════════════════════════════════════╬═════════════════════════════════════════════════════════════════════════╣
+║ Stare Decisis        ║ Princípio da Common Law                              ║ Vinculação a precedentes                                                ║
+╚══════════════════════╩══════════════════════════════════════════════════════╩═════════════════════════════════════════════════════════════════════════╝
 
 
 ═══════════════════════════════════════════════════════════════════════════════
@@ -1752,7 +1766,7 @@ Apêndice E: Perguntas Frequentes (FAQ)
 
 1. É seguro comprar um imóvel leiloado?
 
-Arrematar o imóvel em leilão é muito atrativo. Contudo, essa transação pode se 
+Arrematar um imóvel em leilão pode ser atraente. Contudo, essa transação pode se 
 tornar complexa para quem não tem o conhecimento jurídico necessário para a 
 condução do negócio. Para garantir uma boa negociação e tranquilidade na compra, 
 é primordial contar com uma assessoria especializada em leilão de imóveis.
@@ -1766,26 +1780,26 @@ Os descontos variam conforme o imóvel, a praça e o edital. Na prática, costum
 3. Posso financiar a compra?
 
 Muitas instituições bancárias facilitaram a negociação, parcelaram o valor do 
-arremate e, em muitas vezes, até financiaram o lance vencedor, com prazo quase 
-tão extenso quanto de um empréstimo imobiliário e com taxas reduzidas.
+arremate e, em muitos casos, até financiaram o lance vencedor, com prazo quase 
+tão longo quanto o de um empréstimo imobiliário e com taxas que variam conforme a instituição.
 
 
 4. O que acontece se o imóvel estiver ocupado?
 
-Se o imóvel estiver ocupado, a possibilidade de requerer judicialmente a imissão 
-na posse pode levar algum tempo, além de mais custos judiciais.
+Nesse caso, a ação de imissão na posse pode levar algum tempo e gerar custos judiciais 
+adicionais.
 
 
 5. Quanto tempo leva para vender?
 
-A média de vendas são 12 meses.
+O prazo médio de venda costuma ser de cerca de 12 meses, na experiência do autor, e varia 
+conforme o caso.
 
 
 6. Qual é o ROI médio?
 
-Considerando todos os custos envolvidos com a aquisição de um imóvel e as 
-despesas de venda, é possível alcançar, em um único negócio, um ROI entre 50% 
-e 60%.
+Os casos do Capítulo 22 mostram ROI entre 0% e 59%, já descontados os custos de compra, 
+reforma e venda. O resultado de cada negócio depende do caso.
 
 
 7. Estrangeiros podem participar de leilões no Brasil?
@@ -1818,7 +1832,7 @@ Referências verificadas em 23 de outubro de 2026.
 
 6. BRASIL. Lei nº 11.196, de 21 de novembro de 2005 (art. 39: reinvestimento na venda de imóvel residencial).
 
-7. BRASIL. Lei nº 5.709, de 7 de outubro de 1971. Regula a aquisição de imóveis rurais por estrangeiros.
+7. BRASIL. Lei nº 5.709, de 7 de outubro de 1971 (art. 7º: limites de módulos e autorização do INCRA). Regulamentada pelo Decreto nº 74.965/1974.
 
 8. SUPERIOR TRIBUNAL DE JUSTIÇA. REsp 2.096.465/SP. Relator: Ministro Ricardo Villas Bôas Cueva, 3ª Turma.
 
@@ -1830,7 +1844,11 @@ Referências verificadas em 23 de outubro de 2026.
 
 12. INSTITUTE OF ADVANCED LEGAL STUDIES (IALS), UNIVERSITY OF LONDON. Book Launch of Contemporary Law in Common Law and Civil Law. Notícia publicada em 2025. Disponível em: ials.sas.ac.uk.
 
-13. RECEITA FEDERAL DO BRASIL. Solução de Consulta sobre isenção de ganho de capital na venda de imóvel residencial (IRPF). [número a completar antes da publicação]
+13. RECEITA FEDERAL DO BRASIL. Solução de Consulta Cosit nº 264, de 30 de outubro de 2023 (isenção de R$ 440 mil).
+
+14. RECEITA FEDERAL DO BRASIL. Solução de Consulta Cosit nº 99.004, de 14 de março de 2024 (quitação de financiamento de imóvel residencial).
+
+15. RECEITA FEDERAL DO BRASIL. Solução de Consulta Cosit nº 108, de 1º de julho de 2026 (reinvestimento em imóvel residencial).
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -1857,33 +1875,7 @@ SFI .................................. Capítulo 2
 SOBRE O AUTOR
 ════════════════════════════════════════════════════════════════════════════════
 
-Solomon Von Herclestein é estrategista financeiro, economista formado pela 
-Faculdade Estácio de Sá, com cursos complementares na Bocconi University (Itália), 
-Harvard University e Yale University (EUA). Possui 141 certificações globais, 
-incluindo credenciamentos pela Organização das Nações Unidas (ONU) e pela 
-Interpol, com foco em prevenção à fraude, compliance internacional e crimes 
-financeiros.
-
-É colaborador do Investing.com desde 2018, onde desenvolveu e utiliza a métrica 
-proprietária HUE (Herdade Única Efetiva), um indicador de retorno ajustado por 
-risco e custos. É autor do Substack "Solomon Von Herclestein" e apresentador do 
-podcast AVVISI — cuja tagline é "Just signal. Just Avvisi" — dedicado à 
-inteligência financeira discreta para investidores de alta renda.
-
-Atua como Arquiteto Privado para indivíduos e famílias de ultra-alto patrimônio 
-(UHNW), com expertise em tesouraria, derivativos, crédito estruturado e leilões 
-imobiliários. Seu método Warrior-Scholar — síntese de Kenjutsu (disciplina 
-samurai), Xadrez (estratégia) e Pôquer (gestão de risco sob incerteza) — orienta 
-sua abordagem de proteção e expansão de patrimônio intergeracional.
-
-Possui formação complementar em Common Law pela University of London, através do 
-Institute of Advanced Legal Studies (IALS), participando do seminário internacional 
-"New Trends in the Common Law" desde 2018, consolidando expertise em estruturação 
-de negócios transfronteiriços.
-
-Seu lema é: "Until now, the Lord has helped me" — uma declaração de gratidão, 
-propósito e integridade que emoldura todo o seu trabalho.
-
+Solomon Von Herclestein é estrategista financeiro e economista. Colaborador do Investing.com desde 2018, escreve análises de mercado e apresenta o podcast AVVISI. Publica no Substack "Solomon Von Herclestein".
 
 ════════════════════════════════════════════════════════════════════════════════
 CONTATO
