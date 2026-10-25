@@ -69,3 +69,14 @@ Os itens 2 a 5 dependem de acesso a textos integrais. Se você tiver acesso ao D
 
 - Inglês: incluídos o histórico do regime (início do Cap. 2), a seção 3.4 sobre praças e segundo leilão, a ressalva sobre o piso de 50% (REsp 2,039,253/SP) nas seções 3.3 e 3.4, e a referência 19 na bibliografia.
 - Pendências que continuam abertas: vigência do art. 24, §1º (advogado); números de ITBI, comissão e emolumentos (contador); revisão humana de português e tradução; subtítulo "94%" (decisão do autor); errata com canal real; papel e lombada; CMYK; ISBN; capa final.
+
+## Atualização (acessibilidade para o leitor leigo)
+
+- Incluídos nas duas versões: exercício prático ao fim de cada parte (7), mapa do processo extrajudicial (do edital à imissão) e glossário prático (26 termos).
+- Continuam pendentes, e não podem ser feitos por mim: pareceres de advogado imobiliário (Caps. 2, 4, 9, 10, 12.5 e 26); leitura de precedentes por jurista; revisão profissional de português e de tradução; casos com edital, matrícula e resultado (os casos seguem rotulados como ilustrativos ou como relato do autor); decisão do autor sobre o subtítulo "até 94%".
+
+## Atualização (subtítulo)
+
+- Subtítulo alterado para "Compre seu Imóvel com até 60% de Desconto" (PT) e "Buy Your Property with Up to 60% Discount" (EN), na página de rosto, na contracapa e no texto do prefácio.
+- O Cap. 19.1 mantém a expressão "imóvel com 94% de desconto" apenas como nome do golpe, com a explicação de que o desconto real fica entre 30% e 60%.
+- Pendente: confirmar que "até 60%" é coerente com os casos (o maior caso documentado no livro dá 59%).

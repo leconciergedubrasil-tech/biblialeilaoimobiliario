@@ -1,6 +1,6 @@
 ════════════════════════════════════════════════════════════════════════════════
                     THE BIBLE OF REAL ESTATE AUCTIONS
-                   Buy Your Property with Up to 94% Discount
+                   Buy Your Property with Up to 60% Discount
                            
                         Author: Solomon Von Herclestein
 ════════════════════════════════════════════════════════════════════════════════
@@ -18,7 +18,7 @@ Good afternoon. This is Solomon Von Herclestein speaking.
 Today we will discuss — or rather, I will present an exposition on real estate 
 auctions. This book is the expanded and in-depth version of the content I have 
 been presenting in my classes and lectures. It is the "Bible of Real Estate 
-Auctions: Buy Your Property with Up to 94% Discount".
+Auctions: Buy Your Property with Up to 60% Discount".
 
 I wrote this book because I never tire of explaining that real estate auctions 
 are a good investment, with financial returns much higher than other applications 
@@ -322,6 +322,34 @@ In an out-of-court auction, Law 9,514/97 speaks of a first auction and a second 
 The second out-of-court auction has its own rule: the minimum bid is the debt, with expenses and charges, and for non-housing credit the creditor may accept a bid of at least half the appraised value (art. 27, §2). The STJ does not accept a bid below 50% of the appraisal in that case (REsp 2,096,465/SP). Even so, the STJ has said the 50% floor is not absolute: in specific circumstances it has accepted a bid below 50% (REsp 2,039,253/SP, 2023). Do not count on that exception when planning a bid.
 
 
+Practice exercise — Part I
+════════════════════════════════════════════════════════════════════════════════
+
+1. Explain in your own words the difference between a judicial and an out-of-court auction.
+
+2. Which law governs fiduciary sale of real estate, and what happens when the debtor defaults?
+
+
+Map of the out-of-court process, from the notice to taking possession (Law 9,514/97)
+════════════════════════════════════════════════════════════════════════════════
+
+1. Default: the debtor stops paying the installments (art. 26).
+
+2. Notice and purging: the debtor is personally notified and has 15 days to pay the debt (art. 26, §§ 1 and 3).
+
+3. Consolidation of ownership: ownership passes to the creditor in the property registry.
+
+4. Auction: within 60 days of consolidation, the property goes to auction, with notice to the debtor of the date (art. 27 and art. 27, §2-A).
+
+5. First auction: the minimum bid is the property value set in the contract (art. 24, VI).
+
+6. Second auction: 15 days later, with a minimum bid tied to the debt and the 50% limits (art. 27, §§ 1 and 2).
+
+7. Sale and certificate: the buyer pays and receives the certificate, which is recorded in the registry (art. 30).
+
+8. Taking possession: a request to the court or a separate action, with an occupancy fee of 1% per month (arts. 30 and 37-A).
+
+
 ════════════════════════════════════════════════════════════════════════════════
 PART II — THE PATH
 ════════════════════════════════════════════════════════════════════════════════
@@ -508,6 +536,14 @@ in a federal government bond.
 2. Check if there are lawsuits against him
 3. Research the auctioneer's reputation on the internet
 4. Ask for references from other investors
+
+
+Practice exercise — Part II
+════════════════════════════════════════════════════════════════════════════════
+
+1. Before bidding, which documents should you check in the notice and in the property registration?
+
+2. If the notice sets a minimum bid above the market value you calculated, what would you do?
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -730,6 +766,14 @@ The taxable gain is calculated in the GCAP system and paid by DARF. Even when ex
 
 
 ITBI in São Paulo: the general rate is 3%, under Municipal Law 11,154/1991. Under Tema 1113 of the Brazilian Superior Court of Justice (First Section, judged on 24/02/2022), the tax base is the value of the property transferred under normal market conditions. The value declared by the taxpayer is presumed consistent with the market, and the municipality may not set the base in advance using a unilateral reference value. Recent legislative changes exist, and their validity should be checked. Confirm the base with the city hall and an accountant before any calculation. Other cities have different rates and criteria.
+
+
+Practice exercise — Part III
+════════════════════════════════════════════════════════════════════════════════
+
+1. List the costs that must be included in your calculation before bidding.
+
+2. In which situations does taking possession tend to take longer?
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -977,6 +1021,14 @@ Diversification should be used in this balance between high and low risk investm
 What makes the most sense to me is: diversify.
 
 
+Practice exercise — Part IV
+════════════════════════════════════════════════════════════════════════════════
+
+1. Calculate the ROI of a deal with a purchase of R$ 200,000, costs of R$ 40,000 and a sale of R$ 300,000, ignoring taxes.
+
+2. Why does comparing the auction discount with savings require care?
+
+
 ════════════════════════════════════════════════════════════════════════════════
 PART V — THE DANGER
 ════════════════════════════════════════════════════════════════════════════════
@@ -1099,6 +1151,14 @@ from INCRA or the National Defense Council.
 
 If the discount is small (less than 30%), the risk may not be worth it. Assess 
 whether the profit potential justifies the risk.
+
+
+Practice exercise — Part V
+════════════════════════════════════════════════════════════════════════════════
+
+1. Name three signs of a scam or a problematic notice.
+
+2. In which situation should you walk away from an auction, even with a large discount?
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -1313,6 +1373,14 @@ We have included an ROI calculation spreadsheet in Appendix C.
 • Groups on WhatsApp and Telegram
 • Real estate investment forums
 • In-person events and meetings
+
+
+Practice exercise — Part VI
+════════════════════════════════════════════════════════════════════════════════
+
+1. Build the checklist for your first auction, from the notice to taking possession.
+
+2. Which checks would you make before hiring a lawyer for a specific case?
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -1620,6 +1688,14 @@ Social media: Instagram, Facebook, LinkedIn
 I wish you great deals.
 
 
+Practice exercise — Part VII
+════════════════════════════════════════════════════════════════════════════════
+
+1. How does a long-term view change your decision at an auction?
+
+2. Which market data would you update before publishing an analysis on this topic?
+
+
 ════════════════════════════════════════════════════════════════════════════════
 APPENDICES
 ════════════════════════════════════════════════════════════════════════════════
@@ -1812,6 +1888,62 @@ ERRATA AND UPDATES
 ════════════════════════════════════════════════════════════════════════════════
 
 This edition was reviewed on October 23, 2026. Corrections and updates will be published by the author in a channel to be announced. Readers who find an error may report it through the contact details at the end of the book.
+
+
+Practical glossary
+════════════════════════════════════════════════════════════════════════════════
+
+The terms below appear in the book. Each has a short explanation for quick reference.
+
+Appraisal (avaliação): value of the property set by a valuation report, used as the reference for the auction.
+
+Auction award (arrematação): purchase made at auction, in which the highest valid bid wins.
+
+Auction certificate (carta de arrematação): document that proves the purchase and is recorded in the property registration.
+
+Auction record (auto de arrematação): document signed by the judge, the buyer and the auctioneer, which makes the purchase irrevocable (art. 903 of the Code of Civil Procedure).
+
+Auctioneer fee (comissão do leiloeiro): amount paid to the auctioneer, usually at least 5% of the amount bid, paid by the buyer.
+
+Buyer at auction (arrematante): the person who makes the winning bid and buys the property.
+
+Consolidation of ownership: act by which ownership passes to the creditor after the debt is not paid on time.
+
+Default (mora): delay in paying the debt.
+
+Deposit (caução): amount paid as a guarantee to take part in the auction, when the notice requires it.
+
+Fiduciary creditor: bank or institution that financed the property and holds ownership as security.
+
+Fiduciary debtor: the person who bought the financed property and transferred ownership to the creditor as security.
+
+Fiduciary sale: contract in which the debtor transfers ownership of the property to the creditor as security for the debt, and keeps using it while paying.
+
+First praça: first stage of a judicial auction, held at the appraised value.
+
+ITBI: municipal tax on the transfer of real estate, paid when buying.
+
+Minimum bid (lance mínimo): lowest amount a bid must reach to be accepted.
+
+Notice of auction (edital): document announcing the auction, with the property, the minimum bid, dates and conditions.
+
+Occupancy fee (taxa de ocupação): amount owed by someone who keeps occupying the property after the purchase; under the law, 1% per month.
+
+Official auctioneer (leiloeiro oficial): professional registered with the state commercial registry, authorized to conduct auctions.
+
+Property registration (matrícula do imóvel): official record of the property at the real estate registry, with the history of owners and liens.
+
+Purging of default (purgação da mora): payment of the overdue debt, with charges, which prevents consolidation of ownership.
+
+Redemption of enforcement (remição da execução): full payment of the debt with accessories, which ends the enforcement while the auction record is not signed.
+
+Second auction (segundo leilão): second round of the out-of-court auction, held 15 days after the first, when there is no winning bid.
+
+Second praça: second stage of a judicial auction, when there is no bid in the first, with a minimum bid set by the judge and the notice.
+
+Taking possession (imissão na posse): act by which the buyer gains the right to use and occupy the auctioned property.
+
+Vile price (preço vil): bid so far below the property value that it can be annulled; the STJ uses 50% of the appraisal as a reference, which is not absolute.
 
 
 ════════════════════════════════════════════════════════════════════════════════

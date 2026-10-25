@@ -1,6 +1,6 @@
 ════════════════════════════════════════════════════════════════════════════════
                     A BÍBLIA DO LEILÃO IMOBILIÁRIO
-                   Compre seu Imóvel com até 94% de Desconto
+                   Compre seu Imóvel com até 60% de Desconto
                            
                         Autor: Solomon Von Herclestein
 ════════════════════════════════════════════════════════════════════════════════
@@ -17,7 +17,7 @@ Aqui fala Solomon Von Herclestein.
 
 Este livro é a versão expandida e aprofundada do conteúdo que venho apresentando 
 em minhas aulas e palestras. É a "Bíblia sobre o leilão imobiliário: Compre seu 
-imóvel com até 94% de desconto".
+imóvel com até 60% de desconto".
 
 Escrevi este livro porque não me canso de explicar que o leilão de imóveis é um 
 bom investimento, com retorno financeiro muito maior do que outras aplicações e 
@@ -328,6 +328,34 @@ O segundo leilão extrajudicial tem regra própria: o lance mínimo é o valor d
 Na prática, ao ler um edital, pergunte: qual é o lance mínimo, qual regime se aplica (judicial ou extrajudicial) e em que fase o leilão está.
 
 
+Exercício prático — Parte I
+════════════════════════════════════════════════════════════════════════════════
+
+1. Explique, com suas palavras, a diferença entre leilão judicial e leilão extrajudicial.
+
+2. Qual lei rege a alienação fiduciária de imóveis e o que acontece quando o devedor entra em mora?
+
+
+Mapa do processo extrajudicial, do edital à imissão (Lei 9.514/97)
+════════════════════════════════════════════════════════════════════════════════
+
+1. Inadimplência: o devedor deixa de pagar as parcelas (art. 26).
+
+2. Intimação e purgação: o devedor é intimado pessoalmente e tem 15 dias para pagar a dívida (art. 26, §§ 1º e 3º).
+
+3. Consolidação da propriedade: a propriedade passa ao credor, no registro de imóveis.
+
+4. Leilão: em até 60 dias da consolidação, o imóvel vai a leilão, com comunicação ao devedor sobre a data (art. 27 e art. 27, §2º-A).
+
+5. Primeiro leilão: o lance mínimo é o valor do imóvel fixado no contrato (art. 24, VI).
+
+6. Segundo leilão: 15 dias depois, com lance mínimo pela dívida e os limites de 50% da avaliação (art. 27, §§ 1º e 2º).
+
+7. Arrematação e carta: o arrematante paga e recebe a carta, que é registrada na matrícula (art. 30).
+
+8. Imissão na posse: pedido ao juízo ou ação própria, com taxa de ocupação de 1% ao mês (arts. 30 e 37-A).
+
+
 ════════════════════════════════════════════════════════════════════════════════
 PARTE II — O CAMINHO
 ════════════════════════════════════════════════════════════════════════════════
@@ -507,6 +535,14 @@ em apólice da dívida pública federal.
 2. Verifique se há processos contra ele
 3. Pesquise a reputação do leiloeiro na internet
 4. Peça referências a outros investidores
+
+
+Exercício prático — Parte II
+════════════════════════════════════════════════════════════════════════════════
+
+1. Antes de dar um lance, quais documentos você deve conferir no edital e na matrícula?
+
+2. Se o edital fixar um lance mínimo acima do valor de mercado que você calculou, o que você faria?
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -735,6 +771,14 @@ O ganho tributável é apurado no GCAP e recolhido por DARF. Mesmo quando há is
 
 
 ITBI em São Paulo: a alíquota geral é de 3%, pela Lei Municipal 11.154/1991. Pelo Tema 1113 do STJ (Primeira Seção, julgado em 24/02/2022), a base de cálculo é o valor do imóvel transmitido em condições normais de mercado. O valor declarado pelo contribuinte presume-se condizente com o mercado, e o município não pode arbitrar previamente a base por valor de referência unilateral. Há ainda alterações legislativas recentes, cuja vigência deve ser conferida. Confirme a base com a Prefeitura e com o contador antes de qualquer conta. Outras cidades têm alíquotas e critérios diferentes.
+
+
+Exercício prático — Parte III
+════════════════════════════════════════════════════════════════════════════════
+
+1. Liste os custos que devem entrar na conta antes de dar lance.
+
+2. Em que situações a imissão na posse tende a demorar mais?
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -983,6 +1027,14 @@ A diversificação deve ser utilizada neste balanço entre investimentos de alto
 baixo risco. Essa é a abordagem que o autor considera mais adequada.
 
 
+Exercício prático — Parte IV
+════════════════════════════════════════════════════════════════════════════════
+
+1. Calcule o ROI de um negócio com compra de R$ 200 mil, custos de R$ 40 mil e venda de R$ 300 mil, ignorando impostos.
+
+2. Por que comparar o desconto do leilão com a poupança exige cuidado?
+
+
 ════════════════════════════════════════════════════════════════════════════════
 PARTE V — O PERIGO
 ════════════════════════════════════════════════════════════════════════════════
@@ -1105,6 +1157,14 @@ de fronteira, aprovação do Conselho de Defesa Nacional.
 
 Se o desconto for pequeno (menos de 30%), o risco pode não compensar. Avalie 
 se o potencial de lucro justifica o risco.
+
+
+Exercício prático — Parte V
+════════════════════════════════════════════════════════════════════════════════
+
+1. Cite três sinais de golpe ou de edital problemático.
+
+2. Em que situação você deve desistir de um leilão, mesmo com desconto grande?
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -1320,6 +1380,14 @@ Modelos de contrato, procuração e acordo de desocupação devem ser elaborados
 • Grupos no WhatsApp e Telegram
 • Fóruns de investimento imobiliário
 • Eventos e encontros presenciais
+
+
+Exercício prático — Parte VI
+════════════════════════════════════════════════════════════════════════════════
+
+1. Monte o checklist para o seu primeiro leilão, do edital à imissão na posse.
+
+2. Quais verificações você faria antes de contratar um advogado para um caso específico?
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -1630,6 +1698,14 @@ Redes sociais: Instagram, Facebook, LinkedIn
 Desejo grandes negócios para você.
 
 
+Exercício prático — Parte VII
+════════════════════════════════════════════════════════════════════════════════
+
+1. Como a visão de longo prazo muda a sua decisão em um leilão?
+
+2. Quais dados de mercado você atualizaria antes de publicar uma análise sobre o tema?
+
+
 ════════════════════════════════════════════════════════════════════════════════
 APÊNDICES
 ════════════════════════════════════════════════════════════════════════════════
@@ -1825,6 +1901,62 @@ ERRATA E ATUALIZAÇÕES
 ════════════════════════════════════════════════════════════════════════════════
 
 Esta edição foi revisada em 23 de outubro de 2026. Correções e atualizações serão publicadas pelo autor em canal a ser divulgado. Quem encontrar erro pode informar pelo contato indicado ao final do livro.
+
+
+Glossário prático
+════════════════════════════════════════════════════════════════════════════════
+
+Os termos abaixo aparecem no livro. Cada um vem com uma explicação curta, para consulta rápida.
+
+Alienação fiduciária: contrato em que o devedor transfere a propriedade do imóvel ao credor como garantia da dívida, e continua usando o bem enquanto paga.
+
+Arrematante: quem dá o lance vencedor e compra o imóvel no leilão.
+
+Arrematação: compra feita em leilão, em que o maior lance válido vence.
+
+Auto de arrematação: documento assinado pelo juiz, pelo arrematante e pelo leiloeiro, que torna a compra irretratável (art. 903 do CPC).
+
+Avaliação: valor do imóvel definido por laudo, usado como referência para o leilão.
+
+Carta de arrematação: documento que comprova a compra e é registrado na matrícula do imóvel.
+
+Caução: valor depositado como garantia para participar do leilão, quando o edital exige.
+
+Comissão do leiloeiro: valor pago ao leiloeiro, normalmente de no mínimo 5% do valor arrematado, pelo arrematante.
+
+Consolidação da propriedade: ato em que a propriedade do imóvel passa ao credor, após a dívida não ser paga no prazo.
+
+Credor fiduciário: banco ou instituição que financiou o imóvel e fica com a propriedade como garantia.
+
+Devedor fiduciante: quem comprou o imóvel financiado e transferiu a propriedade ao credor como garantia.
+
+Edital: documento que anuncia o leilão, com o imóvel, o lance mínimo, as datas e as condições.
+
+Imissão na posse: ato pelo qual o comprador passa a ter o direito de usar e ocupar o imóvel arrematado.
+
+ITBI: imposto sobre a transmissão de bens imóveis, pago ao município na compra.
+
+Lance mínimo: menor valor que um lance precisa alcançar para ser aceito.
+
+Leiloeiro oficial: profissional matriculado na junta comercial do estado, autorizado a conduzir leilões.
+
+Matrícula do imóvel: registro oficial do imóvel no cartório de registro de imóveis, com o histórico de donos e ônus.
+
+Mora: atraso no pagamento da dívida.
+
+Preço vil: lance tão abaixo do valor do imóvel que pode ser anulado; o STJ usa como referência o limite de 50% da avaliação, sem ser absoluto.
+
+Primeira praça: primeira etapa do leilão judicial, feita pelo valor de avaliação.
+
+Purgação da mora: pagamento da dívida em atraso, com encargos, que impede a consolidação da propriedade.
+
+Remição da execução: pagamento integral da dívida com acessórios, que encerra a execução enquanto o auto não estiver assinado.
+
+Segunda praça: segunda etapa do leilão judicial, quando não há lance na primeira, com lance mínimo definido pelo juiz e pelo edital.
+
+Segundo leilão: segunda rodada do leilão extrajudicial, realizada 15 dias depois do primeiro, quando não há lance vencedor.
+
+Taxa de ocupação: valor devido por quem continua ocupando o imóvel após a arrematação, de 1% ao mês pela lei.
 
 
 ════════════════════════════════════════════════════════════════════════════════
