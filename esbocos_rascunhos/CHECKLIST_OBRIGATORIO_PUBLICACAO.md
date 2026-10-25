@@ -64,3 +64,8 @@ Os itens 2 a 5 dependem de acesso a textos integrais. Se você tiver acesso ao D
 - Inteiro teor lido no sítio do STJ: relator Min. Ricardo Villas Bôas Cueva; 3ª Turma; sessão virtual de 23/02 a 01/03/2021; DJe 09/03/2021; agravo não provido por unanimidade.
 - Fundamento: ciência inequívoca decorrente de ação cautelar para obstar o leilão; revisão esbarra na Súmula 7. O livro agora registra esse fundamento e não apresenta o acórdão como nulidade automática.
 - Art. 24 da Lei 9.514 (regra de preço mínimo do primeiro leilão): ainda pendente. Esta análise se contradiz: admite que a Lei 14.620 não reproduz o dispositivo, e a anotação oficial registra a versão da MP 1.162/2023 como não convertida. Manter para o advogado, com as três perguntas já formuladas.
+
+## Atualização (versão em inglês sincronizada)
+
+- Inglês: incluídos o histórico do regime (início do Cap. 2), a seção 3.4 sobre praças e segundo leilão, a ressalva sobre o piso de 50% (REsp 2,039,253/SP) nas seções 3.3 e 3.4, e a referência 19 na bibliografia.
+- Pendências que continuam abertas: vigência do art. 24, §1º (advogado); números de ITBI, comissão e emolumentos (contador); revisão humana de português e tradução; subtítulo "94%" (decisão do autor); errata com canal real; papel e lombada; CMYK; ISBN; capa final.

@@ -153,6 +153,8 @@ general, under conditions compatible with the formation of respective funds.
 Chapter 2: The Legal Foundation of Auctions
 ═══════════════════════════════════════════════════════════════════════════════
 
+Before 1997, the enforcement of real estate guarantees relied mainly on Decree-Law 70/1966, which provided for out-of-court enforcement of mortgage credits of the Housing Finance System. Law 9,514/97 established fiduciary sale of real estate and the Real Estate Financing System (SFI). Law 13,465/2017 and Law 14,711/2023 changed this regime, and Decree-Law 70/66 was partly revoked by the latter. The following sections describe the current law.
+
 2.1 Law 9,514/97: The Real Estate Financing System (SFI)
 
 Law 9,514/97 is the foundation of the real estate auction market in Brazil.
@@ -261,7 +263,7 @@ In judicial auctions, there are two calls:
 1st call: The property is offered at the appraised value. If there are no bids, 
 it proceeds to the 2nd call.
 
-2nd call: The property is offered again, with a minimum bid set by the judge and the notice. Law prohibits so-called "vile price" sales, and bids far below the appraised value may be annulled. Check the floor that applies to your case with a lawyer.
+2nd call: The property is offered again, with a minimum bid set by the judge and the notice. Law prohibits so-called "vile price" sales, and bids far below the appraised value may be annulled. The STJ has accepted, in specific circumstances, a bid below 50% of the appraisal (REsp 2,039,253/SP, 2023), so the floor is not absolute. Check the floor that applies to your case with a lawyer.
 
 It is in the 2nd call that opportunities often appear, but the discount depends on the notice and the legal floor against vile price.
 
@@ -307,6 +309,17 @@ No. Participation in an auction requires full legal capacity, that is, being
 
 Foreigners can participate in auctions in Brazil, but must observe specific rules, 
 which will be detailed in Chapter 26 (Bonus).
+
+
+3.4 Auction Stage, Sale and Second Auction: three concepts that get confused
+
+The word "praça" does not have the same meaning in the two regimes, and this confuses investors.
+
+In a judicial auction, the first praça is the sale at the appraised value of the property. If there is no bid, a second praça is held, with a minimum bid set by the judge and the notice. If no minimum is fixed, a bid below 50% of the appraisal is vile (art. 891, sole paragraph, of the Code of Civil Procedure).
+
+In an out-of-court auction, Law 9,514/97 speaks of a first auction and a second auction, not praças. In the first auction, the minimum bid is the property value set in the contract (art. 24, VI). If that value is lower than the ITBI tax base used by the competent body when ownership is consolidated, the latter becomes the minimum for the first auction (art. 24, §1, as introduced by MP 1,162/2023; its validity is not safely confirmed, and a lawyer should check it). This rule must be read together with the STJ's Theme 1113: the existence of a municipal reference value does not by itself make that value legitimate for tax purposes. Check which value was adopted in the notice.
+
+The second out-of-court auction has its own rule: the minimum bid is the debt, with expenses and charges, and for non-housing credit the creditor may accept a bid of at least half the appraised value (art. 27, §2). The STJ does not accept a bid below 50% of the appraisal in that case (REsp 2,096,465/SP). Even so, the STJ has said the 50% floor is not absolute: in specific circumstances it has accepted a bid below 50% (REsp 2,039,253/SP, 2023). Do not count on that exception when planning a bid.
 
 
 ════════════════════════════════════════════════════════════════════════════════
@@ -1842,6 +1855,8 @@ References verified on October 23, 2026.
 17. SUPERIOR COURT OF JUSTICE (STJ). Repetitive Theme 1113 (ITBI tax base). First Section, judged on 24/02/2022, published on 03/03/2022.
 
 18. BRAZIL. Law No. 9,514, of November 20, 1997, art. 24, sole paragraph (Law 13,465/2017) and MP 1,162/2023 (text recorded as not converted into law in the official annotation). Status to be confirmed with a lawyer.
+
+19. SUPERIOR COURT OF JUSTICE (STJ). REsp 2,039,253/SP (Third Panel, Minister Nancy Andrighi, 2023): exception to the 50% floor for vile price in specific circumstances.
 
 
 ════════════════════════════════════════════════════════════════════════════════
