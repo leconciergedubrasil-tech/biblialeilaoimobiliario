@@ -80,3 +80,23 @@ Os itens 2 a 5 dependem de acesso a textos integrais. Se você tiver acesso ao D
 - Subtítulo alterado para "Compre seu Imóvel com até 60% de Desconto" (PT) e "Buy Your Property with Up to 60% Discount" (EN), na página de rosto, na contracapa e no texto do prefácio.
 - O Cap. 19.1 mantém a expressão "imóvel com 94% de desconto" apenas como nome do golpe, com a explicação de que o desconto real fica entre 30% e 60%.
 - Pendente: confirmar que "até 60%" é coerente com os casos (o maior caso documentado no livro dá 59%).
+
+## Atualização (JUCESP)
+
+- Endereço da JUCESP não confirmado em fonte oficial. A linha do Apêndice D foi trocada por orientação genérica (área de leiloeiros do site oficial do governo paulista), nas duas versões. Pendência resolvida no texto.
+
+## Produção (miolo para prova)
+
+- Miolo PT (76 páginas) e EN (72 páginas) regerados com cores em CMYK (conversão aproximada, sem perfil ICC). Restam 21 usos de preto puro em RGB nas duas versões, que a gráfica deve confirmar na conferência técnica.
+- Lombada da capa: apenas "A BÍBLIA DO LEILÃO IMOBILIÁRIO" (sem nome do autor).
+- ISBN e código de barras: somente após o texto final. Sequência: texto final → ISBN (Câmara Brasileira do Livro) → ficha catalográfica (Biblioteca Nacional) → código de barras → capa final.
+- Pendente antes do ISBN: pareceres jurídicos (art. 24, §1º; art. 26-A; ocupação e impugnação; CRI), números do contador e revisão profissional de português e tradução.
+
+## Revisão editorial (padrão de redação financeira)
+
+- Títulos: "patrimônio construído" no lugar de "carteira milionária" (cap. 30 e equivalente em inglês). 16.3 deixa claro que os 35% são premissa ilustrativa.
+- Frases de garantia removidas ("sempre haverá outro imóvel").
+- ROI x renda fixa: comparação agora explicita que é bruta, sem custos, impostos e tempo parado.
+- Causa macroeconômica atribuída ao autor.
+- Acordo com ocupante: ressalva de que depende do caso.
+- Pendente: revisão editorial completa do inglês (apenas os trechos acima foram espelhados) e revisão de um editor profissional.

@@ -27,12 +27,12 @@ a cada dia, na medida em que surgem novas casas leiloeiras e em que a imprensa
 dedica mais espaço à cobertura jornalística deste mercado.
 
 
-Minha história: do primeiro leilão à carteira milionária
+Minha história: do primeiro leilão ao patrimônio construído
 
 Em agosto de 2022, arrematei um apartamento na Vila Madalena, em São Paulo capital, 
 por R$ 180 mil. Gastei mais de R$ 50 mil com outras despesas. Passou-se um tempo, 
 revendi o bem por R$ 320 mil. É um lucro, portanto, de R$ 90 mil em menos de 
-12 meses — o que, comparado com alguns títulos de renda fixa que rendem por volta de 12% ao ano, equivale a cerca de três anos de rendimento em um único ano.
+12 meses — em termos brutos, esse resultado equivale a mais de três anos do rendimento de títulos de renda fixa que rendem por volta de 12% ao ano. A comparação ignora custos, impostos e o tempo que o dinheiro ficou parado, por isso não é uma comparação de retorno anual.
 
 Este não foi um caso isolado. Foi o primeiro de muitos. E acredito que, se você 
 está lendo este livro, também pode alcançar resultados semelhantes — ou melhores.
@@ -129,7 +129,7 @@ Compra convencional e arrematação, lado a lado:
 1.3 Por que os imóveis vão a leilão?
 
 O fator principal é a crise. O Brasil ainda não se recuperou da crise econômica 
-que deixou milhões desempregados. Tivemos a pandemia de Covid-19, tivemos uma 
+que deixou milhões desempregados. Segundo a análise do autor, a pandemia de Covid-19 também teve efeito sobre o setor. Tivemos uma 
 recessão pós-Covid, e isso derrubou a quantidade de lançamentos imobiliários. 
 Quem tinha dinheiro passou a procurar imóveis usados e com melhores condições 
 de pagamento. Foi o ponto de partida para o crescimento do mercado de leilões.
@@ -482,7 +482,7 @@ O leilão é um ambiente emocional. O ambiente de leilão costuma gerar senso de
 urgência e competição. Para não cair nessa armadilha:
 
 • Tenha seu lance máximo definido e não o mude durante o leilão
-• Lembre-se: sempre haverá outro imóvel
+• Lembre-se: haverá outros imóveis à venda, em outros leilões
 • Respire fundo antes de dar um lance
 
 
@@ -651,7 +651,7 @@ Atenção: o ocupante pode alegar nulidade do procedimento. Por isso, leia o edi
 
 10.5 Acordos extrajudiciais com ocupantes
 
-Muitas vezes, é mais rápido e barato fazer um acordo com o ocupante (pagamento 
+Em muitos casos, um acordo com o ocupante pode ser mais rápido e barato que a ação judicial. O resultado depende do caso. Quando possível, faça um acordo com o ocupante (pagamento 
 de "chave na mão") do que ajuizar uma ação judicial.
 
 
@@ -960,7 +960,7 @@ Considerando, como premissa ilustrativa, um retorno anual de 35%:
 Nota: as projeções acima assumem retorno constante, sem descontar inflação, impostos, vacância ou custos de transação. Trate-as como ilustração matemática, não como expectativa de resultado.
 
 
-16.3 O exemplo de Warren Buffett (20% a.a.) vs. o Leilão (35% a.a.)
+16.3 Crescimento composto: exemplo de Buffett (dado da Berkshire) e uma premissa ilustrativa de 35% ao ano
 
 Warren Buffett, um dos investidores mais conhecidos do mundo, obteve, na Berkshire 
 Hathaway, retorno composto anual de 19,8% entre 1965 e 2023, segundo dados da própria 
@@ -1190,7 +1190,7 @@ Capítulo 21: Seu Primeiro Leilão — Checklist Completo
 
 21.3 Mês 3: Participação e arrematação
 
-□ Defina seu lance máximo (não ultrapasse!)
+□ Defina seu lance máximo (não ultrapasse esse valor)
 □ Participe de 3 leilões como "treino"
 □ Arremate seu primeiro imóvel
 
@@ -1420,7 +1420,7 @@ a aumentar a familiaridade do público com o tema.
 
 A inteligência artificial pode ajudar a:
 
-• Analisar milhares de editais rapidamente
+• Acompanhar editais com regularidade
 • Identificar oportunidades com alto potencial de lucro
 • Prever o valor de mercado dos imóveis
 • Avaliar riscos jurídicos e de ocupação
@@ -1830,7 +1830,7 @@ AL: JUCEAL, juceal.al.gov.br/servicos/leiloeiros
 
 ES: JUCEES, www.jucees.es.gov.br/servicos/leiloeiros/
 
-SP: JUCESP, endereço a confirmar antes da publicação
+SP: JUCESP, pela área de leiloeiros do site oficial do governo do estado de São Paulo
 
 Demais estados: procure "Junta Comercial do [estado] leiloeiros" no site oficial do governo estadual.
 

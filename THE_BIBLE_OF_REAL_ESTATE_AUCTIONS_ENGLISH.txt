@@ -27,13 +27,13 @@ in Brazil, people are afraid to make bids. This fear decreases daily as new
 auction houses emerge and the press dedicates more space to covering this market.
 
 
-My Story: From First Auction to Million-Dollar Portfolio
+My Story: From the First Auction to a Built Estate
 
 In August 2022, I purchased an apartment in Vila Madalena, São Paulo, for R$ 
 180,000. I spent over R$ 50,000 on other expenses. Time passed, and I resold the 
 property for R$ 320,000. This is a profit of R$ 90,000 in less than 12 months — 
 which, compared to, for example, savings accounts or some bonds that revolve 
-around 12% per year, represents three years of returns in just one year.
+around 12% per year, represents more than three years of returns on fixed-income securities yielding around 12% per year, before costs, taxes and the time the money was tied up. It is therefore not a like-for-like annual return comparison.
 
 This was not an isolated case. It was the first of many. And I believe that if 
 you are reading this book, you can also achieve similar or even better results.
@@ -127,7 +127,7 @@ Conventional purchase and auction, side by side:
 1.3 Why Properties Go to Auction
 
 The main factor is crisis. Brazil has not yet recovered from the economic crisis 
-that left millions unemployed. We had the COVID-19 pandemic, we had a post-COVID 
+that left millions unemployed. According to the author's analysis, the COVID-19 pandemic also affected the sector. We had a post-COVID 
 recession, and this reduced the number of real estate launches. Those with money 
 began to look for used properties with better payment conditions. This was the 
 starting point for the growth of the auction market.
@@ -478,7 +478,7 @@ The auction is an emotional environment. The auctioneer is trained to create a
 sense of urgency and competition. To avoid falling into this trap:
 
 • Have your maximum bid defined and don't change it during the auction
-• Remember: there will always be another property
+• Remember: there will be other properties for sale, in other auctions
 • Take a deep breath before making a bid
 
 
@@ -952,7 +952,7 @@ Considering, as an illustrative assumption, an annual return of 35%:
 ╚══════════╩════════════════════════════════╝
 
 
-16.3 Warren Buffett's Example (20% a.a.) vs. Auction (35% a.a.)
+16.3 Compound Growth: Buffett's Example (Berkshire data) and an Illustrative 35% per Year Assumption
 
 Warren Buffett, one of the best-known investors in the world, achieved, at Berkshire Hathaway, a compound annual return of 19.8% between 1965 and 2023, according to the company's own data, with earnings reinvested.
 
@@ -1412,7 +1412,7 @@ Large-circulation newspapers publish auction notices in their classified section
 
 Artificial intelligence can help:
 
-• Analyze thousands of notices quickly
+• Follow notices regularly
 • Identify opportunities with high profit potential
 • Predict property market value
 • Evaluate legal and occupancy risks
@@ -1820,7 +1820,7 @@ AL: JUCEAL, juceal.al.gov.br/servicos/leiloeiros
 
 ES: JUCEES, www.jucees.es.gov.br/servicos/leiloeiros/
 
-SP: JUCESP, address to be confirmed before publication
+SP: JUCESP, through the auctioneers section of the official São Paulo state government website
 Other states: search for "Junta Comercial do [state] leiloeiros" on the official state government website.
 
 How to check whether an auctioneer is official:
